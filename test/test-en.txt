@@ -1,0 +1,1472 @@
+####################################################################################
+
+The test data is from the original verses of the Bible in Basic English:
+
+- Galatians
+- Colossians
+- Philemon
+- Philippians
+- Hebrews
+- Titus
+- 1 Thessalonians
+- 2 Thessalonians
+- 1 Timothy
+- 2 Timothy
+- 1 Peter
+- 2 Peter
+- 1 John
+- 2 John
+
+
+###################################################################################
+
+
+#####    Galatians    #####
+
+Gal.1:1 Paul, an Apostle (not from men, and not through man, but through Jesus Christ, and God the Father, who made him come back from the dead),
+Gal.1:2 And all the brothers who are with me, to the churches of Galatia:
+Gal.1:3 Grace to you and peace from God the Father and our Lord Jesus Christ,
+Gal.1:4 Who gave himself for our sins, so that he might make us free from this present evil world, after the purpose of our God and Father:
+Gal.1:5 To whom be the glory for ever and ever. So be it.
+Gal.1:6 I am surprised that you are being so quickly turned away from him whose word came to you in the grace of Christ, to good news of a different sort;
+Gal.1:7 Which is not another sort: only there are some who give you trouble, desiring to make changes in the good news of Christ.
+Gal.1:8 But even if we, or an angel from heaven, were to be a preacher to you of good news other than that which we have given you, let there be a curse on him.
+Gal.1:9 As we have said before, so say I now again, If any man is a preacher to you of any good news other than that which has been given to you, let there be a curse on him.
+Gal.1:10 Am I now using arguments to men, or God? or is it my desire to give men pleasure? if I was still pleasing men, I would not be a servant of Christ.
+Gal.1:11 Because I say to you, my brothers, that the good news of which I was the preacher is not man's.
+Gal.1:12 For I did not get it from man, and I was not given teaching in it, but it came to me through revelation of Jesus Christ.
+Gal.1:13 For news has come to you of my way of life in the past in the Jews' religion, how I was cruel without measure to the church of God, and did great damage to it:
+Gal.1:14 And I went farther in the Jews' religion than a number of my generation among my countrymen, having a more burning interest in the beliefs handed down from my fathers.
+Gal.1:15 But when it was the good pleasure of God, by whom I was marked out even from my mother's body, through his grace,
+Gal.1:16 To give the revelation of his Son in me, so that I might give the news of him to the Gentiles; then I did not take the opinion of flesh and blood,
+Gal.1:17 And I went not up to Jerusalem to those who were Apostles before me; but I went away into Arabia, and again I came back to Damascus.
+Gal.1:18 Then after three years I went up to Jerusalem to see Cephas, and was there with him fifteen days.
+Gal.1:19 But of the other Apostles I saw only James, the Lord's brother.
+Gal.1:20 Now God is witness that the things which I am writing to you are true.
+Gal.1:21 Then I came to the parts of Syria and Cilicia.
+Gal.1:22 And the churches of Judaea which were in Christ still had no knowledge of my face or person:
+Gal.1:23 Only it came to their ears that he who at one time was cruel to us is now preaching the faith which before had been attacked by him;
+Gal.1:24 And they gave glory to God in me.
+
+Gal.2:1 Then after the space of fourteen years I went up again to Jerusalem with Barnabas, taking Titus with me.
+Gal.2:2 And I went up by revelation; and I put before them the good news which I was preaching among the Gentiles, but privately before those who were of good name, so that the work which I was or had been doing might not be without effect.
+Gal.2:3 But not even Titus who was with me, being a Greek, was made to undergo circumcision:
+Gal.2:4 And that because of the false brothers let in secretly, who came searching out our free condition which we have in Christ Jesus, so that they might make servants of us;
+Gal.2:5 To whom we gave way not even for an hour; so that the true words of the good news might still be with you.
+Gal.2:6 But from those who seemed to be important (whatever they were has no weight with me: God does not take man's person into account): those who seemed to be important gave nothing new to me;
+Gal.2:7 But, quite the opposite, when they saw that I had been made responsible for preaching the good news to those without circumcision, even as Peter had been for those of the circumcision
+Gal.2:8 (Because he who was working in Peter as the Apostle of the circumcision was working no less in me among the Gentiles);
+Gal.2:9 When they saw the grace which was given to me, James and Cephas and John, who had the name of being pillars, gave to me and Barnabas their right hands as friends so that we might go to the Gentiles, and they to the circumcision;
+Gal.2:10 Only it was their desire that we would give thought to the poor; which very thing I had much in mind to do.
+Gal.2:11 But when Cephas came to Antioch, I made a protest against him to his face, because he was clearly in the wrong.
+Gal.2:12 For before certain men came from James, he did take food with the Gentiles: but when they came, he went back and made himself separate, fearing those who were of the circumcision.
+Gal.2:13 And the rest of the Jews went after him, so that even Barnabas was overcome by their false ways.
+Gal.2:14 But when I saw that they were not living uprightly in agreement with the true words of the good news, I said to Cephas before them all, If you, being a Jew, are living like the Gentiles, and not like the Jews, how will you make the Gentiles do the same as the Jews?
+Gal.2:15 We being Jews by birth, and not sinners of the Gentiles,
+Gal.2:16 Being conscious that a man does not get righteousness by the works of the law, but through faith in Jesus Christ, we had faith in Christ Jesus, so that we might get righteousness by faith in Christ, and not by the works of the law: because by the works of the law will no flesh get righteousness.
+Gal.2:17 But if, while we were desiring to get righteousness through Christ, we ourselves were seen to be sinners, is Christ a servant of sin? In no way!
+Gal.2:18 For if I put up again those things which I gave to destruction, I am seen to be a wrongdoer.
+Gal.2:19 For I, through the law, have become dead to the law, so that I might be living to God.
+Gal.2:20 I have been put to death on the cross with Christ; still I am living; no longer I, but Christ is living in me; and that life which I now am living in the flesh I am living by faith, the faith of the Son of God, who in love for me, gave himself up for me.
+Gal.2:21 I do not make the grace of God of no effect: because if righteousness is through the law, then Christ was put to death for nothing.
+
+Gal.3:1 O foolish Galatians, by what strange powers have you been tricked, to whom it was made clear that Jesus Christ was put to death on the cross?
+Gal.3:2 Give me an answer to this one question, Did the Spirit come to you through the works of the law, or by the hearing of faith?
+Gal.3:3 Are you so foolish? having made a start in the Spirit, will you now be made complete in the flesh?
+Gal.3:4 Did you undergo such a number of things to no purpose? if it is in fact to no purpose.
+Gal.3:5 He who gives you the Spirit, and does works of power among you, is it by the works of law, or by the hearing of faith?
+Gal.3:6 Even as Abraham had faith in God, and it was put to his account as righteousness.
+Gal.3:7 Be certain, then, that those who are of faith, the same are sons of Abraham.
+Gal.3:8 And the holy Writings, seeing before the event that God would give the Gentiles righteousness by faith, gave the good news before to Abraham, saying, In you will all the nations have a blessing.
+Gal.3:9 So then those who are of faith have a part in the blessing of Abraham who was full of faith.
+Gal.3:10 For all who are of the works of the law are under a curse: because it is said in the Writings, A curse is on everyone who does not keep on doing all the things which are ordered in the book of the law.
+Gal.3:11 Now that no man gets righteousness by the law in the eyes of God, is clear; because, The upright will be living by faith.
+Gal.3:12 And the law is not of faith; but, He who does them will have life by them.
+Gal.3:13 Christ has made us free from the curse of the law, having become a curse for us: because it is said in the Writings, A curse on everyone who is put to death by hanging on a tree:
+Gal.3:14 So that on the Gentiles might come the blessing of Abraham in Christ Jesus; in order that we through faith might have the Spirit which God had undertaken to give.
+Gal.3:15 Brothers, as men would say, even a man's agreement, when it has been made certain, may not be put on one side, or have additions made to it.
+Gal.3:16 Now to Abraham were the undertakings given, and to his seed. He says not, And to seeds, as of a great number; but as of one, he says, And to your seed, which is Christ.
+Gal.3:17 Now this I say: The law, which came four hundred and thirty years after, does not put an end to the agreement made before by God, so as to make the undertaking without effect.
+Gal.3:18 Because if the heritage is by the law, it is no longer dependent on the word of God; but God gave it to Abraham by his word.
+Gal.3:19 What then is the law? It was an addition made because of sin, till the coming of the seed to whom the undertaking had been given; and it was ordered through angels by the hand of a go-between.
+Gal.3:20 Now a go-between is not a go-between of one; but God is one.
+Gal.3:21 Is the law then against the words of God? in no way; because if there had been a law which was able to give life, truly righteousness would have been by the law.
+Gal.3:22 However, the holy Writings have put all things under sin, so that that for which God gave the undertaking, based on faith in Jesus Christ, might be given to those who have such faith.
+Gal.3:23 But before faith came, we were kept in prison under the law, waiting for the revelation of the faith which was to come.
+Gal.3:24 So the law has been a servant to take us to Christ, so that we might have righteousness by faith.
+Gal.3:25 But now that faith is come, we are no longer under a servant.
+Gal.3:26 Because you are all sons of God through faith in Christ Jesus.
+Gal.3:27 For all those of you who were given baptism into Christ did put on Christ.
+Gal.3:28 There is no Jew or Greek, servant or free, male or female: because you are all one in Jesus Christ.
+Gal.3:29 And if you are Christ's, then you are Abraham's seed, and yours is the heritage by the right of God's undertaking given to Abraham.
+
+Gal.4:1 But I say that as long as the son is a child, he is in no way different from a servant, though he is lord of all;
+Gal.4:2 But is under keepers and managers till the time fixed by the father.
+Gal.4:3 So we, when we were young, were kept under the first rules of the world;
+Gal.4:4 But when the time had come, God sent out his Son, made of a woman, made under the law,
+Gal.4:5 That he might make them free who were under the law, and that we might be given the place of sons.
+Gal.4:6 And because you are sons, God has sent out the Spirit of his Son into our hearts, saying, Abba, Father.
+Gal.4:7 So that you are no longer a servant, but a son; and if a son, then the heritage of God is yours.
+Gal.4:8 But at that time, having no knowledge of God, you were servants to those who by right are no gods:
+Gal.4:9 But now that you have come to have knowledge of God, or more truly, God has knowledge of you, how is it that you go back again to the poor and feeble first things, desiring to be servants to them again?
+Gal.4:10 You keep days, and months, and fixed times, and years.
+Gal.4:11 I am in fear of you, that I may have been working for you to no purpose.
+Gal.4:12 My desire for you, brothers, is that you may be as I am, because I am as you are. You have done me no wrong;
+Gal.4:13 But you have knowledge that with a feeble body I was preaching the good news to you the first time;
+Gal.4:14 And you did not have a poor opinion of me because of the trouble in my flesh, or put shame on it; but you took me to your hearts as an angel of God, even as Christ Jesus.
+Gal.4:15 Where then is that happy condition of yours? because I give you witness, that, if possible, you would have taken out your eyes and given them to me.
+Gal.4:16 So then am I no longer your friend, because I give you true words?
+Gal.4:17 Their interest in you is not good; but their desire is that you may be shut out, so that you may go after them.
+Gal.4:18 But it is good to have an interest in a good cause at all times, and not only when I am present with you.
+Gal.4:19 My children, of whom I am again in birth-pains till Christ is formed in you,
+Gal.4:20 Truly my desire is to be present with you now, using a changed voice; for I am troubled about you.
+Gal.4:21 Say, you whose desire it is to be under the law, do you not give ear to the law?
+Gal.4:22 Because it is in the Writings, that Abraham had two sons, one by the servant-woman, and one by the free woman.
+Gal.4:23 Now the son by the servant-woman has his birth after the flesh; but the son by the free woman has his birth through the undertaking of God.
+Gal.4:24 Which things have a secret sense; because these women are the two agreements; one from the mountain of Sinai, giving birth to servants, which is Hagar.
+Gal.4:25 Now this Hagar is the mountain Sinai in Arabia, and is the image of the Jerusalem which now is: which is a servant with her children.
+Gal.4:26 But the Jerusalem on high is free, which is our mother.
+Gal.4:27 For it is in the Writings, You who have never given birth, be glad; give cries of joy, you who have had no birth-pains; for the children of her who has been given up by her husband are more than those of the woman who has a husband.
+Gal.4:28 Now we, brothers, as Isaac was, are the children of the undertaking of God.
+Gal.4:29 But as in those days he who had birth after the flesh was cruel to him who had birth after the Spirit, even so it is now.
+Gal.4:30 What then do the Writings say? Send away the servant-woman and her son; for the son of the servant-woman will not have a part in the heritage with the son of the free woman.
+Gal.4:31 So, brothers, we are not children of the servant-woman, but of the free woman.
+
+Gal.5:1 Christ has truly made us free: then keep your free condition and let no man put a yoke on you again.
+Gal.5:2 See, I Paul say to you, that if you undergo circumcision, Christ will be of no use to you.
+Gal.5:3 Yes, I give witness again to every man who undergoes circumcision, that he will have to keep all the law.
+Gal.5:4 You are cut off from Christ, you who would have righteousness by the law; you are turned away from grace.
+Gal.5:5 For we through the Spirit by faith are waiting for the hope of righteousness.
+Gal.5:6 Because in Christ Jesus, having circumcision or not having circumcision are equally of no profit; but only faith working through love.
+Gal.5:7 You were going on well; who was the cause of your not giving ear to what is true?
+Gal.5:8 This ready belief did not come from him who had made you his.
+Gal.5:9 A little leaven makes a change in all the mass.
+Gal.5:10 I am certain about you in the Lord, that you will be of no other mind; but he who is troubling you will have his punishment, whoever he is.
+Gal.5:11 But I, brothers, if I am still preaching circumcision, why am I still attacked? then has the shame of the cross been taken away.
+Gal.5:12 My desire is that they who give you trouble might even be cut off themselves.
+Gal.5:13 Because you, brothers, were marked out to be free; only do not make use of your free condition to give the flesh its chance, but through love be servants one to another.
+Gal.5:14 For all the law is made complete in one word, even in this, Have love for your neighbour as for yourself.
+Gal.5:15 But if you are given to fighting with one another, take care that you are not the cause of destruction one to another.
+Gal.5:16 But I say, Go on in the Spirit, and you will not come under the rule of the evil desires of the flesh.
+Gal.5:17 For the flesh has desires against the Spirit, and the Spirit against the flesh; because these are opposite the one to the other; so that you may not do the things which you have a mind to do.
+Gal.5:18 But if you are guided by the Spirit, you are not under the law.
+Gal.5:19 Now the works of the flesh are clear, which are these: evil desire, unclean things, wrong use of the senses,
+Gal.5:20 Worship of images, use of strange powers, hates, fighting, desire for what another has, angry feelings, attempts to get the better of others, divisions, false teachings,
+Gal.5:21 Envy, uncontrolled drinking and feasting, and such things: of which I give you word clearly, even as I did in the past, that they who do such things will have no part in the kingdom of God.
+Gal.5:22 But the fruit of the Spirit is love, joy, peace, a quiet mind, kind acts, well-doing, faith,
+Gal.5:23 Gentle behaviour, control over desires: against such there is no law.
+Gal.5:24 And those who are Christ's have put to death on the cross the flesh with its passions and its evil desires.
+Gal.5:25 If we are living by the Spirit, by the Spirit let us be guided.
+Gal.5:26 Let us not be full of self-glory, making one another angry, having envy of one another.
+
+Gal.6:1 Brothers, if a man is taken in any wrongdoing, you who are of the Spirit will put such a one right in a spirit of love; keeping watch on yourself, for fear that you yourself may be tested.
+Gal.6:2 Take on yourselves one another's troubles, and so keep the law of Christ.
+Gal.6:3 For if a man has an idea that he is something when he is nothing, he is tricked by himself.
+Gal.6:4 But let every man make test of his work, and then will his cause for glory be in himself only, and not in his neighbour.
+Gal.6:5 Because every man is responsible for his part of the work.
+Gal.6:6 But let him who gets teaching in the word give a part in all good things to his teacher.
+Gal.6:7 Be not tricked; God is not made sport of: for whatever seed a man puts in, that will he get back as grain.
+Gal.6:8 Because he who puts in the seed of the flesh will of the flesh get the reward of death; but he who puts in the seed of the Spirit will of the Spirit get the reward of eternal life.
+Gal.6:9 And let us not get tired of well-doing; for at the right time we will get in the grain, if we do not give way to weariness.
+Gal.6:10 So then, as we have the chance, let us do good to all men, and specially to those who are of the family of the faith.
+Gal.6:11 See the size of the handwriting which I myself have made use of in writing to you.
+Gal.6:12 Those who have the desire to seem important in the flesh, put force on you to undergo circumcision; only that they may not be attacked because of the cross of Christ.
+Gal.6:13 Because even those who undergo circumcision do not themselves keep the law; but they would have you undergo circumcision, so that they may have glory in your flesh.
+Gal.6:14 But far be it from me to have glory in anything, but only in the cross of our Lord Jesus Christ, through which this world has come to an end on the cross for me, and I for it.
+Gal.6:15 For having circumcision is nothing, and not having circumcision is nothing, but only a new order of existence.
+Gal.6:16 And on all who are guided by this rule be peace and mercy, and on the Israel of God.
+Gal.6:17 From this time on let no man be a trouble to me; because my body is marked with the marks of Jesus.
+Gal.6:18 The grace of our Lord Jesus Christ be with your spirit, brothers. So be it.
+
+
+
+#####    Colossians    #####
+
+Col.1:1 Paul, an Apostle of Jesus Christ, by the purpose of God, and Timothy our brother,
+Col.1:2 To the saints and true brothers in Christ at Colossae: Grace to you and peace from God our Father.
+Col.1:3 We give praise to God the Father of our Lord Jesus Christ, making prayer for you at all times,
+Col.1:4 After hearing of your faith in Christ Jesus, and of the love which you have for all the saints,
+Col.1:5 Through the hope which is in store for you in heaven; knowledge of which was given to you before in the true word of the good news,
+Col.1:6 Which has come to you; and which in all the world is giving fruit and increase, as it has done in you from the day when it came to your ears and you had true knowledge of the grace of God;
+Col.1:7 As it was given to you by Epaphras, our well-loved helper, who is a true servant of Christ for us,
+Col.1:8 And who, himself, made clear to us your love in the Spirit.
+Col.1:9 For this reason, we, from the day when we had word of it, keep on in prayer for you, that you may be full of the knowledge of his purpose, with all wisdom and experience of the Spirit,
+Col.1:10 Living uprightly in the approval of the Lord, giving fruit in every good work, and increasing in the knowledge of God;
+Col.1:11 Full of strength in the measure of the great power of his glory, so that you may undergo all troubles with joy;
+Col.1:12 Giving praise to the Father who has given us a part in the heritage of the saints in light;
+Col.1:13 Who has made us free from the power of evil and given us a place in the kingdom of the Son of his love;
+Col.1:14 In whom we have our salvation, the forgiveness of sins:
+Col.1:15 Who is the image of the unseen God coming into existence before all living things;
+Col.1:16 For by him all things were made, in heaven and on earth, things seen and things unseen, authorities, lords, rulers, and powers; all things were made by him and for him;
+Col.1:17 He is before all things, and in him all things have being.
+Col.1:18 And he is the head of the body, the church: the starting point of all things, the first to come again from the dead; so that in all things he might have the chief place.
+Col.1:19 For God in full measure was pleased to be in him;
+Col.1:20 Through him uniting all things with himself, having made peace through the blood of his cross; through him, I say, uniting all things which are on earth or in heaven.
+Col.1:21 And you, who in the past were cut off and at war with God in your minds through evil works, he has now made one
+Col.1:22 In the body of his flesh through death, so that you might be holy and without sin and free from all evil before him:
+Col.1:23 If you keep yourselves safely based in the faith, not moved from the hope of the good news which came to you, and which was given to every living being under heaven; of which I, Paul, was made a servant.
+Col.1:24 Now I have joy in my pain because of you, and in my flesh I undergo whatever is still needed to make the sorrows of Christ complete, for the salvation of his body, the church;
+Col.1:25 Of which I became a servant by the purpose of God which was given to me for you, to give effect to the word of God,
+Col.1:26 The secret which has been kept from all times and generations, but has now been made clear to his saints,
+Col.1:27 To whom God was pleased to give knowledge of the wealth of the glory of this secret among the Gentiles, which is Christ in you, the hope of glory:
+Col.1:28 Whom we are preaching; guiding and teaching every man in all wisdom, so that every man may be complete in Christ;
+Col.1:29 And for this purpose I am working, using all my strength by the help of his power which is working in me strongly.
+
+Col.2:1 For it is my desire to give you news of the great fight I am making for you and for those at Laodicea, and for all who have not seen my face in the flesh;
+Col.2:2 So that their hearts may be comforted, and that being joined together in love, they may come to the full wealth of the certain knowledge of the secret of God, even Christ,
+Col.2:3 In whom are all the secret stores of wisdom and knowledge.
+Col.2:4 I say this so that you may not be turned away by any deceit of words.
+Col.2:5 For though I am not present in the flesh, still I am with you in the spirit, seeing with joy your order, and your unchanging faith in Christ.
+Col.2:6 As, then, you took Christ Jesus the Lord, so go on in him,
+Col.2:7 Rooted and based together in him, strong in the faith which the teaching gave you, giving praise to God at all times.
+Col.2:8 Take care that no one takes you away by force, through man's wisdom and deceit, going after the beliefs of men and the theories of the world, and not after Christ:
+Col.2:9 For in him all the wealth of God's being has a living form,
+Col.2:10 And you are complete in him, who is the head of all rule and authority:
+Col.2:11 In whom you had a circumcision not made with hands, in the putting off of the body of the flesh, in the circumcision of Christ;
+Col.2:12 Having been put to death with him in baptism, by which you came to life again with him, through faith in the working of God, who made him come back from the dead.
+Col.2:13 And you, being dead through your sins and the evil condition of your flesh, to you, I say, he gave life together with him, and forgiveness of all our sins;
+Col.2:14 Having put an end to the handwriting of the law which was against us, taking it out of the way by nailing it to his cross;
+Col.2:15 Having made himself free from the rule of authorities and powers, he put them openly to shame, glorying over them in it.
+Col.2:16 For this reason let no man be your judge in any question of food or drink or feast days or new moons or Sabbaths:
+Col.2:17 For these are an image of the things which are to come; but the body is Christ's.
+Col.2:18 Let no man take your reward from you by consciously making little of himself and giving worship to angels; having his thoughts fixed on the things which he has seen, being foolishly lifted up in his natural mind,
+Col.2:19 And not joined to the Head, from whom all the body, being given strength and kept together through its joins and bands, has its growth with the increase of God.
+Col.2:20 If you were made free, by your death with Christ, from the rules of the world, why do you put yourselves under the authority of orders
+Col.2:21 Which say there may be no touching, tasting, or taking in your hands,
+Col.2:22 (Rules which are all to come to an end with their use) after the orders and teaching of men?
+Col.2:23 These things seem to have a sort of wisdom in self-ordered worship and making little of oneself, and being cruel to the body, not honouring it by giving it its natural use.
+
+Col.3:1 If then you have a new life with Christ, give your attention to the things of heaven, where Christ is seated at the right hand of God.
+Col.3:2 Keep your mind on the higher things, not on the things of earth.
+Col.3:3 For your life on earth is done, and you have a secret life with Christ in God.
+Col.3:4 At the coming of Christ who is our life, you will be seen with him in glory.
+Col.3:5 Then put to death your bodies which are of the earth; wrong use of the flesh, unclean things, passion, evil desires and envy, which is the worship of strange gods;
+Col.3:6 Because of which the wrath of God comes on those who go against his orders;
+Col.3:7 Among whom you were living in the past, when you did such things.
+Col.3:8 But now it is right for you to put away all these things; wrath, passion, bad feeling, curses, unclean talk;
+Col.3:9 Do not make false statements to one another; because you have put away the old man with all his doings,
+Col.3:10 And have put on the new man, which has become new in knowledge after the image of his maker;
+Col.3:11 Where there is no Greek or Jew, no one with circumcision or without circumcision, no division between nations, no servant or free man: but Christ is all and in all.
+Col.3:12 As saints of God, then, holy and dearly loved, let your behaviour be marked by pity and mercy, kind feeling, a low opinion of yourselves, gentle ways, and a power of undergoing all things;
+Col.3:13 Being gentle to one another and having forgiveness for one another, if anyone has done wrong to his brother, even as the Lord had forgiveness for you:
+Col.3:14 And more than all, have love; the only way in which you may be completely joined together.
+Col.3:15 And let the peace of Christ be ruling in your hearts, as it was the purpose of God for you to be one body; and give praise to God at all times.
+Col.3:16 Let the word of Christ be in you in all wealth of wisdom; teaching and helping one another with songs of praise and holy words, making melody to God with grace in your hearts.
+Col.3:17 And whatever you do, in word or in act, do all in the name of the Lord Jesus, giving praise to God the Father through him.
+Col.3:18 Wives, be under the authority of your husbands, as is right in the Lord.
+Col.3:19 Husbands, have love for your wives, and be not bitter against them.
+Col.3:20 Children, do the orders of your fathers and mothers in all things, for this is pleasing to the Lord.
+Col.3:21 Fathers, do not be hard on your children, so that their spirit may not be broken.
+Col.3:22 Servants, in all things do the orders of your natural masters; not only when their eyes are on you, as pleasers of men, but with all your heart, fearing the Lord:
+Col.3:23 Whatever you do, do it readily, as to the Lord and not to men;
+Col.3:24 Being certain that the Lord will give you the reward of the heritage: for you are the servants of the Lord Christ.
+Col.3:25 For the wrongdoer will have punishment for the wrong he has done, without respect for any man's position.
+
+Col.4:1 Masters, give your servants what is right and equal, conscious that you have a Master in heaven.
+Col.4:2 Give yourselves to prayer at all times, keeping watch with praise;
+Col.4:3 And making prayer for us, that God may give us an open door for the preaching of the word, the secret of Christ, for which I am now in chains;
+Col.4:4 So that I may make it clear, as it is right for me to do.
+Col.4:5 Be wise in your behaviour to those who are outside, making good use of the time.
+Col.4:6 Let your talk be with grace, mixed with salt, so that you may be able to give an answer to everyone.
+Col.4:7 Tychicus will give you news of all my business: he is a dear brother and true servant and helper in the word;
+Col.4:8 And I have sent him to you for this very purpose, so that you may have news of how we are, and so that he may give your hearts comfort;
+Col.4:9 And with him I have sent Onesimus, the true and well-loved brother, who is one of you. They will give you word of everything which is taking place here.
+Col.4:10 Aristarchus, my brother-prisoner, sends his love to you, and Mark, a relation of Barnabas (about whom you have been given orders: if he comes to you, be kind to him),
+Col.4:11 And Jesus, whose other name is Justus; these are of the circumcision: they are my only brother-workers for the kingdom of God, who have been a comfort to me.
+Col.4:12 Epaphras, who is one of you, a servant of Christ Jesus, sends you his love, ever taking thought for you in his prayers, that you may be complete and fully certain of all the purpose of God.
+Col.4:13 For I give witness of him that he has undergone much trouble for you and for those in Laodicea and in Hierapolis.
+Col.4:14 Luke, our well-loved medical friend, and Demas, send you their love.
+Col.4:15 Give my love to the brothers in Laodicea and to Nymphas and the church in their house.
+Col.4:16 And when this letter has been made public among you, let the same be done in the church of Laodicea; and see that you have the letter from Laodicea.
+Col.4:17 Say to Archippus, See that you do the work which the Lord has given you to do.
+Col.4:18 I, Paul, give you this word of love in my handwriting. Keep in memory that I am a prisoner. Grace be with you.
+
+
+
+#####    Philemon    #####
+
+Phlm.1:1 Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon, our dear helper in the faith,
+Phlm.1:2 And to Apphia, our sister, and to Archippus, our brother in God's army, and to the church in your house:
+Phlm.1:3 Grace to you and peace from God our Father and the Lord Jesus Christ.
+Phlm.1:4 I give praise to God at all times and make prayer for you,
+Phlm.1:5 Hearing of the love and the faith which you have to the Lord Jesus and to all the saints;
+Phlm.1:6 That the faith which you have in common with them may be working with power, in the knowledge of every good thing in you, for Christ.
+Phlm.1:7 For I had great joy and comfort in your love, because the hearts of the saints have been made strong again through you, brother.
+Phlm.1:8 And so, though I might, in the name of Christ, give you orders to do what is right,
+Phlm.1:9 Still, because of love, in place of an order, I make a request to you, I, Paul, an old man and now a prisoner of Christ Jesus:
+Phlm.1:10 My request is for my child Onesimus, the child of my chains,
+Phlm.1:11 Who in the past was of no profit to you, but now is of profit to you and to me:
+Phlm.1:12 Whom I have sent back to you, him who is my very heart:
+Phlm.1:13 Though my desire was to keep him with me, to be my servant in the chains of the good news, in your place:
+Phlm.1:14 But without your approval I would do nothing; so that your good works might not be forced, but done freely from your heart.
+Phlm.1:15 For it is possible that for this reason he was parted from you for a time, so that you might have him for ever;
+Phlm.1:16 No longer as a servant, but more than a servant, a brother, very dear to me specially, but much more to you, in the flesh as well as in the Lord.
+Phlm.1:17 If then you take me to be your friend and brother, take him in as myself.
+Phlm.1:18 If he has done you any wrong or is in debt to you for anything, put it to my account.
+Phlm.1:19 I, Paul, writing this myself, say, I will make payment to you: and I do not say to you that you are in debt to me even for your life.
+Phlm.1:20 So brother, let me have joy of you in the Lord: give new life to my heart in Christ.
+Phlm.1:21 Being certain that you will do my desire, I am writing to you, in the knowledge that you will do even more than I say.
+Phlm.1:22 And make a room ready for me; for I am hoping that through your prayers I will be given to you.
+Phlm.1:23 Epaphras, my brother-prisoner in Christ Jesus, sends you his love;
+Phlm.1:24 And so do Mark, Aristarchus, Demas, and Luke, my brother-workers.
+Phlm.1:25 The grace of our Lord Jesus Christ be with your spirit. So be it.
+
+
+#####    Philippians    #####
+
+Phil.1:1 Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus at Philippi, with the Bishops and Deacons of the church:
+Phil.1:2 Grace to you and peace from God our Father and the Lord Jesus Christ.
+Phil.1:3 I give praise to my God at every memory of you,
+Phil.1:4 And in all my prayers for you all, making my request with joy,
+Phil.1:5 Because of your help in giving the good news from the first day till now;
+Phil.1:6 For I am certain of this very thing, that he by whom the good work was started in you will make it complete till the day of Jesus Christ:
+Phil.1:7 So it is right for me to take thought for you all in this way, because I have you in my heart; for in my chains, and in my arguments before the judges in support of the good news, making clear that it is true, you all have your part with me in grace.
+Phil.1:8 For God is my witness, how my love goes out to you all in the loving mercies of Christ Jesus.
+Phil.1:9 And my prayer is that you may be increased more and more in knowledge and experience;
+Phil.1:10 So that you may give your approval to the best things; that you may be true and without wrongdoing till the day of Christ;
+Phil.1:11 Being full of the fruits of righteousness, which are through Jesus Christ, to the glory and praise of God.
+Phil.1:12 Now it is my purpose to make clear to you, brothers, that the cause of the good news has been helped by my experiences;
+Phil.1:13 So that it became clear through all the Praetorium, and to all the rest, that I was a prisoner on account of Christ;
+Phil.1:14 And most of the brothers in the Lord, taking heart because of my chains, are all the stronger to give the word of God without fear.
+Phil.1:15 Though some are preaching Christ out of envy and competition, others do it out of a good heart:
+Phil.1:16 These do it from love, conscious that I am responsible for the cause of the good news:
+Phil.1:17 But those are preaching Christ in a spirit of competition, not from their hearts, but with the purpose of giving me pain in my prison.
+Phil.1:18 What then? only that in every way, falsely or truly, the preaching of Christ goes on; and in this I am glad, and will be glad.
+Phil.1:19 For I am conscious that this will be for my salvation, through your prayer and the giving out of the stored wealth of the Spirit of Jesus Christ,
+Phil.1:20 In the measure of my strong hope and belief that in nothing will I be put to shame, but that without fear, as at all times, so now will Christ have glory in my body, by life or by death.
+Phil.1:21 For to me life is Christ and death is profit.
+Phil.1:22 But if I go on living in the flesh--if this is the fruit of my work--then I do not see what decision to make.
+Phil.1:23 I am in a hard position between the two, having a desire to go away and be with Christ, which is very much better:
+Phil.1:24 Still, to go on in the flesh is more necessary because of you.
+Phil.1:25 And being certain of this, I am conscious that I will go on, yes, and go on with you all, for your growth and joy in the faith;
+Phil.1:26 So that your pride in me may be increased in Christ Jesus through my being present with you again.
+Phil.1:27 Only let your behaviour do credit to the good news of Christ, so that if I come and see you or if I am away from you, I may have news of you that you are strong in one spirit, working together with one soul for the faith of the good news;
+Phil.1:28 Having no fear of those who are against you; which is a clear sign of their destruction, but of your salvation, and that from God;
+Phil.1:29 Because to you it has been given in the cause of Christ not only to have faith in him, but to undergo pain on his account:
+Phil.1:30 Fighting the same fight which you saw in me, and now have word of in me.
+
+Phil.2:1 If then there is any comfort in Christ, any help given by love, any uniting of hearts in the Spirit, any loving mercies and pity,
+Phil.2:2 Make my joy complete by being of the same mind, having the same love, being in harmony and of one mind;
+Phil.2:3 Doing nothing through envy or through pride, but with low thoughts of self let everyone take others to be better than himself;
+Phil.2:4 Not looking everyone to his private good, but keeping in mind the things of others.
+Phil.2:5 Let this mind be in you which was in Christ Jesus,
+Phil.2:6 To whom, though himself in the form of God, it did not seem that to take for oneself was to be like God;
+Phil.2:7 But he made himself as nothing, taking the form of a servant, being made like men;
+Phil.2:8 And being seen in form as a man, he took the lowest place, and let himself be put to death, even the death of the cross.
+Phil.2:9 For this reason God has put him in the highest place and has given to him the name which is greater than every name;
+Phil.2:10 So that at the name of Jesus every knee may be bent, of those in heaven and those on earth and those in the underworld,
+Phil.2:11 And that every tongue may give witness that Jesus Christ is Lord, to the glory of God the Father.
+Phil.2:12 So then, my loved ones, as you have at all times done what I say, not only when I am present, but now much more when I am not with you, give yourselves to working out your salvation with fear in your hearts;
+Phil.2:13 For it is God who is the cause of your desires and of your acts, for his good pleasure.
+Phil.2:14 Do all things without protests and arguments;
+Phil.2:15 So that you may be holy and gentle, children of God without sin in a twisted and foolish generation, among whom you are seen as lights in the world,
+Phil.2:16 Offering the word of life; so that I may have glory in you in the day of Christ, because my running was not for nothing and my work was not without effect.
+Phil.2:17 And even if I am offered like a drink offering, giving myself for the cause and work of your faith, I am glad and have joy with you all:
+Phil.2:18 And in the same way do you be glad and have a part in my joy.
+Phil.2:19 But I am hoping in the Lord Jesus to send Timothy to you before long, so that I may be comforted when I have news of you.
+Phil.2:20 For I have no man of like mind who will truly have care for you.
+Phil.2:21 For they all go after what is theirs, not after the things of Christ.
+Phil.2:22 But his quality is clear to you; how, as a child is to its father, so he was a help to me in the work of the good news.
+Phil.2:23 Him then I am hoping to send as quickly as possible, when I am able to see how things will go for me:
+Phil.2:24 But I have faith in the Lord that I myself will come before long.
+Phil.2:25 But it seemed to me necessary to send to you Epaphroditus, my brother, who has taken part with me in the work and in the fight, and your servant, sent by you for help in my need;
+Phil.2:26 Because his heart was with you all, and he was greatly troubled because you had news that he was ill:
+Phil.2:27 For in fact he was ill almost to death: but God had mercy on him; and not only on him but on me, so that I might not have grief on grief.
+Phil.2:28 I have sent him, then, the more gladly, so that when you see him again, you may be happy and I may have the less sorrow.
+Phil.2:29 So take him to your hearts in the Lord with all joy, and give honour to such as he is:
+Phil.2:30 Because for the work of Christ he was near to death, putting his life in danger to make your care for me complete.
+
+Phil.3:1 For the rest, my brothers, be glad in the Lord. Writing the same things to you is no trouble to me, and for you it is safe.
+Phil.3:2 Be on the watch against dogs, against the workers of evil, against those of the circumcision:
+Phil.3:3 For we are the circumcision, who give worship to God and have glory in Jesus Christ, and have no faith in the flesh:
+Phil.3:4 Even though I myself might have faith in the flesh: if any other man has reason to have faith in the flesh, I have more:
+Phil.3:5 Being given circumcision on the eighth day, of the nation of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; in relation to the law, a Pharisee:
+Phil.3:6 In bitter hate I was cruel to the church; I kept all the righteousness of the law to the last detail.
+Phil.3:7 But those things which were profit to me, I gave up for Christ.
+Phil.3:8 Yes truly, and I am ready to give up all things for the knowledge of Christ Jesus my Lord, which is more than all: for whom I have undergone the loss of all things, and to me they are less than nothing, so that I may have Christ as my reward,
+Phil.3:9 And be seen in him, not having my righteousness which is of the law, but that which is through faith in Christ, the righteousness which is of God by faith:
+Phil.3:10 That I may have knowledge of him, and of the power of his coming back from the dead, and a part with him in his pains, becoming like him in his death;
+Phil.3:11 If in any way I may have the reward of life from the dead.
+Phil.3:12 Not as if I had even now got the reward or been made complete: but I go on in the hope that I may come to the knowledge of that for which I was made the servant of Christ Jesus.
+Phil.3:13 Brothers, it is clear to me that I have not come to that knowledge; but one thing I do, letting go those things which are past, and stretching out to the things which are before,
+Phil.3:14 I go forward to the mark, even the reward of the high purpose of God in Christ Jesus.
+Phil.3:15 Then let us all, who have come to full growth, be of this mind: and if in anything you are of a different mind, even this will God make clear to you:
+Phil.3:16 Only, as far as we have got, let us be guided by the same rule.
+Phil.3:17 Brothers, take me as your example, and take note of those who are walking after the example we have given.
+Phil.3:18 For there are those, of whom I have given you word before, and do so now with sorrow, who are haters of the cross of Christ;
+Phil.3:19 Whose end is destruction, whose god is the stomach, and whose glory is in their shame, whose minds are fixed on the things of the earth.
+Phil.3:20 For our country is in heaven; from where the Saviour for whom we are waiting will come, even the Lord Jesus Christ:
+Phil.3:21 By whom this poor body of ours will be changed into the image of the body of his glory, in the measure of the working by which he is able to put all things under himself.
+
+Phil.4:1 So my brothers, well loved and very dear to me, my joy and crown, be strong in the Lord, my loved ones.
+Phil.4:2 I make request to Euodias and Syntyche to be of the same mind in the Lord.
+Phil.4:3 And I make request to you, true helper in my work, to see to the needs of those women who took part with me in the good news, with Clement and the rest of my brother-workers whose names are in the book of life.
+Phil.4:4 Be glad in the Lord at all times: again I say, Be glad.
+Phil.4:5 Let your gentle behaviour be clear to all men. The Lord is near.
+Phil.4:6 Have no cares; but in everything with prayer and praise put your requests before God.
+Phil.4:7 And the peace of God, which is deeper than all knowledge, will keep your hearts and minds in Christ Jesus.
+Phil.4:8 For the rest, my brothers, whatever things are true, whatever things have honour, whatever things are upright, whatever things are holy, whatever things are beautiful, whatever things are of value, if there is any virtue and if there is any praise, give thought to these things.
+Phil.4:9 The things which came to you by my teaching and preaching, and which you saw in me, these things do, and the God of peace will be with you.
+Phil.4:10 But I am very glad in the Lord that your care for me has come to life again; though you did in fact take thought for me, but you were not able to give effect to it.
+Phil.4:11 But I will not say anything about my needs, for I am able, wherever I am, to be dependent on myself.
+Phil.4:12 It is the same to me if I am looked down on or honoured; everywhere and in all things I have the secret of how to be full and how to go without food; how to have wealth and how to be in need.
+Phil.4:13 I am able to do all things through him who gives me strength.
+Phil.4:14 But you did well to have care for me in my need.
+Phil.4:15 And you have knowledge, Philippians, that when the good news first came to you, when I went away from Macedonia, no church took part with me in the business of giving to the saints, but you only;
+Phil.4:16 Because even in Thessalonica you sent once and again to me in my need.
+Phil.4:17 Not that I am looking for an offering, but for fruit which may be put to your credit.
+Phil.4:18 I have all things and more than enough: I am made full, having had from Epaphroditus the things which came from you, a perfume of a sweet smell, an offering well pleasing to God.
+Phil.4:19 And my God will give you all you have need of from the wealth of his glory in Christ Jesus.
+Phil.4:20 Now to God our Father be glory for ever and ever. So be it.
+Phil.4:21 Give words of love to every saint in Christ Jesus. The brothers who are with me send you their love.
+Phil.4:22 All the saints send their love to you, specially those who are of Caesar's house.
+Phil.4:23 The grace of the Lord Jesus Christ be with your spirit.
+
+
+
+#####    Hebrews    #####
+
+Heb.1:1 In times past the word of God came to our fathers through the prophets, in different parts and in different ways;
+Heb.1:2 But now, at the end of these days, it has come to us through his Son, to whom he has given all things for a heritage, and through whom he made the order of the generations;
+Heb.1:3 Who, being the outshining of his glory, the true image of his substance, supporting all things by the word of his power, having given himself as an offering making clean from sins, took his seat at the right hand of God in heaven;
+Heb.1:4 Having become by so much better than the angels, as the name which is his heritage is more noble than theirs.
+Heb.1:5 To which of the angels did God say at any time, You are my Son, this day I have given you being? or, I will be his Father, and he will be my Son?
+Heb.1:6 And again, when he is sending his only Son into the world, he says, Let all the angels of God give him worship.
+Heb.1:7 And of the angels he says, Who makes his angels winds, and his servants flames of fire:
+Heb.1:8 But of the Son he says, Your seat of power, O God, is for ever and ever; and the rod of your kingdom is a rod of righteousness.
+Heb.1:9 You have been a lover of righteousness and a hater of evil; and so God, your God, has put the oil of joy on your head more than on the heads of those who are with you.
+Heb.1:10 You, Lord, at the first did put the earth on its base, and the heavens are the works of your hands:
+Heb.1:11 They will come to their end; but you are for ever; they will become old as a robe;
+Heb.1:12 They will be rolled up like a cloth, even like a robe, and they will be changed: but you are the same and your years will have no end.
+Heb.1:13 But of which of the angels has he said at any time, Take your seat at my right hand till I put all those who are against you under your feet?
+Heb.1:14 Are they not all helping spirits, who are sent out as servants to those whose heritage will be salvation?
+
+Heb.2:1 For this reason there is the more need for us to give attention to the things which have come to our ears, for fear that by chance we might be slipping away.
+Heb.2:2 Because if the word which came through the angels was fixed, and in the past every evil act against God's orders was given its full punishment;
+Heb.2:3 What will come on us, if we do not give our minds to such a great salvation? a salvation of which our fathers first had knowledge through the words of the Lord, and which was made certain to us by those to whom his words came;
+Heb.2:4 And God was a witness with them, by signs and wonders, and by more than natural powers, and by his distribution of the Holy Spirit at his pleasure.
+Heb.2:5 For he did not make the angels rulers over the world to come, of which I am writing.
+Heb.2:6 But a certain writer has given his witness, saying, What is man, that you keep him in mind? what is the son of man, that you take him into account?
+Heb.2:7 You made him a little lower than the angels; you gave him a crown of glory and honour, and made him ruler over all the works of your hands:
+Heb.2:8 You put all things under his feet. For in making man the ruler over all things, God did not put anything outside his authority; though we do not see everything under him now.
+Heb.2:9 But we see him who was made a little lower than the angels, even Jesus, crowned with glory and honour, because he let himself be put to death so that by the grace of God he might undergo death for all men.
+Heb.2:10 Because it was right for him, for whom and through whom all things have being, in guiding his sons to glory, to make the captain of their salvation complete through pain.
+Heb.2:11 For he who makes holy and those who are made holy are all of one family; and for this reason it is no shame for him to give them the name of brothers,
+Heb.2:12 Saying, I will give the knowledge of your name to my brothers, I will make a song of praise to you before the church.
+Heb.2:13 And again he says, I will put my faith in him. And again, See, I am here, and the children which God has given to me.
+Heb.2:14 And because the children are flesh and blood, he took a body himself and became like them; so that by his death he might put an end to him who had the power of death, that is to say, the Evil One;
+Heb.2:15 And let those who all their lives were in chains because of their fear of death, go free.
+Heb.2:16 For, truly, he does not take on the life of angels, but that of the seed of Abraham.
+Heb.2:17 Because of this it was necessary for him to be made like his brothers in every way, so that he might be a high priest full of mercy and keeping faith in everything to do with God, making offerings for the sins of the people.
+Heb.2:18 For having been put to the test himself, he is able to give help to others when they are tested.
+
+Heb.3:1 For this reason, holy brothers, marked out to have a part in heaven, give thought to Jesus the representative and high priest of our faith;
+Heb.3:2 Who kept faith with God who gave him his place, even as Moses did in all his house.
+Heb.3:3 And it was right for this man to have more honour than Moses, even as the builder of a house has more honour than the house.
+Heb.3:4 For every house has a builder; but the builder of all things is God.
+Heb.3:5 And Moses certainly kept faith as a servant, in all his house, and as a witness of those things which were to be said later;
+Heb.3:6 But Christ as a son, over his house; whose house are we, if we keep our hearts fixed in the glad and certain hope till the end.
+Heb.3:7 And so, as the Holy Spirit says, Today if you let his voice come to your ears,
+Heb.3:8 Be not hard of heart, as when you made me angry, on the day of testing in the waste land,
+Heb.3:9 When your fathers put me to the test, and saw my works for forty years.
+Heb.3:10 So that I was angry with this generation, and I said, Their hearts are in error at all times, and they have no knowledge of my ways;
+Heb.3:11 And being angry I made an oath, saying, They may not come into my rest.
+Heb.3:12 My brothers, take care that there is not by chance in any one of you an evil heart without belief, turning away from the living God:
+Heb.3:13 But give comfort to one another every day as long as it is still Today; so that no one among you may be made hard by the deceit of sin:
+Heb.3:14 For if we keep the substance of the faith which we had at the start, even till the end, we have a part with Christ;
+Heb.3:15 As it is said, Today if you will let his voice come to your ears, be not hard of heart, as when you made him angry.
+Heb.3:16 Who made him angry when his voice came to them? was it not all those who came out of Egypt with Moses?
+Heb.3:17 And with whom was he angry for forty years? was it not with those who did evil, who came to their deaths in the waste land?
+Heb.3:18 And to whom did he make an oath that they might not come into his rest? was it not to those who went against his orders?
+Heb.3:19 So we see that they were not able to go in because they had no belief.
+
+Heb.4:1 Let us then, though we still have God's word that we may come into his rest, go in fear that some of you may be unable to do so.
+Heb.4:2 And, truly, the good news came to us, even as it did to them; but the hearing of the word did them no good, because they were not united in faith with the true hearers.
+Heb.4:3 For those of us who have belief come into his rest; even as he has said, As I said in my oath when I was angry, They may not come into my rest: though the works were done from the time of the making of the world.
+Heb.4:4 For in one place he has said of the seventh day, And God had rest from all his works on the seventh day;
+Heb.4:5 And in the same place he says again, They will not come into my rest.
+Heb.4:6 So that as it is clear that some have to go in, and that the first hearers of the good news were not able to go in because they went against God's orders,
+Heb.4:7 After a long time, again naming a certain day, he says in David, Today (as he had said before), Today if you will let his voice come to your ears, be not hard of heart,
+Heb.4:8 For if Joshua had given them rest, he would not have said anything about another day.
+Heb.4:9 So that there is still a Sabbath-keeping for the people of God.
+Heb.4:10 For the man who comes into his rest has had rest from his works, as God did from his.
+Heb.4:11 Because of this, let us have a strong desire to come into that rest, and let no one go after the example of those who went against God's orders.
+Heb.4:12 For the word of God is living and full of power, and is sharper than any two-edged sword, cutting through and making a division even of the soul and the spirit, the bones and the muscles, and quick to see the thoughts and purposes of the heart.
+Heb.4:13 And there is nothing made which is not completely clear to him; there is nothing covered, but all things are open to the eyes of him with whom we have to do.
+Heb.4:14 Having then a great high priest, who has made his way through the heavens, even Jesus the Son of God, let us be strong in our faith.
+Heb.4:15 For we have not a high priest who is not able to be touched by the feelings of our feeble flesh; but we have one who has been tested in all points as we ourselves are tested, but without sin.
+Heb.4:16 Then let us come near to the seat of grace without fear, so that mercy may be given to us, and we may get grace for our help in time of need.
+
+Heb.5:1 Every high priest who is taken from among men is given his position to take care of the interests of men in those things which have to do with God, so that he may make offerings for sins.
+Heb.5:2 He is able to have feeling for those who have no knowledge and for those who are wandering from the true way, because he himself is feeble;
+Heb.5:3 And being feeble, he has to make sin-offerings for himself as well as for the people.
+Heb.5:4 And no man who is not given authority by God, as Aaron was, takes this honour for himself.
+Heb.5:5 In the same way Christ did not take for himself the glory of being made a high priest, but was given it by him who said, You are my Son, this day I have given you being:
+Heb.5:6 As he says in another place, You are a priest for ever after the order of Melchizedek.
+Heb.5:7 Who in the days of his flesh, having sent up prayers and requests with strong crying and weeping to him who was able to give him salvation from death, had his prayer answered because of his fear of God.
+Heb.5:8 And though he was a Son, through the pain which he underwent, the knowledge came to him of what it was to be under God's orders;
+Heb.5:9 And when he had been made complete, he became the giver of eternal salvation to all those who are under his orders;
+Heb.5:10 Being named by God a high priest of the order of Melchizedek.
+Heb.5:11 Of whom we have much to say which it is hard to make clear, because you are slow of hearing.
+Heb.5:12 And though by this time it would be right for you to be teachers, you still have need of someone to give you teaching about the first simple rules of God's revelation; you have become like babies who have need of milk, and not of solid food.
+Heb.5:13 For everyone who takes milk is without experience of the word of righteousness: he is a child.
+Heb.5:14 But solid food is for men of full growth, even for those whose senses are trained by use to see what is good and what is evil.
+
+Heb.6:1 For this reason let us go on from the first things about Christ to full growth; not building again that on which it is based, that is, the turning of the heart from dead works, and faith in God,
+Heb.6:2 The teaching of baptisms, and of the putting on of hands, and of the future life of the dead, and of the judging on the last day.
+Heb.6:3 Now we will do this, if God lets us.
+Heb.6:4 As for those who at one time saw the light, tasting the good things from heaven, and having their part in the Holy Spirit,
+Heb.6:5 With knowledge of the good word of God, and of the powers of the coming time,
+Heb.6:6 And then let themselves be turned away, it is not possible for their hearts to be made new a second time; because they themselves put the Son of God on the cross again, openly shaming him.
+Heb.6:7 For a land, drinking in the frequent rain and producing good plants for those for whom it is worked, has a blessing from God:
+Heb.6:8 But if it sends up thorns and evil plants, it is of no use and is ready to be cursed; its only end is to be burned.
+Heb.6:9 But, my loved ones, though we say this, we are certain that you have better things in you, things which go with salvation;
+Heb.6:10 For God is true, and will not put away from him the memory of your work and of your love for his name, in the help which you gave and still give to the saints.
+Heb.6:11 And it is our desire that you may all keep the same high purpose in certain hope to the end:
+Heb.6:12 So that you may not be slow in heart, but may take as your example those to whom God has given their heritage, because of their faith and their long waiting.
+Heb.6:13 For when God made his oath to Abraham, because there was no greater oath, he made it by himself,
+Heb.6:14 Saying, Be certain that I will give you my blessing, and make your numbers very great.
+Heb.6:15 And so, when he had been waiting calmly for a long time, God's word to him was put into effect.
+Heb.6:16 For men at all times make their oaths by what is greater; and any argument is ended by the decision of the oath.
+Heb.6:17 So that when it was God's desire to make it specially clear to those who by his word were to have the heritage, that his purpose was fixed, he made it more certain with an oath;
+Heb.6:18 So that we, who have gone in flight from danger to the hope which has been put before us, may have a strong comfort in two unchanging things, in which it is not possible for God to be false;
+Heb.6:19 And this hope is like a strong band for our souls, fixed and certain, and going in to that which is inside the veil;
+Heb.6:20 Where Jesus has gone before us, as a high priest for ever after the order of Melchizedek.
+
+Heb.7:1 For this Melchizedek, the king of Salem, a priest of the Most High God, who gave Abraham his blessing, meeting him when he came back after putting the kings to death,
+Heb.7:2 And to whom Abraham gave a tenth part of everything which he had, being first named King of righteousness, and then in addition, King of Salem, that is to say, King of peace;
+Heb.7:3 Being without father or mother, or family, having no birth or end to his life, being made like the Son of God, is a priest for ever.
+Heb.7:4 Now see how great this man was, to whom our father Abraham gave a tenth part of what he had got in the fight.
+Heb.7:5 And it is true that by the law, those of the sons of Levi who have the position of priests may take a tenth part of the people's goods; that is to say, they take it from their brothers though these are the sons of Abraham.
+Heb.7:6 But this man, who was not of their family, took the tenth from Abraham, and gave a blessing to him to whom God had given his undertaking.
+Heb.7:7 But there is no doubt that the less gets his blessing from the greater.
+Heb.7:8 Now at the present time, men over whom death has power take the tenth; but then it was taken by one of whom it is witnessed that he is living.
+Heb.7:9 And we may say that in Abraham, even Levi, who has a right to take the tenth part, gave it;
+Heb.7:10 Because he was still in his father's body when Melchizedek came to him.
+Heb.7:11 Now if it was possible for things to be made complete through the priests of the house of Levi (for the law was given to the people in connection with them), what need was there for another priest who was of the order of Melchizedek and not of the order of Aaron?
+Heb.7:12 Because if the priests are changed, it is necessary to make a change in the law.
+Heb.7:13 For he of whom these things are said comes of another tribe, of which no man has ever made offerings at the altar.
+Heb.7:14 Because it is clear that our Lord comes out of Judah, and Moses said nothing about priests from that tribe.
+Heb.7:15 And this is even more clear if a second priest has come up who is like Melchizedek,
+Heb.7:16 That is to say, not made by a law based on the flesh, but by the power of a life without end:
+Heb.7:17 For it has been witnessed of him, You are a priest for ever after the order of Melchizedek.
+Heb.7:18 So the law which went before is put on one side, because it was feeble and without profit.
+Heb.7:19 (Because the law made nothing complete), and in its place there is a better hope, through which we come near to God.
+Heb.7:20 And as this is not without the taking of an oath
+Heb.7:21 (For those were made priests without an oath, but this one was made a priest with an oath by him who says of him, The Lord gave his oath, which he will not take back, that you are a priest for ever);
+Heb.7:22 By so much is it a better agreement which we have through Jesus.
+Heb.7:23 And it is true that there have been a great number of those priests, because death does not let them go on for ever;
+Heb.7:24 But this priest, because his life goes on for ever, is unchanging.
+Heb.7:25 So that he is fully able to be the saviour of all who come to God through him, because he is ever living to make prayer to God for them.
+Heb.7:26 It was right for us to have such a high priest, one who is holy and without evil, doing no wrong, having no part with sinners, and made higher than the heavens:
+Heb.7:27 Who has no need to make offerings for sins every day, like those high priests, first for himself, and then for the people; because he did this once and for ever when he made an offering of himself.
+Heb.7:28 The law makes high priests of men who are feeble; but the word of the oath, which was made after the law, gives that position to a Son, in whom all good is for ever complete.
+
+Heb.8:1 Now of the things we are saying this is the chief point: We have such a high priest, who has taken his place at the right hand of God's high seat of glory in heaven,
+Heb.8:2 As a servant of the holy things and of the true Tent, which was put up by God, not by man.
+Heb.8:3 Now every high priest is given authority to take to God the things which are given and to make offerings; so that it is necessary for this man, like them, to have something for an offering.
+Heb.8:4 If he had been on earth he would not have been a priest at all, because there are other priests who make the offerings ordered by the law;
+Heb.8:5 Being servants of that which is a copy and an image of the things in heaven, as Moses, when he was about to make the Tent, had special orders from God: for, See, he said, that you make everything like the design which you saw in the mountain.
+Heb.8:6 But now his position as priest is higher. because through him God has made a better agreement with man, based on the giving of better things.
+Heb.8:7 For if that first agreement had been as good as possible, there would have been no place for a second.
+Heb.8:8 For, protesting against them, he says, See, the days are coming when I will make a new agreement with the house of Israel, and with the house of Judah;
+Heb.8:9 Not like the agreement which I made with their fathers when I took them by the hand, to be their guide out of the land of Egypt; for they did not keep the agreement with me, and I gave them up, says the Lord.
+Heb.8:10 For this is the agreement which I will make with the people of Israel after those days: I will put my laws into their minds, writing them in their hearts: and I will be their God, and they will be my people:
+Heb.8:11 And there will be no need for every man to be teaching his brother, or his neighbour, saying, This is the knowledge of the Lord: for they will all have knowledge of me, great and small.
+Heb.8:12 And I will have mercy on their evil-doing, and I will not keep their sins in mind.
+Heb.8:13 When he says, A new agreement, he has made the first agreement old. But anything which is getting old and past use will not be seen much longer.
+
+Heb.9:1 Now the first agreement had its rules of worship, and a holy order.
+Heb.9:2 For the first Tent was made ready, having in it the vessels for the lights and the table and the ordering of the bread; and this is named the holy place.
+Heb.9:3 And inside the second veil was the place which is named the Holy of holies;
+Heb.9:4 Having a vessel of gold in it for burning perfumes, and the ark of the agreement, which was covered with gold and which had in it a pot made of gold for the manna, and Aaron's rod which put out buds, and the stones with the writing of the agreement;
+Heb.9:5 And over it were the winged ones of glory with their wings covering the mercy-seat; about which it is not possible now to say anything in detail.
+Heb.9:6 Now while these things were in existence, the priests went into the first Tent at all times, for prayer and the making of offerings.
+Heb.9:7 But only the high priest went into the second, once a year, not without making an offering of blood for himself and for the errors of the people:
+Heb.9:8 The Holy Spirit witnessing by this that the way into the holy place had not at that time been made open, while the first Tent was still in being;
+Heb.9:9 And this is an image of the present time; when the offerings which are given are not able to make the heart of the worshipper completely clean,
+Heb.9:10 Because they are only rules of the flesh, of meats and drinks and washings, which have their place till the time comes when things will be put right.
+Heb.9:11 But now Christ has come as the high priest of the good things of the future, through this greater and better Tent, not made with hands, that is to say, not of this world,
+Heb.9:12 And has gone once and for ever into the holy place, having got eternal salvation, not through the blood of goats and young oxen, but through his blood.
+Heb.9:13 For if the blood of goats and oxen, and the dust from the burning of a young cow, being put on the unclean, make the flesh clean:
+Heb.9:14 How much more will the blood of Christ, who, being without sin, made an offering of himself to God through the Holy Spirit, make your hearts clean from dead works to be servants of the living God?
+Heb.9:15 And for this cause it is through him that a new agreement has come into being, so that after the errors under the first agreement had been taken away by his death, the word of God might have effect for those who were marked out for an eternal heritage.
+Heb.9:16 Because where there is a testament, there has to be the death of the man who made it.
+Heb.9:17 For a testament has effect after death; for what power has it while the man who made it is living?
+Heb.9:18 So that even the first agreement was not made without blood.
+Heb.9:19 For when Moses had given all the rules of the law to the people, he took the blood of goats and young oxen, with water and red wool and hyssop, and put it on the book itself and on all the people,
+Heb.9:20 Saying, This blood is the sign of the agreement which God has made with you.
+Heb.9:21 And the blood was put on the Tent and all the holy vessels in the same way.
+Heb.9:22 And by the law almost all things are made clean with blood, and without blood there is no forgiveness.
+Heb.9:23 For this cause it was necessary to make the copies of the things in heaven clean with these offerings; but the things themselves are made clean with better offerings than these.
+Heb.9:24 For Christ did not go into a holy place which had been made by men's hands as the copy of the true one; but he went into heaven itself, and now takes his place before the face of God for us.
+Heb.9:25 And he did not have to make an offering of himself again and again, as the high priest goes into the holy place every year with blood which is not his;
+Heb.9:26 For then he would have undergone a number of deaths from the time of the making of the world: but now he has come to us at the end of the old order, to put away sin by the offering of himself.
+Heb.9:27 And because by God's law death comes to men once, and after that they are judged;
+Heb.9:28 So Christ, having at his first coming taken on himself the sins of men, will be seen a second time, without sin, by those who are waiting for him, for their salvation.
+
+Heb.10:1 For the law, being only a poor copy of the future good things, and not the true image of those things, is never able to make the people who come to the altar every year with the same offerings completely clean.
+Heb.10:2 For if this had been possible, would there not have been an end of those offerings, because the worshippers would have been made completely clean and would have been no longer conscious of sins?
+Heb.10:3 But year by year there is a memory of sins in those offerings.
+Heb.10:4 Because it is not possible for the blood of oxen and goats to take away sins.
+Heb.10:5 So that when he comes into the world, he says, You had no desire for offerings, but you made a body ready for me;
+Heb.10:6 You had no joy in burned offerings or in offerings for sin.
+Heb.10:7 Then I said, See, I have come to do your pleasure, O God (as it is said of me in the roll of the book).
+Heb.10:8 After saying, You had no desire for offerings, for burned offerings or offerings for sin (which are made by the law) and you had no pleasure in them,
+Heb.10:9 Then he said, See, I have come to do your pleasure. He took away the old order, so that he might put the new order in its place.
+Heb.10:10 By that pleasure we have been made holy, by the offering of the body of Jesus Christ once and for ever.
+Heb.10:11 And every priest takes his place at the altar day by day, doing what is necessary, and making again and again the same offerings which are never able to take away sins.
+Heb.10:12 But when Jesus had made one offering for sins for ever, he took his place at the right hand of God;
+Heb.10:13 And has been waiting there from that time, till all who are against him are made a foot-rest for his feet.
+Heb.10:14 Because by one offering he has made complete for ever those who are made holy.
+Heb.10:15 And the Holy Spirit is a witness for us: for after he had said,
+Heb.10:16 This is the agreement which I will make with them after those days, says the Lord; I will put my laws in their hearts, writing them in their minds; he said,
+Heb.10:17 And I will keep no more memory of their sins and of their evil-doings.
+Heb.10:18 Now where there is forgiveness of these, there is no more offering for sin.
+Heb.10:19 So then, my brothers, being able to go into the holy place without fear, because of the blood of Jesus,
+Heb.10:20 By the new and living way which he made open for us through the veil, that is to say, his flesh;
+Heb.10:21 And having a great priest over the house of God,
+Heb.10:22 Let us go in with true hearts, in certain faith, having our hearts made free from the sense of sin and our bodies washed with clean water:
+Heb.10:23 Let us keep the witness of our hope strong and unshaking, for he is true who has given his word:
+Heb.10:24 And let us be moving one another at all times to love and good works;
+Heb.10:25 Not giving up our meetings, as is the way of some, but keeping one another strong in faith; and all the more because you see the day coming near.
+Heb.10:26 For if we do evil on purpose after we have had the knowledge of what is true, there is no more offering for sins,
+Heb.10:27 But only a great fear of being judged, and of the fire of wrath which will be the destruction of the haters of God.
+Heb.10:28 A man who has gone against the law of Moses is put to death without pity on the word of two or three witnesses:
+Heb.10:29 But will not the man by whom the Son of God has been crushed under foot, and the blood of the agreement with which he was washed clean has been taken as an unholy thing, and who has had no respect for the Spirit of grace, be judged bad enough for a very much worse punishment?
+Heb.10:30 For we have had experience of him who says, Punishment is mine, I will give reward. And again, The Lord will be judge of his people.
+Heb.10:31 We may well go in fear of falling into the hands of the living God.
+Heb.10:32 But give thought to the days after you had seen the light, when you went through a great war of troubles;
+Heb.10:33 In part, in being attacked by angry words and cruel acts, before the eyes of everyone, and in part, in being united with those who were attacked in this way.
+Heb.10:34 For you had pity on those who were in prison, and had joy in the loss of your property, in the knowledge that you still had a better property and one which you would keep for ever.
+Heb.10:35 So do not give up your hope which will be greatly rewarded.
+Heb.10:36 For, having done what was right in God's eyes, you have need of waiting before his word has effect for you.
+Heb.10:37 In a very little time he who is coming will come; he will not be slow.
+Heb.10:38 But the upright man will be living by his faith; and if he goes back, my soul will have no pleasure in him.
+Heb.10:39 But we are not of those who go back to destruction; but of those who have faith even to the salvation of the soul.
+
+Heb.11:1 Now faith is the substance of things hoped for, and the sign that the things not seen are true.
+Heb.11:2 For by it our fathers had God's approval.
+Heb.11:3 By faith it is clear to us that the order of events was fixed by the word of God, so that what is seen has not been made from things which only seem to be.
+Heb.11:4 By faith Abel made a better offering to God than Cain, and he had witness through it of his righteousness, God giving his approval of his offering: and his voice still comes to us through it though he is dead.
+Heb.11:5 By faith Enoch was taken up to heaven so that he did not see death; he was seen no longer, for God took him away: for before he was taken, witness had been given that he was well-pleasing to God:
+Heb.11:6 And without faith it is not possible to be well-pleasing to him, for it is necessary for anyone who comes to God to have the belief that God is, and that he is a rewarder of all those who make a serious search for him.
+Heb.11:7 By faith Noah, being moved by the fear of God, made ready an ark for the salvation of his family, because God had given him news of things which were not seen at the time; and through it the world was judged by him, and he got for his heritage the righteousness which is by faith.
+Heb.11:8 By faith Abraham did as God said when he was ordered to go out into a place which was to be given to him as a heritage, and went out without knowledge of where he was going.
+Heb.11:9 By faith he was a wanderer in the land of the agreement, as in a strange land, living in tents with Isaac and Jacob, who had a part with him in the same heritage:
+Heb.11:10 For he was looking for the strong town, whose builder and maker is God.
+Heb.11:11 And by faith Sarah herself had power to give birth, when she was very old, because she had faith in him who gave his word;
+Heb.11:12 So that from one man, who was near to death, came children in number as the stars in heaven, or as the sand by the seaside, which may not be numbered.
+Heb.11:13 All these came to their end in faith, not having had the heritage; but having seen it with delight far away, they gave witness that they were wanderers and not of the earth.
+Heb.11:14 For those who say such things make it clear that they are searching for a country for themselves.
+Heb.11:15 And truly if they had kept in mind the country from which they went out, they would have had chances of turning back.
+Heb.11:16 But now their desire is for a better country, that is to say, for one in heaven; and so it is no shame to God to be named their God; for he has made ready a town for them.
+Heb.11:17 By faith Abraham made an offering of Isaac, when he was tested: and he with whom the agreement had been made gave up as an offering the only son of his body,
+Heb.11:18 Of whom it had been said, From Isaac will your seed take their name:
+Heb.11:19 Judging that God was able to give life even to the dead; and because of this he did get him back as if from death.
+Heb.11:20 By faith Isaac, blessing Jacob and Esau, gave news of things to come.
+Heb.11:21 By faith Jacob gave a blessing to the two sons of Joseph, when he was near to death; and gave God worship, supported by his stick.
+Heb.11:22 By faith Joseph, when his end was near, said that the children of Israel would go out of Egypt; and gave orders about his bones.
+Heb.11:23 By faith Moses was kept secretly by his father and mother for three months after his birth, because they saw that he was a fair child; and they had no fear of the king's orders.
+Heb.11:24 By faith Moses, when he became a man, had no desire to be named the son of Pharaoh's daughter;
+Heb.11:25 Feeling that it was better to undergo pain with the people of God, than for a short time to have a taste of the pleasures of sin;
+Heb.11:26 Judging a part in the shame of Christ to be better than all the wealth of Egypt; for he was looking forward to his reward.
+Heb.11:27 By faith he went out of Egypt, not being turned from his purpose by fear of the wrath of the king; for he kept on his way, as seeing him who is unseen.
+Heb.11:28 By faith he kept the Passover, and put the sign of the blood on the houses, so that the angel of destruction might not put their oldest sons to death.
+Heb.11:29 By faith they went through the Red Sea as if it had been dry land, though the Egyptians were overcome by the water when they made an attempt to do the same.
+Heb.11:30 By faith the walls of Jericho came down, after they had been circled for seven days.
+Heb.11:31 By faith Rahab, the loose woman, was not put to death with those who had gone against God's orders, because she had taken into her house in peace those sent to see the land.
+Heb.11:32 What more am I to say? For there would not be time to give the stories of Gideon, Barak, Samson, and Jephthah, of David and Samuel and the prophets:
+Heb.11:33 Who through faith overcame kingdoms, did righteousness, got their reward, kept the mouths of lions shut,
+Heb.11:34 Put out the power of fire, got safely away from the edge of the sword, were made strong when they had been feeble, became full of power in war, and put to flight the armies of the nations.
+Heb.11:35 Women had their dead given back to them living; others let themselves be cruelly attacked, having no desire to go free, so that they might have a better life to come;
+Heb.11:36 And others were tested by being laughed at or by blows, and even with chains and prisons:
+Heb.11:37 They were stoned, they were cut up with knives, they were tested, they were put to death with the sword, they went about in sheepskins and in goatskins; being poor and in pain and cruelly attacked,
+Heb.11:38 Wandering in waste places and in mountains and in holes in the rocks; for whom the world was not good enough.
+Heb.11:39 And not one of these got the good things of the agreement, though they all had a good record through faith,
+Heb.11:40 Because God had kept some better thing for us, so that it was not possible for them to become complete without us.
+
+Heb.12:1 For this reason, as we are circled by so great a cloud of witnesses, putting off every weight, and the sin into which we come so readily, let us keep on running in the way which is marked out for us,
+Heb.12:2 Having our eyes fixed on Jesus, the guide and end of our faith, who went through the pains of the cross, not caring for the shame, because of the joy which was before him, and who has now taken his place at the right hand of God's seat of power.
+Heb.12:3 Give thought to him who has undergone so much of the hate of sinners against himself, so that you may not be tired and feeble of purpose.
+Heb.12:4 Till now you have not given your blood in your fight against sin:
+Heb.12:5 And you have not kept in mind the word which says to you as to sons, My son, do not make little of the Lord's punishment, and do not give up hope when you are judged by him;
+Heb.12:6 For the Lord sends punishment on his loved ones; everyone whom he takes as his son has experience of his rod.
+Heb.12:7 It is for your training that you undergo these things; God is acting to you as a father does to his sons; for what son does not have punishment from his father?
+Heb.12:8 But if you have not that punishment of which we all have our part, then you are not true sons, but children of shame.
+Heb.12:9 And again, if the fathers of our flesh gave us punishment and had our respect, how much more will we be under the authority of the Father of spirits, and have life?
+Heb.12:10 For they truly gave us punishment for a short time, as it seemed good to them; but he does it for our profit, so that we may become holy as he is.
+Heb.12:11 At the time all punishment seems to be pain and not joy: but after, those who have been trained by it get from it the peace-giving fruit of righteousness.
+Heb.12:12 For this cause let the hands which are hanging down be lifted up, and let the feeble knees be made strong,
+Heb.12:13 And make straight roads for your feet, so that the feeble may not be turned out of the way, but may be made strong.
+Heb.12:14 Let your desire be for peace with all men, and to be made holy, without which no man may see the Lord;
+Heb.12:15 Looking with care to see that no man among you in his behaviour comes short of the grace of God; for fear that some bitter root may come up to be a trouble to you, and that some of you may be made unclean by it;
+Heb.12:16 And that there may not be any evil liver, or any man without respect for God, like Esau, who let his birthright go for a plate of food.
+Heb.12:17 For you have knowledge that even long after, when he was desiring the blessing for his heritage, he was turned away, though he made his request frequently and with weeping; because the past might not be changed.
+Heb.12:18 You have not come to a mountain which may be touched, and is burning with fire, and to a black cloud, and a dark smoke, and a violent wind,
+Heb.12:19 And to the sound of a horn, and the voice of words, the hearers of which made request that not a word more might be said to them:
+Heb.12:20 For the order which said, If the mountain is touched even by a beast, the beast is to be stoned, seemed hard to them;
+Heb.12:21 And the vision was so overpowering that even Moses said, I am shaking and full of fear.
+Heb.12:22 But you have come to the mountain of Zion, to the place of the living God, to the Jerusalem which is in heaven, and to an army of angels which may not be numbered,
+Heb.12:23 To the great meeting and church of the first of those who are named in heaven, and to God the judge of all, and to the spirits of good men made complete,
+Heb.12:24 And to Jesus by whom the new agreement has been made between God and man, and to the sign of the blood which says better things than Abel's blood.
+Heb.12:25 See that you give ear to his voice which comes to you. For if those whose ears were shut to the voice which came to them on earth did not go free from punishment, what chance have we of going free if we give no attention to him whose voice comes from heaven?
+Heb.12:26 Whose voice was the cause of the shaking of the earth; but now he has made an oath, saying, There will be still one more shaking, not only of the earth, but of heaven.
+Heb.12:27 And the words, Still one more, make it clear that there will be a taking away of those things which are shaking, as of things which are made, so that there may be only those things of which no shaking is possible.
+Heb.12:28 If then, we have a kingdom which will never be moved, let us have grace, so that we may give God such worship as is pleasing to him with fear and respect:
+Heb.12:29 For our God is an all-burning fire.
+
+Heb.13:1 Go on loving your brothers in the faith.
+Heb.13:2 Take care to keep open house: because in this way some have had angels as their guests, without being conscious of it.
+Heb.13:3 Keep in mind those who are in chains, as if you were chained with them, and those who are in trouble, as being yourselves in the body.
+Heb.13:4 Let married life be honoured among all of you and not made unclean; for men untrue in married life will be judged by God.
+Heb.13:5 Be free from the love of money and pleased with the things which you have; for he himself has said, I will be with you at all times.
+Heb.13:6 So that we say with a good heart, The Lord is my helper; I will have no fear: what is man able to do to me?
+Heb.13:7 Keep in mind those who were over you, and who gave you the word of God; seeing the outcome of their way of life, let your faith be like theirs.
+Heb.13:8 Jesus Christ is the same yesterday and today and for ever.
+Heb.13:9 Do not be turned away by different strange teachings, because it is good for your hearts to be made strong by grace, and not by meats, which were of no profit to those who took so much trouble over them.
+Heb.13:10 We have an altar from which those priests who are servants in the Tent may not take food.
+Heb.13:11 For the bodies of the beasts whose blood is taken into the holy place by the high priest as an offering for sin are burned outside the circle of the tents.
+Heb.13:12 For this reason Jesus was put to death outside the walls, so that he might make the people holy by his blood.
+Heb.13:13 Let us then go out to him outside the circle of the tents, taking his shame on ourselves.
+Heb.13:14 For here we have no fixed resting-place, but our search is for the one which is to come.
+Heb.13:15 Let us then make offerings of praise to God at all times through him, that is to say, the fruit of lips giving witness to his name.
+Heb.13:16 But go on doing good and giving to others, because God is well-pleased with such offerings.
+Heb.13:17 Give ear to those who are rulers over you, and do as they say: for they keep watch over your souls, ready to give an account of them; let them be able to do this with joy and not with grief, because that would be of no profit to you.
+Heb.13:18 Make prayers for us, for we are certain that our hearts are free from the sense of sin, desiring the right way of life in all things.
+Heb.13:19 I make this request more strongly, in the hope of coming back to you more quickly.
+Heb.13:20 Now may the God of peace, who made that great keeper of his flock, even our Lord Jesus, come back from the dead through the blood of the eternal agreement,
+Heb.13:21 Make you full of every good work and ready to do all his desires, working in us whatever is pleasing in his eyes through Jesus Christ; and may the glory be given to him for ever and ever. So be it.
+Heb.13:22 But, brothers, take kindly the words which I have said for your profit; for I have not sent you a long letter.
+Heb.13:23 Our brother Timothy has been let out of prison; and if he comes here in a short time, he and I will come to you together.
+Heb.13:24 Give words of love from me to those who are rulers over you, and to all the saints. Those who are in Italy send you their love.
+Heb.13:25 May grace be with you all.
+
+
+
+#####    Titus    #####
+
+Titus.1:1 Paul, a servant of God, and an Apostle of Jesus Christ, in agreement with the faith of the saints of God and the full knowledge of what is true in harmony with religion,
+Titus.1:2 In the hope of eternal life, which was made certain before eternal time, by the word of God who is ever true;
+Titus.1:3 Who, in his time, made clear his word in the good news, of which, by the order of God our Saviour, I became a preacher;
+Titus.1:4 To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Saviour.
+Titus.1:5 I did not take you with me when I went away from Crete, so that you might do what was necessary to put things in order there, placing men in authority over the churches in every town, as I said to you;
+Titus.1:6 Men having a good record, husbands of one wife, whose children are of the faith, children of whom it may not be said that they are given to loose living or are uncontrolled.
+Titus.1:7 For it is necessary for a Bishop to be a man of virtue, as God's servant; not pushing himself forward, not quickly moved to wrath or blows, not desiring profit for himself;
+Titus.1:8 But opening his house freely to guests; a lover of what is good, serious-minded, upright, holy, self-controlled;
+Titus.1:9 Keeping to the true word of the teaching, so that he may be able to give comfort by right teaching and overcome the arguments of the doubters.
+Titus.1:10 For there are men who are not ruled by law; foolish talkers, false teachers, specially those of the circumcision,
+Titus.1:11 By whom some families have been completely overturned; who take money for teaching things which are not right; these will have to be stopped.
+Titus.1:12 One of their prophets has said, The men of Crete are ever false, evil beasts, lovers of food, hating work.
+Titus.1:13 This witness is true. So say sharp words to them so that they may come to the right faith,
+Titus.1:14 Giving no attention to the fictions of the Jews and the rules of men who have no true knowledge.
+Titus.1:15 To the clean in heart all things are clean: but to those who are unclean and without faith nothing is clean; they become unclean in mind and in thought.
+Titus.1:16 They say that they have knowledge of God, while by their acts they are turning their backs on him; they are hated by all, hard-hearted, and judged to be without value for any good work.
+
+Titus.2:1 But let your words be in agreement with true and right teaching:
+Titus.2:2 That old men are to be simple in their tastes, serious, wise, true in faith, in love, and of a quiet mind.
+Titus.2:3 That old women are to be self-respecting in behaviour, not saying evil of others, not given to taking much wine, teachers of that which is good,
+Titus.2:4 Training the younger women to have love for their husbands and children,
+Titus.2:5 To be wise in mind, clean in heart, kind; working in their houses, living under the authority of their husbands; so that no evil may be said of the word of God.
+Titus.2:6 To the young men give orders to be wise and serious-minded:
+Titus.2:7 In all things see that you are an example of good works; holy in your teaching, serious in behaviour,
+Titus.2:8 Saying true and right words, against which no protest may be made, so that he who is not on our side may be put to shame, unable to say any evil of us.
+Titus.2:9 Servants are to be under the authority of their masters, pleasing them in all things, without argument;
+Titus.2:10 Not taking what is not theirs, but giving clear signs of their good faith, in all things doing credit to the teaching of God our Saviour.
+Titus.2:11 For the grace of God has come, giving salvation to all men,
+Titus.2:12 Training us so that, turning away from evil and the desires of this world, we may be living wisely and uprightly in the knowledge of God in this present life;
+Titus.2:13 Looking for the glad hope, the revelation of the glory of our great God and Saviour Jesus Christ;
+Titus.2:14 Who gave himself for us, so that he might make us free from all wrongdoing, and make for himself a people clean in heart and on fire with good works.
+Titus.2:15 On all these points give teaching and help, and make clear what is right with all authority. Let all men give you honour.
+
+Titus.3:1 Make clear to them that they are to put themselves under rulers and authorities, to do what they are ordered, to be ready for every good work,
+Titus.3:2 To say no evil of any man, not to be fighters, to give way to others, to be gentle in behaviour to all men.
+Titus.3:3 For in the past we were foolish, hard in heart, turned from the true way, servants of evil desires and pleasures, living in bad feeling and envy, hated and hating one another.
+Titus.3:4 But when the mercy of God our Saviour, and his love to man was seen,
+Titus.3:5 Not by works of righteousness which we did ourselves, but in the measure of his mercy, he gave us salvation, through the washing of the new birth and the giving of new life in the Holy Spirit,
+Titus.3:6 Which he gave us freely through Jesus Christ our Saviour;
+Titus.3:7 So that, having been given righteousness through grace, we might have a part in the heritage, the hope of eternal life.
+Titus.3:8 This is a true saying; and it is my desire that you may give certain witness about these things, so that those who have had faith in God may give attention to good works. These things are good and of profit to men;
+Titus.3:9 But have nothing to do with foolish questionings, and lists of generations, and fights and arguments about the law; for they are of no profit and foolish.
+Titus.3:10 A man whose opinions are not those of the church, after a first and second protest, is to be kept out of your society;
+Titus.3:11 Clearly he is in error and a sinner, being self-judged.
+Titus.3:12 When I send Artemas or Tychicus to you, do your best to come to me at Nicopolis: for it is my purpose to be there for the winter.
+Titus.3:13 Send Zenas, the man of law, and Apollos on their journey with all care, so that they may be in need of nothing.
+Titus.3:14 And let our people go on with good works for necessary purposes, so that they may not be without fruit.
+Titus.3:15 All who are with me send you their love. Give our love to our friends in the faith. Grace be with you all.
+
+
+
+#####    1 Thessalonians    #####
+
+1Thess.1:1 Paul and Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.
+1Thess.1:2 We give praise to God at all times for you, keeping you in memory in our prayers;
+1Thess.1:3 Having ever in mind your work of faith and acts of love and the strength of your hope in our Lord Jesus Christ, before our God and Father;
+1Thess.1:4 Being conscious, my brothers, dear to God, that you have been marked out by God's purpose;
+1Thess.1:5 Because our good news came to you, not in word only, but in power, and in the Holy Spirit, so that you were completely certain of it; even as you saw what our behaviour to you was like from our love to you.
+1Thess.1:6 And you took us and the Lord as your example, after the word had come to you in much trouble, with joy in the Holy Spirit;
+1Thess.1:7 So that you became an example to all those who have faith in Christ in Macedonia and Achaia.
+1Thess.1:8 For not only was the word of the Lord sounding out from you in Macedonia and Achaia, but in every place your faith in God is made clear; so that we have no need to say anything.
+1Thess.1:9 For they themselves give the news of how we came among you; and how you were turned from images to God, to the worship of a true and living God,
+1Thess.1:10 Waiting for his Son from heaven, who came back from the dead, even Jesus, our Saviour from the wrath to come.
+
+1Thess.2:1 For you yourselves, brothers, are conscious that our coming among you was not without effect:
+1Thess.2:2 But after we had first undergone much pain and been cruelly attacked as you saw, at Philippi, by the help of God we gave you the good news without fear, though everything was against us.
+1Thess.2:3 For our witness does not come from error or from an unclean heart or from deceit:
+1Thess.2:4 But even as the good news was given to us by the approval of God, so we give it out; not as pleasing men, but God by whom our hearts are tested.
+1Thess.2:5 For it is common knowledge among you that we never made use of smooth-sounding false words, and God is witness that at no time were we secretly desiring profit for ourselves,
+1Thess.2:6 Or looking for glory from men, from you or from others, when we might have made ourselves a care to you as Apostles of Christ.
+1Thess.2:7 But we were gentle among you, like a woman caring for her little ones:
+1Thess.2:8 Even so, being full of loving desire for you, we took delight in giving you not only God's good news, but even our lives, because you were dear to us.
+1Thess.2:9 For you have the memory, my brothers, of our trouble and care; how, working night and day, so that we might not be a trouble to any of you, we gave you the good news of God.
+1Thess.2:10 You are witnesses, with God, how holy and upright and free from all evil was our way of life among you who have faith;
+1Thess.2:11 Even as you saw how, like a father with his children, we were teaching and comforting you all, and giving witness,
+1Thess.2:12 So that your lives might be pleasing to God, who has given you a part in his kingdom and his glory.
+1Thess.2:13 And for this cause we still give praise to God, that, when the word came to your ears through us, you took it, not as the word of man, but, as it truly is, the word of God, which has living power in you who have faith.
+1Thess.2:14 For you, my brothers, took as your examples the churches of God which are in Judaea in Christ Jesus; because you underwent the same things from your countrymen as they did from the Jews;
+1Thess.2:15 Who put to death the Lord Jesus and the prophets, violently driving us out; who are unpleasing to God and against all men;
+1Thess.2:16 Who, to make the measure of their sins complete, kept us from giving the word of salvation to the Gentiles: but the wrath of God is about to come on them in the fullest degree.
+1Thess.2:17 But we, my brothers, being away from you for a short time, in body but not in heart, had all the more desire to see your face;
+1Thess.2:18 For which reason we made attempts to come to you, even I, Paul, once and again; but Satan kept us from coming.
+1Thess.2:19 For what is our hope or joy or crown of glory? Are not even you, before our Lord Jesus, at his coming?
+1Thess.2:20 For you are our glory and our joy.
+
+1Thess.3:1 At last our desire to have news of you was so strong that, while we ourselves were waiting at Athens,
+1Thess.3:2 We sent Timothy, our brother and God's servant in the good news of Christ, to give you strength and comfort in your faith;
+1Thess.3:3 So that no man might be moved by these troubles; because you see that these things are part of God's purpose for us.
+1Thess.3:4 And when we were with you, we said to you that trouble was before us; and so it came about, as you see.
+1Thess.3:5 For this reason, when I was no longer able to keep quiet, I sent to get news of your faith, fearing that you might be tested by the Evil One and that our work might come to nothing.
+1Thess.3:6 But now that Timothy has come to us from you, and has given us good news of your faith and love, and that you have happy memories of us, desiring greatly to see us, even as we do to see you;
+1Thess.3:7 For this cause, brothers, in all our trouble and grief we were comforted about you because of your faith;
+1Thess.3:8 For it is life to us if you keep your faith in the Lord unchanged.
+1Thess.3:9 For how great is the praise which we give to God for you, and how great the joy with which we are glad because of you before our God;
+1Thess.3:10 Night and day requesting God again and again that we may see your face and make your faith complete.
+1Thess.3:11 Now may our God and Father himself and our Lord Jesus make a way for us to come to you;
+1Thess.3:12 And the Lord give you increase of love in fullest measure to one another and to all men, even as our love to you;
+1Thess.3:13 So that your hearts may be strong and free from all sin before our God and Father, at the coming of our Lord Jesus with all his saints.
+
+1Thess.4:1 And last of all, the prayer which we make to you from our heart and in the name of the Lord Jesus, is this: that as we made clear to you what sort of behaviour is pleasing to God, as in fact you are doing now, so you will go on in these ways, but more and more.
+1Thess.4:2 Because you have in mind the orders we gave you through the Lord Jesus.
+1Thess.4:3 For the purpose of God for you is this: that you may be holy, and may keep yourselves from the desires of the flesh;
+1Thess.4:4 So that every one of you may keep his body holy and in honour;
+1Thess.4:5 Not in the passion of evil desires, like the Gentiles, who have no knowledge of God;
+1Thess.4:6 And that no man may make attempts to get the better of his brother in business: for the Lord is the judge in all these things, as we said to you before and gave witness.
+1Thess.4:7 Because it is God's purpose that our way of life may be not unclean but holy.
+1Thess.4:8 Whoever, then, goes against this word, goes against not man but God, who gives his Holy Spirit to you.
+1Thess.4:9 But about loving the brothers, there is no need for me to say anything to you in this letter: for you have the teaching of God that love for one another is right and necessary;
+1Thess.4:10 And, truly, you are lovers of all the brothers in Macedonia; but it is our desire that your love may be increased still more;
+1Thess.4:11 And that you may take pride in being quiet and doing your business, working with your hands as we gave you orders;
+1Thess.4:12 That you may be respected by those who are outside, and may have need of nothing.
+1Thess.4:13 But it is our desire, brothers, that you may be certain about those who are sleeping; so that you may have no need for sorrow, as others have who are without hope.
+1Thess.4:14 For if we have faith that Jesus underwent death and came back again, even so those who are sleeping will come again with him by God's power.
+1Thess.4:15 For this we say to you by the word of the Lord, that we who are still living at the coming of the Lord, will not go before those who are sleeping.
+1Thess.4:16 Because the Lord himself will come down from heaven with a word of authority, with the voice of the chief angel, with the sound of a horn: and the dead in Christ will come to life first;
+1Thess.4:17 Then we who are still living will be taken up together with them into the clouds to see the Lord in the air: and so will we be for ever with the Lord.
+1Thess.4:18 So then, give comfort to one another with these words.
+
+1Thess.5:1 But about the times and their order, my brothers, there is no need for me to say anything to you.
+1Thess.5:2 For you yourselves have the knowledge that the day of the Lord will come like a thief in the night.
+1Thess.5:3 When they say, There is peace and no danger, then sudden destruction will come on them, as birth-pains on a woman with child; and they will not be able to get away from it.
+1Thess.5:4 But you, my brothers, are not in the dark, for that day to overtake you like a thief:
+1Thess.5:5 For you are all sons of light and of the day: we are not of the night or of the dark.
+1Thess.5:6 So then, let us not take our rest as the others do, but let us be self-controlled and awake.
+1Thess.5:7 For those who are sleeping do so in the night; and those who are the worse for drink are so in the night;
+1Thess.5:8 But let us, who are of the day, be serious, putting on the breastplate of faith and love, and on our heads, the hope of salvation.
+1Thess.5:9 For God's purpose for us is not wrath, but salvation through our Lord Jesus Christ,
+1Thess.5:10 Who was put to death for us, so that, awake or sleeping, we may have a part in his life.
+1Thess.5:11 So then, go on comforting and building up one another, as you have been doing.
+1Thess.5:12 But we make this request to you, my brothers: give attention to those who are working among you, who are over you in the Lord to keep order among you;
+1Thess.5:13 And have a high opinion of them in love because of their work. Be at peace among yourselves.
+1Thess.5:14 And our desire is that you will keep control over those whose lives are not well ordered, giving comfort to the feeble-hearted, supporting those with little strength, and putting up with much from all.
+1Thess.5:15 Let no one give evil for evil; but ever go after what is good, for one another and for all.
+1Thess.5:16 Have joy at all times.
+1Thess.5:17 Keep on with your prayers.
+1Thess.5:18 In everything give praise: for this is the purpose of God in Christ Jesus for you.
+1Thess.5:19 Do not put out the light of the Spirit;
+1Thess.5:20 Do not make little of the words of the prophets;
+1Thess.5:21 Let all things be tested; keep to what is good;
+1Thess.5:22 Keep from every form of evil.
+1Thess.5:23 And may the God of peace himself make you holy in every way; and may your spirit and soul and body be free from all sin at the coming of our Lord Jesus Christ.
+1Thess.5:24 God, by whom you have been marked out in his purpose, is unchanging and will make it complete.
+1Thess.5:25 Brothers, keep us in mind in your prayers.
+1Thess.5:26 Give all the brothers a holy kiss.
+1Thess.5:27 I give orders in the name of the Lord that all the brothers are to be present at the reading of this letter.
+1Thess.5:28 The grace of our Lord Jesus Christ be with you.
+
+
+#####    2 Thessalonians    #####
+
+2Thess.1:1 Paul and Silvanus and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+2Thess.1:2 Grace to you and peace from God the Father and the Lord Jesus Christ.
+2Thess.1:3 It is right for us to give praise to God at all times for you, brothers, because of the great increase of your faith, and the wealth of your love for one another;
+2Thess.1:4 So that we ourselves take pride in you in the churches of God for your untroubled mind and your faith in all the troubles and sorrows which you are going through;
+2Thess.1:5 Which is a clear sign of the decision which God in his righteousness has made; to give you a part in his kingdom, for which you have undergone this pain;
+2Thess.1:6 For it is an act of righteousness on God's part to give trouble as their reward to those who are troubling you,
+2Thess.1:7 And to you who are troubled, rest with us, when the Lord Jesus comes from heaven with the angels of his power in flames of fire,
+2Thess.1:8 To give punishment to those who have no knowledge of God, and to those who do not give ear to the good news of our Lord Jesus:
+2Thess.1:9 Whose reward will be eternal destruction from the face of the Lord and from the glory of his strength,
+2Thess.1:10 At his coming, when he will have glory in his saints, and will be a cause of wonder in all those who had faith (because our witness among you had effect) in that day.
+2Thess.1:11 For this reason, you are ever in our prayers, that you may seem to our God such as may have a part in his purpose and that by his power he will make all his good purpose, and the work of faith, complete;
+2Thess.1:12 So that glory may be given to the name of our Lord Jesus through you, and you may have glory in him, by the grace of our God and the Lord Jesus Christ.
+
+2Thess.2:1 Now as to the coming of the Lord Jesus Christ, and our meeting with him, it is our desire, my brothers,
+2Thess.2:2 That you may not be moved in mind or troubled by a spirit, or by a word, or by a letter as from us, with the suggestion that the day of the Lord is even now come;
+2Thess.2:3 Give no belief to false words: because there will first be a falling away from the faith, and the revelation of the man of sin, the son of destruction,
+2Thess.2:4 Who puts himself against all authority, lifting himself up over all which is named God or is given worship; so that he takes his seat in the Temple of God, putting himself forward as God.
+2Thess.2:5 Have you no memory of what I said when I was with you, giving you word of these things?
+2Thess.2:6 And now it is clear to you what is keeping back his revelation till the time comes for him to be seen.
+2Thess.2:7 For the secret of evil is even now at work: but there is one who is keeping back the evil till he is taken out of the way.
+2Thess.2:8 And then will come the revelation of that evil one, whom the Lord Jesus will put to death with the breath of his mouth, and give to destruction by the revelation of his coming;
+2Thess.2:9 Even the one whose coming is marked by the working of Satan, with all power and signs and false wonders,
+2Thess.2:10 And with every deceit of wrongdoing among those whose fate is destruction; because they were quite without that love of the true faith by which they might have salvation.
+2Thess.2:11 And for this cause, God will give them up to the power of deceit and they will put their faith in what is false:
+2Thess.2:12 So that they all may be judged, who had no faith in what is true, but took pleasure in evil.
+2Thess.2:13 But it is right for us to give praise to God at all times for you, brothers, loved by the Lord, because it was the purpose of God from the first that you might have salvation, being made holy by the Spirit and by faith in what is true:
+2Thess.2:14 And in this purpose he gave you a part through the good news of which we were the preachers, even that you might have part in the glory of our Lord Jesus Christ.
+2Thess.2:15 So then, brothers, be strong in purpose, and keep the teaching which has been given to you by word or by letter from us.
+2Thess.2:16 Now our Lord Jesus Christ himself, and God our Father who had love for us and has given us eternal comfort and good hope through grace,
+2Thess.2:17 Give you comfort and strength in every good work and word.
+
+2Thess.3:1 For the rest, my brothers, let there be prayer for us that the word of the Lord may go forward with increasing glory, even as it does with you;
+2Thess.3:2 And that we may be made free from foolish and evil men; for not all have faith.
+2Thess.3:3 But the Lord is true, who will give you strength and keep you safe from evil.
+2Thess.3:4 And we have faith in the Lord about you, that you are doing and will do the things about which we give you orders.
+2Thess.3:5 And may your hearts be guided by the Lord into the love of God and quiet waiting for Christ.
+2Thess.3:6 Now we give you orders, brothers, in the name of our Lord Jesus Christ, to keep away from all those whose behaviour is not well ordered and in harmony with the teaching which they had from us.
+2Thess.3:7 For you yourselves are used to taking us as your example, because our life among you was ruled by order,
+2Thess.3:8 And we did not take food from any man for nothing, but were working hard night and day not to be a trouble to any of you:
+2Thess.3:9 Not because we have not the right, but to make ourselves an example to you, so that you might do the same.
+2Thess.3:10 For even when we were with you we gave you orders, saying, If any man does no work, let him not have food.
+2Thess.3:11 For it has come to our ears that there are some among you whose behaviour is uncontrolled, who do no work at all, but are over-interested in the business of others.
+2Thess.3:12 Now to such we give orders and make request in the Lord Jesus, that, working quietly, they get their living.
+2Thess.3:13 And you, my brothers, do not get tired of well-doing.
+2Thess.3:14 And if any man does not give attention to what we have said in this letter, take note of that man, and keep away from him, so that he may be shamed.
+2Thess.3:15 Have no feeling of hate for him, but take him in hand seriously as a brother.
+2Thess.3:16 Now the Lord of peace himself give you peace at all times and in every way. May the Lord be with you all.
+2Thess.3:17 These words of love to you at the end are in my writing, Paul's writing, and this is the mark of every letter from me.
+2Thess.3:18 May the grace of our Lord Jesus Christ be with you all.
+
+
+#####    1 Timothy    #####
+
+1Tim.1:1 Paul, an Apostle of Jesus Christ, by the order of God our Saviour and Christ Jesus our hope;
+1Tim.1:2 To Timothy, my true child in the faith: Grace, mercy, peace, from God the Father and Christ Jesus our Lord.
+1Tim.1:3 It was my desire, when I went on into Macedonia, that you might make a stop at Ephesus, to give orders to certain men not to put forward a different teaching,
+1Tim.1:4 Or to give attention to stories and long lists of generations, from which come questionings and doubts, in place of God's ordered way of life which is in faith;
+1Tim.1:5 But the effect of the order is love coming from a clean heart, and a knowledge of what is right, and true faith:
+1Tim.1:6 From which some have been turned away, giving themselves to foolish talking;
+1Tim.1:7 Desiring to be teachers of the law, though they have no knowledge of what they say or of the statements which they make so certainly.
+1Tim.1:8 We are conscious that the law is good, if a man makes a right use of it,
+1Tim.1:9 With the knowledge that the law is made, not for the upright man, but for those who have no respect for law and order, for evil men and sinners, for the unholy and those who have no religion, for those who put their fathers or mothers to death, for takers of life,
+1Tim.1:10 For those who go after loose women, for those with unnatural desires, for those who take men prisoners, who make false statements and false oaths, and those who do any other things against the right teaching,
+1Tim.1:11 Which may be seen in the good news of the glory of the great God, which was given into my care.
+1Tim.1:12 I give praise to him who gave me power, Christ Jesus our Lord, because he took me to be true, making me his servant,
+1Tim.1:13 Though I had said violent words against God, and done cruel acts, causing great trouble: but I was given mercy, because I did it without knowledge, not having faith;
+1Tim.1:14 And the grace of our Lord was very great, with faith and love which is in Christ Jesus.
+1Tim.1:15 It is a true saying, in which all may put their faith, that Christ Jesus came into the world to give salvation to sinners, of whom I am the chief:
+1Tim.1:16 But for this reason I was given mercy, so that in me, the chief of sinners, Jesus Christ might make clear all his mercy, as an example to those who in the future would have faith in him to eternal life.
+1Tim.1:17 Now to the King eternal, ever-living, unseen, the only God, be honour and glory for ever and ever. So be it.
+1Tim.1:18 This order I give to you, Timothy my son, in harmony with the words of the prophets about you, so that by them you may be strong, fighting the good fight,
+1Tim.1:19 Keeping faith, and being conscious of well-doing; for some, by not doing these things, have gone wrong in relation to the faith:
+1Tim.1:20 Such are Hymenaeus and Alexander, whom I have given up to Satan, so that they may say no more evil words against God.
+
+1Tim.2:1 My desire is, first of all, that you will make requests and prayers and give praise for all men;
+1Tim.2:2 For kings and all those in authority; so that we may have a calm and quiet life in all fear of God and serious behaviour.
+1Tim.2:3 This is good and pleasing in the eyes of God our Saviour;
+1Tim.2:4 Whose desire is that all men may have salvation and come to the knowledge of what is true.
+1Tim.2:5 For there is one God and one peacemaker between God and men, the man Christ Jesus,
+1Tim.2:6 Who gave himself as an offering for all; witness of which was to be given at the right time;
+1Tim.2:7 And of this I became a preacher and an Apostle (what I say is true, not false,) and a teacher of the Gentiles in the true faith.
+1Tim.2:8 It is my desire, then, that in every place men may give themselves to prayer, lifting up holy hands, without wrath or argument.
+1Tim.2:9 And that women may be dressed in simple clothing, with a quiet and serious air; not with twisted hair and gold or jewels or robes of great price;
+1Tim.2:10 But clothed with good works, as is right for women who are living in the fear of God.
+1Tim.2:11 Let a woman quietly take the place of a learner and be under authority.
+1Tim.2:12 In my opinion it is right for a woman not to be a teacher, or to have rule over a man, but to be quiet.
+1Tim.2:13 For Adam was first formed, then Eve;
+1Tim.2:14 And Adam was not taken by deceit, but the woman, being tricked, became a wrongdoer.
+1Tim.2:15 But if they go on in faith and love and holy self-control, she will be kept safe at the time of childbirth.
+
+1Tim.3:1 This is a true saying, A man desiring the position of a Bishop has a desire for a good work.
+1Tim.3:2 The Bishop, then, is to be a man of good name, the husband of one wife, self-controlled, serious-minded, having respect for order, opening his house freely to guests, a ready teacher;
+1Tim.3:3 Not quickly moved to wrath or blows, but gentle; no fighter, no lover of money;
+1Tim.3:4 Ruling his house well, having his children under control with all serious behaviour;
+1Tim.3:5 (For if a man has not the art of ruling his house, how will he take care of the church of God?)
+1Tim.3:6 Not one newly taken into the church, for fear that, through his high opinion of himself, he may come into the same sin as the Evil One.
+1Tim.3:7 And he is to have a good name among those outside the church, so that nothing may be said against him and he may not be taken by the designs of the Evil One.
+1Tim.3:8 Deacons, in the same way, are to be serious in their behaviour, not false in word, not given to taking much wine or greatly desiring the wealth of this world;
+1Tim.3:9 Keeping the secret of the faith in a heart free from sin.
+1Tim.3:10 And let these first be put to the test; then let them become Deacons if there is nothing against them.
+1Tim.3:11 Women are to be serious in behaviour, saying no evil of others, controlling themselves, true in all things.
+1Tim.3:12 Let Deacons be husbands of one wife, ruling their children and their houses well.
+1Tim.3:13 For those who have done good work as Deacons get for themselves a good position and become free from fear in the faith which is in Christ Jesus.
+1Tim.3:14 I am writing these things to you, though I am hoping to come to you before long;
+1Tim.3:15 But if I am long in coming, this will make clear to you what behaviour is right for men in the house of God, which is the church of the living God, the pillar and base of what is true.
+1Tim.3:16 And without argument, great is the secret of religion: He who was seen in the flesh, who was given God's approval in the spirit, was seen by the angels, of whom the good news was given among the nations, in whom the world had faith, who was taken up in glory.
+
+1Tim.4:1 But the Spirit says clearly that in later times some will be turned away from the faith, giving their minds to spirits of deceit, and the teachings of evil spirits,
+1Tim.4:2 Through the false ways of men whose words are untrue, whose hearts are burned as with a heated iron;
+1Tim.4:3 Who keep men from being married and from taking food which God made to be taken with praise by those who have faith and true knowledge.
+1Tim.4:4 Because everything which God has made is good, and nothing is evil, if it is taken with praise:
+1Tim.4:5 For it is made holy by the word of God and by prayer.
+1Tim.4:6 If you keep these things before the minds of the brothers, you will be a good servant of Christ Jesus, trained in the words of the faith and of the right teaching which has been your guide:
+1Tim.4:7 But have nothing to do with unclean and foolish stories. Give yourself training in religion:
+1Tim.4:8 For the training of the body is of profit for a little, but religion is of profit in every way, giving hope for the life which now is, and for that which is to come.
+1Tim.4:9 This is a true saying, in which all may put their faith.
+1Tim.4:10 And this is the purpose of all our work and our fighting, because our hope is in the living God, who is the Saviour of all men, and specially of those who have faith.
+1Tim.4:11 Let these be your orders and your teaching.
+1Tim.4:12 Let no one make little of you because you are young, but be an example to the church in word, in behaviour, in love, in faith, in holy living.
+1Tim.4:13 Till I come, give attention to the reading of the holy Writings, to comforting the saints, and to teaching.
+1Tim.4:14 Make use of that grace in you, which was given to you by the word of the prophets, when the rulers of the church put their hands on you.
+1Tim.4:15 Have a care for these things; give yourself to them with all your heart, so that all may see how you go forward.
+1Tim.4:16 Give attention to yourself and your teaching. Go on in these things; for in doing so you will get salvation for yourself and for those who give hearing to you.
+
+1Tim.5:1 Do not say sharp words to one who has authority in the church, but let your talk be as to a father, and to the younger men as to brothers:
+1Tim.5:2 To the older women as to mothers, to the younger as to sisters, with a clean heart.
+1Tim.5:3 Give honour to widows who are truly widows.
+1Tim.5:4 But if any widow has children or children's children, let these see that it is right to take care of their family and their fathers and mothers: for this is pleasing in the eyes of God.
+1Tim.5:5 Now she who is truly a widow and without family puts her hope in God, giving herself to prayer day and night.
+1Tim.5:6 But she who gives herself to pleasure is dead while she is living.
+1Tim.5:7 Give orders to this effect, so that no evil may be said of anyone.
+1Tim.5:8 If anyone has no care for his family and those in his house, he is false to the faith, and is worse than one who has no faith.
+1Tim.5:9 Let no woman be numbered among the widows who is under sixty years old, and only if she has been the wife of one man,
+1Tim.5:10 And if witness is given of her good works; if she has had the care of children, if she has been kind to travellers, washing the feet of the saints, helping those who are in trouble, giving herself to good works.
+1Tim.5:11 But to the younger widows say No: for when their love is turned away from Christ, they have a desire to be married;
+1Tim.5:12 And they are judged because they have been false to their first faith;
+1Tim.5:13 And they get into the way of doing no work, going about from house to house; and not only doing no work, but talking foolishly, being over-interested in the business of others, saying things which they have no right to say.
+1Tim.5:14 So it is my desire that the younger widows may be married and have children, controlling their families, and giving the Evil One no chance to say anything against them,
+1Tim.5:15 For even now some are turned away to Satan.
+1Tim.5:16 If any woman of the faith has relations who are widows, let her give them help, so that the care of them does not come on the church, and so it may give help to those who are truly widowed.
+1Tim.5:17 Let rulers whose rule is good be honoured twice over, specially those whose work is preaching and teaching.
+1Tim.5:18 For the Writings say, It is not right to keep the ox from taking the grain when he is crushing it. And, The worker has a right to his reward.
+1Tim.5:19 Do not take as true any statement made against one in authority, but only if two or three give witness to it.
+1Tim.5:20 Say sharp words to sinners when all are present, so that the rest may be in fear.
+1Tim.5:21 I give you orders before God and Christ Jesus and the angels of God's selection, to keep these orders without giving thought to one side more than another.
+1Tim.5:22 Do not put hands on any man without thought, and have no part in other men's sins: keep yourself clean.
+1Tim.5:23 Do not take only water as your drink, but take a little wine for the good of your stomach, and because you are frequently ill.
+1Tim.5:24 The sins of some men are clearly seen, going before them to be judged; but with others, their sins go after them.
+1Tim.5:25 In the same way, there are good works which are clearly seen; and those which are not so, may not be kept secret.
+
+1Tim.6:1 Let all who are servants under the yoke give all honour to their masters, so that no evil may be said against the name of God and his teaching.
+1Tim.6:2 And let those whose masters are of the faith have respect for them because they are brothers, working for them the more readily, because those who take part in the good work are of the faith and are dear. Give orders and teaching about these things.
+1Tim.6:3 If any man gives different teaching, not in agreement with the true words of our Lord Jesus Christ, and with the teaching which is in agreement with true religion,
+1Tim.6:4 He has an over-high opinion of himself; being without knowledge, having only an unhealthy love of questionings and wars of words, from which come envy, fighting, cruel words, evil thoughts,
+1Tim.6:5 Bitter talk of men who, being evil in mind and dead to what is true, take the faith to be a way of making profit.
+1Tim.6:6 But true faith, with peace of mind, is of great profit:
+1Tim.6:7 For we came into the world with nothing, and we are not able to take anything out;
+1Tim.6:8 But if we have food and a roof over us, let that be enough.
+1Tim.6:9 But those who have a desire for wealth are falling into danger, and are taken as in a net by a number of foolish and damaging desires, through which men are overtaken by death and destruction.
+1Tim.6:10 For the love of money is a root of all evil: and some whose hearts were fixed on it have been turned away from the faith, and been wounded with unnumbered sorrows.
+1Tim.6:11 But you, O man of God, keep yourself from these things, and go after righteousness, religion, faith, love, a quiet mind, gentle behaviour.
+1Tim.6:12 Be fighting the good fight of the faith; take for yourself the life eternal, for which you were marked out, and of which you gave witness in the eyes of all.
+1Tim.6:13 I give you orders before God, the giver of life, and Christ Jesus, who before Pontius Pilate gave witness to the faith,
+1Tim.6:14 To keep the word untouched by evil, clear from all shame, till the revelation of our Lord Jesus Christ:
+1Tim.6:15 Which at the right time he will make clear, who is the eternal and only Ruler, King of kings, and Lord of lords;
+1Tim.6:16 Who only has life for ever, living in light to which no man may come near; whom no man has seen or is able to see: to whom be honour and power for ever. So be it.
+1Tim.6:17 Give orders to those who have money and goods in this life, not to be lifted up in their minds, or to put their hope in the uncertain chances of wealth, but in God who gives us in full measure all things for our use;
+1Tim.6:18 And to do good, having wealth in good works, being quick to give, taking part with one another;
+1Tim.6:19 Making ready for themselves a safe place for the time to come, so that the true life may be theirs.
+1Tim.6:20 O Timothy, take good care of that which is given to you, turning away from the wrong and foolish talk and arguments of that knowledge which is falsely so named;
+1Tim.6:21 Through which some, who gave their minds to it, have been turned away from the faith. Grace be with you.
+
+
+#####    2 Timothy    #####
+
+2Tim.1:1 Paul, an Apostle of Jesus Christ by the purpose of God, in the hope of the life which is in Christ Jesus,
+2Tim.1:2 To Timothy, my well-loved child: Grace, mercy, peace, from God the Father and Christ Jesus our Lord.
+2Tim.1:3 I give praise to God, whose servant I have been, with a heart free from sin, from the time of my fathers, because in my prayers at all times the thought of you is with me, night and day
+2Tim.1:4 Desiring to see you, keeping in my memory your weeping, so that I may be full of joy;
+2Tim.1:5 Having in mind your true faith, which first was in your mother's mother Lois, and in your mother Eunice, and, I am certain, is now in you.
+2Tim.1:6 For this reason I say to you, Let that grace of God which is in you, given to you by my hands, have living power.
+2Tim.1:7 For God did not give us a spirit of fear, but of power and of love and of self-control.
+2Tim.1:8 Have no feeling of shame, then, for the witness of our Lord or for me, his prisoner: but undergo all things for the good news in the measure of the power of God;
+2Tim.1:9 Who gave us salvation, marking us out for his purpose, not on account of our works, but in the measure of his purpose and his grace, which was given to us in Christ Jesus before times eternal,
+2Tim.1:10 But has now been made clear by the revelation of our Saviour Christ Jesus, who put an end to death and made life unending come to light through the good news,
+2Tim.1:11 Of which I was made a preacher and an Apostle and a teacher;
+2Tim.1:12 And for which I undergo these things: but I have no feeling of shame. For I have knowledge of him in whom I have faith, and I am certain that he is able to keep that which I have given into his care till that day.
+2Tim.1:13 Keep the form of those true words which you had from me, in faith and love which is in Christ Jesus.
+2Tim.1:14 That good thing which was given to you keep safe, through the Holy Spirit which is in us.
+2Tim.1:15 You have had news that all those in Asia went away from me; among whom are Phygelus and Hermogenes:
+2Tim.1:16 May the Lord give mercy to the house of Onesiphorus because he frequently gave me help, and had no feeling of shame because I was in chains;
+2Tim.1:17 But when he was in Rome, he went in search of me everywhere, and came to me
+2Tim.1:18 (May he have the Lord's mercy in that day); and of all he did for me at Ephesus you have full knowledge.
+
+2Tim.2:1 So then, my child, be strong in the grace which is in Christ Jesus.
+2Tim.2:2 And the things which I have said to you before a number of witnesses, give to those of the faith, so that they may be teachers of others.
+2Tim.2:3 Be ready to do without the comforts of life, as one of the army of Christ Jesus.
+2Tim.2:4 A fighting man, when he is with the army, keeps himself free from the business of this life so that he may be pleasing to him who has taken him into his army.
+2Tim.2:5 And if a man takes part in a competition he does not get the crown if he has not kept the rules.
+2Tim.2:6 It is right for the worker in the fields to be the first to take of the fruit.
+2Tim.2:7 Give thought to what I say; for the Lord will give you wisdom in all things.
+2Tim.2:8 Keep in mind Jesus Christ, of the seed of David, who came back from the dead, as my good news gives witness:
+2Tim.2:9 In which I put up with the hardest conditions, even prison chains, like one who has done a crime; but the word of God is not in chains.
+2Tim.2:10 But I undergo all things for the saints, so that they may have salvation in Christ Jesus with eternal glory.
+2Tim.2:11 This is a true saying: If we undergo death with him, then will we be living with him:
+2Tim.2:12 If we go on to the end, then we will be ruling with him: if we say we have no knowledge of him, then he will say he has no knowledge of us:
+2Tim.2:13 If we are without faith, still he keeps faith, for he will never be untrue to himself.
+2Tim.2:14 Put these things before them, giving them orders in the name of the Lord to keep themselves from fighting about words, which is of no profit, only causing error in their hearers.
+2Tim.2:15 Let it be your care to get the approval of God, as a workman who has no cause for shame, giving the true word in the right way.
+2Tim.2:16 But take no part in wrong and foolish talk, for those who do so will go farther into evil,
+2Tim.2:17 And their words will be like poisoned wounds in the flesh: such are Hymenaeus and Philetus;
+2Tim.2:18 Men whose ideas are all false, who say that the coming back from the dead has even now taken place, overturning the faith of some.
+2Tim.2:19 But God's strong base is unchanging, having this sign, The Lord has knowledge of those who are his: and, Let everyone by whom the name of the Lord is named be turned away from evil.
+2Tim.2:20 Now in a great house there are not only vessels of gold and silver, but others of wood and earth, and some which are honoured and some without honour.
+2Tim.2:21 If a man makes himself clean from these, he will be a vessel for honour, made holy, ready for the master's use, ready for every good work.
+2Tim.2:22 But keep yourself from those desires of the flesh which are strong when the body is young, and go after righteousness, faith, love, peace, with those whose prayers go up to the Lord from a clean heart.
+2Tim.2:23 And put away foolish and uncontrolled questionings, seeing that they are a cause of trouble.
+2Tim.2:24 For it is not right for the Lord's servant to make trouble, but he is to be gentle to all, ready in teaching, putting up with wrong,
+2Tim.2:25 Gently guiding those who go against the teaching; if by chance God may give them a change of heart and true knowledge,
+2Tim.2:26 And so they may get themselves free from the net of the Evil One, being made the prisoners of the Lord's servant, for the purpose of God.
+
+2Tim.3:1 But be certain of this, that in the last days times of trouble will come.
+2Tim.3:2 For men will be lovers of self, lovers of money, uplifted in pride, given to bitter words, going against the authority of their fathers, never giving praise, having no religion,
+2Tim.3:3 Without natural love, bitter haters, saying evil of others, violent and uncontrolled, hating all good,
+2Tim.3:4 False to their friends, acting without thought, lifted up in mind, loving pleasure more than God;
+2Tim.3:5 Having a form of religion, but turning their backs on the power of it: go not with these.
+2Tim.3:6 For these are they who go secretly into houses, making prisoners of foolish women, weighted down with sin, turned from the way by their evil desires,
+2Tim.3:7 Ever learning, and never coming to the knowledge of what is true.
+2Tim.3:8 And as James and Jambres went against Moses, so do these go against what is true: men of evil minds, who, tested by faith, are seen to be false.
+2Tim.3:9 But they will go no farther: for their foolish behaviour will be clear to all men, as theirs was in the end.
+2Tim.3:10 But you took as your example my teaching, behaviour, purpose, and faith; my long waiting, my love, my quiet undergoing of trouble;
+2Tim.3:11 My punishments and pain; the things which came to me at Antioch, at Iconium, at Lystra; the cruel attacks made on me: and the Lord made me free from them all.
+2Tim.3:12 Yes, and all whose purpose is to be living in the knowledge of God in Christ Jesus, will be cruelly attacked.
+2Tim.3:13 Evil and false men will become worse and worse, using deceit and themselves overcome by deceit.
+2Tim.3:14 But see that you keep to the teaching you have been given and the things of which you are certain, conscious of who has been your teacher;
+2Tim.3:15 And that from the time when you were a child, you have had knowledge of the holy Writings, which are able to make you wise to salvation, through faith in Christ Jesus.
+2Tim.3:16 Every holy Writing which comes from God is of profit for teaching, for training, for guiding, for education in righteousness:
+2Tim.3:17 So that the man of God may be complete, trained and made ready for every good work.
+
+2Tim.4:1 I give you orders, before God and Christ Jesus, who will be the judge of the living and the dead, and by his revelation and his kingdom;
+2Tim.4:2 Be preaching the word at all times, in every place; make protests, say sharp words, give comfort, with long waiting and teaching;
+2Tim.4:3 For the time will come when they will not take the true teaching; but, moved by their desires, they will get for themselves a great number of teachers for the pleasure of hearing them;
+2Tim.4:4 And shutting their ears to what is true, will be turned away to belief in foolish stories.
+2Tim.4:5 But be self-controlled in all things, do without comfort, go on preaching the good news, completing the work which has been given you to do.
+2Tim.4:6 For I am even now being offered, and my end is near.
+2Tim.4:7 I have made a good fight, I have come to the end of my journey, I have kept the faith:
+2Tim.4:8 From now on, the crown of righteousness is made ready for me, which the Lord, the upright judge, Will give to me at that day: and not only to me, but to all those who have had love for his revelation.
+2Tim.4:9 Do your best to come to me before long:
+2Tim.4:10 For Demas has gone away from me, for love of this present life, and has gone to Thessalonica: Crescens has gone to Galatia, Titus to Dalmatia.
+2Tim.4:11 Only Luke is with me. Get Mark and take him with you; for he is of use to me in the work.
+2Tim.4:12 Tychicus I sent to Ephesus.
+2Tim.4:13 The coat which I did not take from Troas and which is with Carpus, get when you come, and the books, specially the papers.
+2Tim.4:14 Alexander the copper-worker did me much wrong: the Lord will give him the reward of his works:
+2Tim.4:15 But be on the watch for him, for he was violent in his attacks on our teaching.
+2Tim.4:16 At my first meeting with my judges, no one took my part, but all went away from me. May it not be put to their account.
+2Tim.4:17 But the Lord was by my side and gave me strength; so that through me the news might be given out in full measure, and all the Gentiles might give ear: and I was taken out of the mouth of the lion.
+2Tim.4:18 The Lord will keep me safe from every evil work and will give me salvation in his kingdom in heaven: to whom be glory for ever and ever. So be it.
+2Tim.4:19 Give my love to Prisca and Aquila and those of the house of Onesiphorus.
+2Tim.4:20 Erastus was stopping at Corinth; but Trophimus, when I last saw him was at Miletus, ill.
+2Tim.4:21 Do your best to come before the winter. Eubulus sends you his love, and Pudens and Linus and Claudia, and all the brothers.
+2Tim.4:22 The Lord be with your spirit. Grace be with you.
+
+
+
+#####    1 Peter    #####
+
+1Pet.1:1 Peter, an Apostle of Jesus Christ, to the saints who are living in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+1Pet.1:2 Who, through the purpose of God, have been made holy by the Spirit, disciples of Jesus, made clean by his blood: May you have grace and peace in full measure.
+1Pet.1:3 Praise be to the God and Father of our Lord Jesus Christ, who through his great mercy has given us a new birth and a living hope by the coming again of Jesus Christ from the dead,
+1Pet.1:4 And a heritage fair, holy and for ever new, waiting in heaven for you,
+1Pet.1:5 Who, by the power of God are kept, through faith, for that salvation, which will be seen at the last day.
+1Pet.1:6 You have cause for great joy in this, though it may have been necessary for you to be troubled for a little time, being tested in all sorts of ways,
+1Pet.1:7 So that the true metal of your faith, being of much greater value than gold (which, though it comes to an end, is tested by fire), may come to light in praise and glory and honour, at the revelation of Jesus Christ:
+1Pet.1:8 To whom your love is given, though you have not seen him; and the faith which you have in him, though you do not see him now, gives you joy greater than words and full of glory:
+1Pet.1:9 For so you have the true end of your faith, even the salvation of your souls.
+1Pet.1:10 For the prophets who gave the news of the grace which would come to you, made search with all care for knowledge of this salvation;
+1Pet.1:11 Attempting to see what sort of time the Spirit of Christ which was in them was pointing to, when it gave witness to the pains which Christ would undergo and the glories which would come after them.
+1Pet.1:12 And it was made clear to those prophets that they were God's servants not for themselves but for you, to give you word of the things which have now come to your ears from the preachers of the good news through the Holy Spirit sent down from heaven; things which even angels have a desire to see.
+1Pet.1:13 So make your minds ready, and keep on the watch, hoping with all your power for the grace which is to come to you at the revelation of Jesus Christ;
+1Pet.1:14 Like children ruled by God, do not go back to the old desires of the time when you were without knowledge:
+1Pet.1:15 But be holy in every detail of your lives, as he, whose servants you are, is holy;
+1Pet.1:16 Because it has been said in the Writings, You are to be holy, for I am holy.
+1Pet.1:17 And if you give the name of Father to him who, judging every man by his acts, has no respect for a man's position, then go in fear while you are on this earth:
+1Pet.1:18 Being conscious that you have been made free from that foolish way of life which was your heritage from your fathers, not through a payment of things like silver or gold which come to destruction,
+1Pet.1:19 But through holy blood, like that of a clean and unmarked lamb, even the blood of Christ:
+1Pet.1:20 Who was marked out by God before the making of the world, but was caused to be seen in these last times for you,
+1Pet.1:21 Who through him have faith in God who took him up again from the dead into glory; so that your faith and hope might be in God.
+1Pet.1:22 And as you have made your souls clean, being ruled by what is true, and loving one another without deceit, see that your love is warm and from the heart:
+1Pet.1:23 Because you have had a new birth, not from the seed of man, but from eternal seed, through the word of a living and unchanging God.
+1Pet.1:24 For it is said, All flesh is like grass, and all its glory like the flower of the grass. The grass becomes dry and the flower dead:
+1Pet.1:25 But the word of the Lord is eternal. And this is the word of the good news which was given to you.
+
+1Pet.2:1 So putting away all wrongdoing, and all tricks and deceits and envies and evil talk,
+1Pet.2:2 Be full of desire for the true milk of the word, as babies at their mothers' breasts, so that you may go on to salvation;
+1Pet.2:3 If you have had a taste of the grace of the Lord:
+1Pet.2:4 To whom you come, as to a living stone, not honoured by men, but of great and special value to God;
+1Pet.2:5 You, as living stones, are being made into a house of the spirit, a holy order of priests, making those offerings of the spirit which are pleasing to God through Jesus Christ.
+1Pet.2:6 Because it is said in the Writings, See, I am placing a keystone in Zion, of great and special value; and the man who has faith in him will not be put to shame.
+1Pet.2:7 And the value is for you who have faith; but it is said for those without faith, The very stone which the builders put on one side, was made the chief stone of the building;
+1Pet.2:8 And, A stone of falling, a rock of trouble; the word is the cause of their fall, because they go against it, and this was the purpose of God.
+1Pet.2:9 But you are a special people, a holy nation, priests and kings, a people given up completely to God, so that you may make clear the virtues of him who took you out of the dark into the light of heaven.
+1Pet.2:10 In the past you were not a people, but now you are the people of God; then there was no mercy for you, but now mercy has been given to you.
+1Pet.2:11 My loved ones, I make this request with all my heart, that, as those for whom this world is a strange country, you will keep yourselves from the desires of the flesh which make war against the soul;
+1Pet.2:12 Being of good behaviour among the Gentiles; so that though they say now that you are evil-doers, they may see your good works and give glory to God when he comes to be their judge.
+1Pet.2:13 Keep all the laws of men because of the Lord; those of the king, who is over all,
+1Pet.2:14 And those of the rulers who are sent by him for the punishment of evil-doers and for the praise of those who do well.
+1Pet.2:15 Because it is God's pleasure that foolish and narrow-minded men may be put to shame by your good behaviour:
+1Pet.2:16 As those who are free, not using your free position as a cover for wrongdoing, but living as the servants of God;
+1Pet.2:17 Have respect for all, loving the brothers, fearing God, honouring the king.
+1Pet.2:18 Servants, take orders from your masters with all respect; not only if they are good and gentle, but even if they are bad-humoured.
+1Pet.2:19 For it is a sign of grace if a man, desiring to do right in the eyes of God, undergoes pain as punishment for something which he has not done.
+1Pet.2:20 What credit is it if, when you have done evil, you take your punishment quietly? but if you are given punishment for doing right, and take it quietly, this is pleasing to God.
+1Pet.2:21 This is God's purpose for you: because Jesus himself underwent punishment for you, giving you an example, so that you might go in his footsteps:
+1Pet.2:22 Who did no evil, and there was no deceit in his mouth:
+1Pet.2:23 To sharp words he gave no sharp answer; when he was undergoing pain, no angry word came from his lips; but he put himself into the hands of the judge of righteousness:
+1Pet.2:24 He took our sins on himself, giving his body to be nailed on the tree, so that we, being dead to sin, might have a new life in righteousness, and by his wounds we have been made well.
+1Pet.2:25 Because, like sheep, you had gone out of the way; but now you have come back to him who keeps watch over your souls.
+
+1Pet.3:1 Wives, be ruled by your husbands; so that even if some of them give no attention to the word, their hearts may be changed by the behaviour of their wives,
+1Pet.3:2 When they see your holy behaviour in the fear of God.
+1Pet.3:3 Do not let your ornaments be those of the body such as dressing of the hair, or putting on of jewels of gold or fair clothing;
+1Pet.3:4 But let them be those of the unseen man of the heart, the ever-shining ornament of a gentle and quiet spirit, which is of great price in the eyes of God.
+1Pet.3:5 And these were the ornaments of the holy women of the past, whose hope was in God, being ruled by their husbands:
+1Pet.3:6 As Sarah was ruled by Abraham, naming him lord; whose children you are if you do well, and are not put in fear by any danger.
+1Pet.3:7 And you husbands, give thought to your way of life with your wives, giving honour to the woman who is the feebler vessel, but who has an equal part in the heritage of the grace of life; so that you may not be kept from prayer.
+1Pet.3:8 Last of all, see that you are all in agreement; feeling for one another, loving one another like brothers, full of pity, without pride:
+1Pet.3:9 Not giving back evil for evil, or curse for curse, but in place of cursing, blessing; because this is the purpose of God for you that you may have a heritage of blessing.
+1Pet.3:10 For it is said, Let the man who has a love of life, desiring to see good days, keep his tongue from evil and his lips from words of deceit:
+1Pet.3:11 And let him be turned from evil and do good; searching for peace and going after it with all his heart.
+1Pet.3:12 For the eyes of the Lord are on the upright, and his ears are open to their prayers: but the face of the Lord is against those who do evil.
+1Pet.3:13 Who will do you any damage if you keep your minds fixed on what is good?
+1Pet.3:14 But you are happy if you undergo pain because of righteousness; have no part in their fear and do not be troubled;
+1Pet.3:15 But give honour to Christ in your hearts as your Lord; and be ready at any time when you are questioned about the hope which is in you, to give an answer in the fear of the Lord and without pride;
+1Pet.3:16 Being conscious that you have done no wrong; so that those who say evil things about your good way of life as Christians may be put to shame.
+1Pet.3:17 Because if it is God's purpose for you to undergo pain, it is better to do so for well-doing than for evil-doing.
+1Pet.3:18 Because Christ once went through pain for sins, the upright one taking the place of sinners, so that through him we might come back to God; being put to death in the flesh, but given life in the Spirit;
+1Pet.3:19 By whom he went to the spirits in prison, preaching to those
+1Pet.3:20 Who, in the days of Noah, went against God's orders; but God in his mercy kept back the punishment, while Noah got ready the ark, in which a small number, that is to say eight persons, got salvation through water:
+1Pet.3:21 And baptism, of which this is an image, now gives you salvation, not by washing clean the flesh, but by making you free from the sense of sin before God, through the coming again of Jesus Christ from the dead;
+1Pet.3:22 Who has gone into heaven, and is at the right hand of God, angels and authorities and powers having been put under his rule.
+
+1Pet.4:1 So that as Jesus was put to death in the flesh, do you yourselves be of the same mind; for the death of the flesh puts an end to sin;
+1Pet.4:2 So that you may give the rest of your lives in the flesh, not to the desires of men, but to the purpose of God.
+1Pet.4:3 Because for long enough, in times past, we have been living after the way of the Gentiles, given up to the desires of the flesh, to drinking and feasting and loose behaviour and unclean worship of images;
+1Pet.4:4 And they are wondering that you no longer go with them in this violent wasting of life, and are saying evil things of you:
+1Pet.4:5 But they will have to give an account of themselves to him who is ready to be the judge of the living and the dead.
+1Pet.4:6 For this was the reason why the good news of Jesus was given even to the dead, so that they might be judged as men in the flesh, but might be living before God in the spirit.
+1Pet.4:7 But the end of all things is near: so be serious in your behaviour and keep on the watch with prayer;
+1Pet.4:8 And most of all be warm in your love for one another; because in love there is forgiveness for sins without number:
+1Pet.4:9 Keep open house for all with a glad heart;
+1Pet.4:10 Making distribution among one another of whatever has been given to you, like true servants of the unmeasured grace of God;
+1Pet.4:11 If anyone has anything to say, let it be as the words of God; if anyone has the desire to be the servant of others, let him do it in the strength which is given by God; so that in all things God may have the glory through Jesus Christ, whose are the glory and the power for ever.
+1Pet.4:12 Dear brothers, do not be surprised, as if it was something strange, if your faith is tested as by fire:
+1Pet.4:13 But be glad that you are given a part in the pains of Christ; so that at the revelation of his glory you may have great joy.
+1Pet.4:14 If men say evil things of you because of the name of Christ, happy are you; for the Spirit of glory and of God is resting on you.
+1Pet.4:15 Let no one among you undergo punishment as a taker of life, or as a thief, or as an evil-doer, or as one who is over-interested in other men's business;
+1Pet.4:16 But if he undergoes punishment as a Christian, that is no shame to him; let him give glory to God in this name.
+1Pet.4:17 For the time has come for the judging, starting with the church of God; but if it makes a start with us, what will be the end of those who are not under the rule of God?
+1Pet.4:18 And if it is hard for even the good man to get salvation, what chance has the man without religion or the sinner?
+1Pet.4:19 For this reason let those who by the purpose of God undergo punishment, keep on in well-doing and put their souls into the safe hands of their Maker.
+
+1Pet.5:1 I who am myself one of the rulers of the church, and a witness of the death of Christ, having my part in the coming glory, send this serious request to the chief men among you:
+1Pet.5:2 Keep watch over the flock of God which is in your care, using your authority, not as forced to do so, but gladly; and not for unclean profit but with a ready mind;
+1Pet.5:3 Not as lords over God's heritage, but making yourselves examples to the flock.
+1Pet.5:4 And at the coming of the chief Keeper of the sheep, you will be given the eternal crown of glory.
+1Pet.5:5 And in the same way, let the younger men be ruled by the older ones. Let all of you put away pride and make yourselves ready to be servants: for God is a hater of pride, but he gives grace to those who make themselves low.
+1Pet.5:6 For this cause make yourselves low under the strong hand of God, so that when the time comes you may be lifted up;
+1Pet.5:7 Putting all your troubles on him, for he takes care of you.
+1Pet.5:8 Be serious and keep watch; the Evil One, who is against you, goes about like a lion with open mouth in search of food;
+1Pet.5:9 Do not give way to him but be strong in your faith, in the knowledge that your brothers who are in the world undergo the same troubles.
+1Pet.5:10 And after you have undergone pain for a little time, the God of all grace who has given you a part in his eternal glory through Christ Jesus, will himself give you strength and support, and make you complete in every good thing;
+1Pet.5:11 His is the power for ever. So be it.
+1Pet.5:12 I have sent you this short letter by Silvanus, a true brother, in my opinion; comforting you and witnessing that this is the true grace of God; keep to it.
+1Pet.5:13 She who is in Babylon, who has a part with you in the purpose of God, sends you her love; and so does my son Mark.
+1Pet.5:14 Give one another the kiss of love. Peace be to you all in Christ.
+
+
+
+#####    2 Peter    #####
+
+2Pet.1:1 Simon Peter, a servant and Apostle of Jesus Christ, to those who with us have a part in the same holy faith in the righteousness of our God and Saviour Jesus Christ:
+2Pet.1:2 May grace and peace ever be increasing in you, in the knowledge of God and of Jesus our Lord;
+2Pet.1:3 Because by his power he has given us everything necessary for life and righteousness, through the knowledge of him who has been our guide by his glory and virtue;
+2Pet.1:4 And through this he has given us the hope of great rewards highly to be valued; so that by them we might have our part in God's being, and be made free from the destruction which is in the world through the desires of the flesh.
+2Pet.1:5 So, for this very cause, take every care; joining virtue to faith, and knowledge to virtue,
+2Pet.1:6 And self-control to knowledge, and a quiet mind to self-control, and fear of God to a quiet mind,
+2Pet.1:7 And love of the brothers to fear of God, and to love of the brothers, love itself.
+2Pet.1:8 For if you have these things in good measure, they will make you fertile and full of fruit in the knowledge of our Lord Jesus Christ.
+2Pet.1:9 For the man who has not these things is blind, seeing only what is near, having no memory of how he was made clean from his old sins.
+2Pet.1:10 For this reason, my brothers, take all the more care to make your selection and approval certain; for if you do these things you will never have a fall:
+2Pet.1:11 For so the way will be open to you into the eternal kingdom of our Lord and Saviour Jesus Christ.
+2Pet.1:12 For this reason I will be ready at all times to keep your memory of these things awake, though you have the knowledge of them now and are well based in your present faith.
+2Pet.1:13 And it seems right to me, as long as I am in this tent of flesh, to keep your minds awake by working on your memory;
+2Pet.1:14 For I am conscious that in a short time I will have to put off this tent of flesh, as our Lord Jesus Christ has made clear to me.
+2Pet.1:15 And I will take every care so that you may have a clear memory of these things after my death.
+2Pet.1:16 For when we gave you news of the power and the coming of our Lord Jesus Christ, our teaching was not based on stories put together by art, but we were eye-witnesses of his glory.
+2Pet.1:17 For God the Father gave him honour and glory, when such a voice came to him out of the great glory, saying, This is my dearly loved Son, with whom I am well pleased.
+2Pet.1:18 And this voice came from heaven even to our ears, when we were with him on the holy mountain.
+2Pet.1:19 And so the words of the prophets are made more certain; and it is well for you to give attention to them as to a light shining in a dark place, till the dawn comes and the morning star is seen in your hearts;
+2Pet.1:20 Being conscious in the first place that no man by himself may give a special sense to the words of the prophets.
+2Pet.1:21 For these words did not ever come through the impulse of men: but the prophets had them from God, being moved by the Holy Spirit.
+
+2Pet.2:1 But there were false prophets among the people, as there will be false teachers among you, who will secretly put forward wrong teachings for your destruction, even turning away from the Lord who gave himself for them; whose destruction will come quickly, and they themselves will be the cause of it.
+2Pet.2:2 And a great number will go with them in their evil ways, through whom the true way will have a bad name.
+2Pet.2:3 And in their desire for profit they will come to you with words of deceit, like traders doing business in souls: whose punishment has been ready for a long time and their destruction is watching for them.
+2Pet.2:4 For if God did not have pity for the angels who did evil, but sent them down into hell, to be kept in chains of eternal night till they were judged;
+2Pet.2:5 And did not have mercy on the world which then was, but only kept safe Noah, a preacher of righteousness, with seven others, when he let loose the waters over the world of the evil-doers;
+2Pet.2:6 And sent destruction on Sodom and Gomorrah, burning them up with fire as an example to those whose way of life might in the future be unpleasing to him;
+2Pet.2:7 And kept safe Lot, the upright man, who was deeply troubled by the unclean life of the evil-doers
+2Pet.2:8 (Because the soul of that upright man living among them was pained from day to day by seeing and hearing their crimes):
+2Pet.2:9 The Lord is able to keep the upright safe in the time of testing, and to keep evil-doers under punishment till the day of judging;
+2Pet.2:10 But specially those who go after the unclean desires of the flesh, and make sport of authority. Ready to take chances, uncontrolled, they have no fear of saying evil of those in high places:
+2Pet.2:11 Though the angels, who are greater in strength and power, do not make use of violent language against them before the Lord.
+2Pet.2:12 But these men, like beasts without reason, whose natural use is to be taken and put to death, crying out against things of which they have no knowledge, will undergo that same destruction which they are designing for others;
+2Pet.2:13 For the evil which overtakes them is the reward of their evil-doing: such men take their pleasure in the delights of the flesh even in the daytime; they are like the marks of a disease, like poisoned wounds among you, feasting together with you in joy;
+2Pet.2:14 Having eyes full of evil desire, never having enough of sin; turning feeble souls out of the true way; they are children of cursing, whose hearts are well used to bitter envy;
+2Pet.2:15 Turning out of the true way, they have gone wandering in error, after the way of Balaam, the son of Beor, who was pleased to take payment for wrongdoing;
+2Pet.2:16 But his wrongdoing was pointed out to him: an ass, talking with a man's voice, put a stop to the error of the prophet.
+2Pet.2:17 These are fountains without water, and mists before a driving storm; for whom the eternal night is kept in store.
+2Pet.2:18 For with high-sounding false words, making use of the attraction of unclean desires of the flesh, they get into their power those newly made free from those who are living in error;
+2Pet.2:19 Saying that they will be free, while they themselves are the servants of destruction; because whatever gets the better of a man makes a servant of him.
+2Pet.2:20 For if, after they have got free from the unclean things of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again taken in the net and overcome, their last condition is worse than their first.
+2Pet.2:21 For it would have been better for them to have had no knowledge of the way of righteousness, than to go back again from the holy law which was given to them, after having knowledge of it.
+2Pet.2:22 They are an example of that true saying, The dog has gone back to the food it had put out, and the pig which had been washed to its rolling in the dirty earth.
+
+2Pet.3:1 My loved ones, this is now my second letter to you, and in this as in the first, I am attempting to keep your true minds awake;
+2Pet.3:2 So that you may keep in mind the words of the holy prophets in the past, and the law of the Lord and Saviour which was given to you by his Apostles.
+2Pet.3:3 Having first of all the knowledge that in the last days there will be men who, ruled by their evil desires, will make sport of holy things,
+2Pet.3:4 Saying, Where is the hope of his coming? From the death of the fathers till now everything has gone on as it was from the making of the world.
+2Pet.3:5 But in taking this view they put out of their minds the memory that in the old days there was a heaven, and an earth lifted out of the water and circled by water, by the word of God;
+2Pet.3:6 And that the world which then was came to an end through the overflowing of the waters.
+2Pet.3:7 But the present heaven and the present earth have been kept for destruction by fire, which is waiting for them on the day of the judging and destruction of evil men.
+2Pet.3:8 But, my loved ones, keep in mind this one thing, that with the Lord one day is the same as a thousand years, and a thousand years are no more than one day.
+2Pet.3:9 The Lord is not slow in keeping his word, as he seems to some, but he is waiting in mercy for you, not desiring the destruction of any, but that all may be turned from their evil ways.
+2Pet.3:10 But the day of the Lord will come like a thief; and in that day the heavens will be rolled up with a great noise, and the substance of the earth will be changed by violent heat, and the world and everything in it will be burned up.
+2Pet.3:11 Seeing then that all these things are coming to such an end, what sort of persons is it right for you to be, in all holy behaviour and righteousness,
+2Pet.3:12 Looking for and truly desiring the coming of the day of God, when the heavens will come to an end through fire, and the substance of the earth will be changed by the great heat?
+2Pet.3:13 But having faith in his word, we are looking for a new heaven and a new earth, which will be the resting-place of righteousness.
+2Pet.3:14 For this reason, my loved ones, as you are looking for these things, take great care that when he comes you may be in peace before him, free from sin and every evil thing.
+2Pet.3:15 And be certain that the long waiting of the Lord is for salvation; even as our brother Paul has said in his letters to you, from the wisdom which was given to him;
+2Pet.3:16 And as he said in all his letters, which had to do with these things; in which are some hard sayings, so that, like the rest of the holy Writings, they are twisted by those who are uncertain and without knowledge, to the destruction of their souls.
+2Pet.3:17 For this reason, my loved ones, having knowledge of these things before they take place, take care that you are not turned away by the error of the uncontrolled, so falling from your true faith.
+2Pet.3:18 But be increased in grace and in the knowledge of our Lord and Saviour Jesus Christ. May he have glory now and for ever. So be it.
+
+
+
+#####    1 John    #####
+
+1John.1:1 That which was from the first, which has come to our ears, and which we have seen with our eyes, looking on it and touching it with our hands, about the Word of life
+1John.1:2 (And the life was made clear to us, and we have seen it and are witnessing to it and giving you word of that eternal life which was with the Father and was seen by us);
+1John.1:3 We give you word of all we have seen and everything which has come to our ears, so that you may be united with us; and we are united with the Father and with his Son Jesus Christ:
+1John.1:4 And we are writing these things to you so that our joy may be made complete.
+1John.1:5 This is the word which came to us from him and which we give to you, that God is light and in him there is nothing dark.
+1John.1:6 If we say we are joined to him, and are walking still in the dark, our words are false and our acts are untrue:
+1John.1:7 But if we are walking in the light, as he is in the light, we are all united with one another, and the blood of Jesus his Son makes us clean from all sin.
+1John.1:8 If we say that we have no sin, we are false to ourselves and there is nothing true in us.
+1John.1:9 If we say openly that we have done wrong, he is upright and true to his word, giving us forgiveness of sins and making us clean from all evil.
+1John.1:10 If we say that we have no sin, we make him false and his word is not in us.
+
+1John.2:1 My little children, I am writing these things to you so that you may be without sin. And if any man is a sinner, we have a friend and helper with the Father, Jesus Christ, the upright one:
+1John.2:2 He is the offering for our sins; and not for ours only, but for all the world.
+1John.2:3 And by this we may be certain that we have knowledge of him, if we keep his laws.
+1John.2:4 The man who says, I have knowledge of him, and does not keep his laws, is false, and there is nothing true in him:
+1John.2:5 But in every man who keeps his word, the love of God is made complete. By this we may be certain that we are in him:
+1John.2:6 He who says that he is living in him, will do as he did.
+1John.2:7 My loved ones, I do not give you a new law, but an old law which you had from the first; this old law is the word which came to your ears.
+1John.2:8 Again, I give you a new law, which is true in him and in you; for the night is near its end and the true light is even now shining out.
+1John.2:9 He who says that he is in the light, and has hate in his heart for his brother, is still in the dark.
+1John.2:10 He who has love for his brother is in the light, and there is no cause of error in him.
+1John.2:11 But he who has hate for his brother is in the dark, walking in the dark with no knowledge of where he is going, unable to see because of the dark.
+1John.2:12 I am writing to you, my children, because you have forgiveness of sins through his name.
+1John.2:13 I am writing to you, fathers, because you have knowledge of him who was from the first. I am writing to you, young men, because you have overcome the Evil One. I have sent a letter to you, children, because you have knowledge of the Father.
+1John.2:14 I have sent a letter to you, fathers, because you have knowledge of him who was from the first. I have sent a letter to you, young men, because you are strong, and the word of God is in you, and because you have overcome the Evil One.
+1John.2:15 Have no love for the world or for the things which are in the world. If any man has love for the world, the love of the Father is not in him.
+1John.2:16 Because everything in the world, the desire of the flesh, the desire of the eyes, and the pride of life, is not of the Father but of the world.
+1John.2:17 And the world and its desires is coming to an end: but he who does God's pleasure is living for ever.
+1John.2:18 Little children, it is the last hour; and as you were given word that the Antichrist would come, so now a number of Antichrists have come to you; and by this we are certain that it is the last hour.
+1John.2:19 They went out from us but they were not of us; if they had been of us they would still be with us: but they went out from us so that it might be made clear that they were not of us.
+1John.2:20 And you have the Spirit from the Holy One and you all have knowledge.
+1John.2:21 I have not sent you this letter because you have no knowledge of what is true, but because you have knowledge, and because that which is false has nothing in common with that which is true.
+1John.2:22 Who is false but he who says that Jesus is not the Christ? He is the Antichrist who has no belief in the Father or the Son.
+1John.2:23 He who has no belief in the Son has not the Father: he who makes clear his belief in the Son has the Father.
+1John.2:24 But as for you, keep in your hearts the things which were made clear to you from the first. If you keep these things in your hearts you will be kept in the Father and the Son.
+1John.2:25 And this is the hope which he gave you, even eternal life.
+1John.2:26 I am writing these things to you about those whose purpose is that you may be turned out of the true way.
+1John.2:27 As for you, the Spirit which he gave you is still in you, and you have no need of any teacher; but as his Spirit gives you teaching about all things, and is true and not false, so keep your hearts in him, through the teaching which he has given you.
+1John.2:28 And now, my children, keep your hearts in him; so that at his revelation, we may have no fear or shame before him at his coming.
+1John.2:29 If you have knowledge that he is upright, it is clear to you that everyone who does righteousness is his offspring.
+
+1John.3:1 See what great love the Father has given us in naming us the children of God; and such we are. For this reason the world does not see who we are, because it did not see who he was.
+1John.3:2 My loved ones, now we are children of God, and at present it is not clear what we are to be. We are certain that at his revelation we will be like him; for we will see him as he is.
+1John.3:3 And everyone who has this hope in him makes himself holy, even as he is holy.
+1John.3:4 Everyone who is a sinner goes against the law, for sin is going against the law.
+1John.3:5 And you have knowledge that he came to take away sin: and in him there is no sin.
+1John.3:6 Anyone who is in him does no sin; anyone who is a sinner has not seen him and has no knowledge of him.
+1John.3:7 My little children, let no man take you out of the true way: he who does righteousness is upright, even as he is upright;
+1John.3:8 The sinner is a child of the Evil One; for the Evil One has been a sinner from the first. And the Son of God was seen on earth so that he might put an end to the works of the Evil One.
+1John.3:9 Anyone who is a child of God does no sin, because he still has God's seed in him; he is not able to be a sinner, because God is his Father.
+1John.3:10 In this way it is clear who are the children of God and who are the children of the Evil One; anyone who does not do righteousness or who has no love for his brother, is not a child of God.
+1John.3:11 Because this is the word which was given to you from the first, that we are to have love for one another;
+1John.3:12 Not being of the Evil One like Cain, who put his brother to death. And why did he put him to death? Because his works were evil and his brother's works were good.
+1John.3:13 Do not be surprised, my brothers, if the world has no love for you.
+1John.3:14 We are conscious that we have come out of death into life because of our love for the brothers. He who has no love is still in death.
+1John.3:15 Anyone who has hate for his brother is a taker of life, and you may be certain that no taker of life has eternal life in him.
+1John.3:16 In this we see what love is, because he gave his life for us; and it is right for us to give our lives for the brothers.
+1John.3:17 But if a man has this world's goods, and sees that his brother is in need, and keeps his heart shut against his brother, how is it possible for the love of God to be in him?
+1John.3:18 My little children, do not let our love be in word and in tongue, but let it be in act and in good faith.
+1John.3:19 In this way we may be certain that we are true, and may give our heart comfort before him,
+1John.3:20 When our heart says that we have done wrong; because God is greater than our heart, and has knowledge of all things.
+1John.3:21 My loved ones, if our heart does not say that we have done wrong, we have no fear before him;
+1John.3:22 And he gives us all our requests, because we keep his laws and do the things which are pleasing in his eyes.
+1John.3:23 And this is his law, that we have faith in the name of his Son Jesus Christ, and love for one another, even as he said to us.
+1John.3:24 He who keeps his laws is in God and God is in him. And the Spirit which he gave us is our witness that he is in us.
+
+1John.4:1 My loved ones, do not put your faith in every spirit, but put them to the test, to see if they are from God: because a great number of false prophets have gone out into the world.
+1John.4:2 By this you may have knowledge of the Spirit of God: every spirit which says that Jesus Christ has come in the flesh is of God:
+1John.4:3 And every spirit which does not say this is not from God: this is the spirit of Antichrist, of which you have had word; and it is in the world even now.
+1John.4:4 You are of God, my little children, and you have overcome them because he who is in you is greater than he who is in the world.
+1John.4:5 They are of the world, so their talk is the world's talk, and the world gives ear to them.
+1John.4:6 We are of God: he who has the knowledge of God gives ear to us; he who is not of God does not give ear to us. By this we may see which is the true spirit, and which is the spirit of error.
+1John.4:7 My loved ones, let us have love for one another: because love is of God, and everyone who has love is a child of God and has knowledge of God.
+1John.4:8 He who has no love has no knowledge of God, because God is love.
+1John.4:9 And the love of God was made clear to us when he sent his only Son into the world so that we might have life through him.
+1John.4:10 And this is love, not that we had love for God, but that he had love for us, and sent his Son to be an offering for our sins.
+1John.4:11 My loved ones, if God had such love for us, it is right for us to have love for one another.
+1John.4:12 No man has ever seen God: if we have love for one another, God is in us and his love is made complete in us:
+1John.4:13 And his Spirit which he has given us is the witness that we are in him and he is in us.
+1John.4:14 And we have seen and give witness that the Father sent the Son to be the Saviour of the world.
+1John.4:15 Everyone who says openly that Jesus is the Son of God, has God in him and is in God.
+1John.4:16 And we have seen and had faith in the love which God has for us. God is love, and everyone who has love is in God, and God is in him.
+1John.4:17 In this way love is made complete in us, so that we may be without fear on the day of judging, because as he is, so are we in this world.
+1John.4:18 There is no fear in love: true love has no room for fear, because where fear is, there is pain; and he who is not free from fear is not complete in love.
+1John.4:19 We have the power of loving, because he first had love for us.
+1John.4:20 If a man says, I have love for God, and has hate for his brother, his words are false: for how is the man who has no love for his brother whom he has seen, able to have love for God whom he has not seen?
+1John.4:21 And this is the word which we have from him, that he who has love for God is to have the same love for his brother.
+
+1John.5:1 Everyone who has faith that Jesus is the Christ is a child of God: and everyone who has love for the Father has love for his child.
+1John.5:2 In this way, we are certain that we have love for the children of God, when we have love for God and keep his laws.
+1John.5:3 For loving God is keeping his laws: and his laws are not hard.
+1John.5:4 Anything which comes from God is able to overcome the world: and the power by which we have overcome the world is our faith.
+1John.5:5 Who is able to overcome the world but the man who has faith that Jesus is the Son of God?
+1John.5:6 This is he who came by water and by blood, Jesus Christ; not by water only but by water and by blood.
+1John.5:7 And the Spirit is the witness, because the Spirit is true.
+1John.5:8 There are three witnesses, the Spirit, the water, and the blood: and all three are in agreement.
+1John.5:9 If we take the witness of men to be true, the witness of God is greater: because this is the witness which God has given about his Son.
+1John.5:10 He who has faith in the Son of God has the witness in himself: he who has not faith in God makes him false, because he has not faith in the witness which God has given about his Son.
+1John.5:11 And his witness is this, that God has given us eternal life, and this life is in his Son.
+1John.5:12 He who has the Son has the life; he who has not the Son of God has not the life.
+1John.5:13 I have put these things in writing for you who have faith in the name of the Son of God, so that you may be certain that you have eternal life.
+1John.5:14 And we are certain that if we make any request to him which is right in his eyes, he will give ear to us:
+1John.5:15 And if we are certain that he gives ear to all our requests, we are equally certain that we will get our requests.
+1John.5:16 If a man sees his brother doing a sin which is not bad enough for death, let him make a prayer to God, and God will give life to him whose sin was not bad enough for death. There is a sin whose punishment is death: I do not say that he may make such a request then.
+1John.5:17 All evil-doing is sin: but death is not the punishment for every sort of sin.
+1John.5:18 We are certain that one who is a child of God will do no sin, but the Son of God keeps him so that he is not touched by the Evil One.
+1John.5:19 We are certain that we are of God, but all the world is in the power of the Evil One.
+1John.5:20 And we are certain that the Son of God has come, and has given us a clear vision, so that we may see him who is true, and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life.
+1John.5:21 My little children, keep yourselves from false gods.
+
+
+#####    2 John    #####
+
+2John.1:1 I, a ruler in the church, send word to the noble sister who is of God's selection, and to her children, for whom I have true love; and not only I, but all who have knowledge of what is true;
+2John.1:2 Because of this true knowledge which is in us, and will be with us for ever:
+2John.1:3 May grace, mercy, and peace be with us from God the Father, and from Jesus Christ, the Son of the Father, in all true love.
+2John.1:4 It gave me great joy to see some of your children walking in the true way, even as we were ordered to do by the Father.
+2John.1:5 And now, my sister, I make a request to you, not sending you a new law, but the law which we had from the first, that we have love for one another.
+2John.1:6 And love is the keeping of his laws. This is the law which was given to you from the first, so that you might keep it.
+2John.1:7 Because a number of false teachers have gone out into the world, who do not give witness that Jesus Christ came in the flesh. Such a one is a false teacher and Antichrist.
+2John.1:8 Keep watch over yourselves, so that you do not make our work of no effect, but may get your full reward.
+2John.1:9 Anyone who goes on and does not keep to the teaching of Christ, has not God: he who keeps to the teaching has the Father and the Son.
+2John.1:10 If anyone comes to you not having this teaching, do not take him into your house or give him words of love:
+2John.1:11 For he who gives him words of love has a part in his evil works.
+2John.1:12 Having much to say to you, it is not my purpose to put it all down with paper and ink: but I am hoping to come to you, and to have talk with you face to face, so that your joy may be full.
+2John.1:13 The children of your noble sister, who is of God's selection, send you their love.
