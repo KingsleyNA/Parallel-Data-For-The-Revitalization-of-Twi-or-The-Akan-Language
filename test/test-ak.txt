@@ -3,20 +3,20 @@
 The test data is from the verified 2012 Bible Society of Ghana Twi Translations 
 of the following books of the Bible:
 
-- Galatians
-- Colossians
-- Philemon
-- Philippians
-- Hebrews
-- Titus
-- 1 Thessalonians
-- 2 Thessalonians
-- 1 Timothy
-- 2 Timothy
-- 1 Peter
-- 2 Peter
-- 1 John
-- 2 John
+- Galatifo
+- Kolosefo
+- Filemon
+- Filipifo
+- Hebrifo
+- Tito
+- 1 Tesalonikafo
+- 2 Tesalonikafo
+- 1 Timoteo
+- 2 Timoteo
+- 1 Petro
+- 2 Petro
+- 1 Yohane
+- 2 Yohane
 
 Note: Chapters of all the books are ordered and separated by 'X-X-X'
 
