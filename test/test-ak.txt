@@ -1,3 +1,385 @@
+####################################################################################
+
+The test data is from the verified 2012 Bible Society of Ghana Twi Translations 
+of the following books of the Bible:
+
+- Galatians
+- Colossians
+- Philemon
+- Philippians
+- Hebrews
+- Titus
+- 1 Thessalonians
+- 2 Thessalonians
+- 1 Timothy
+- 2 Timothy
+- 1 Peter
+- 2 Peter
+- 1 John
+- 2 John
+
+Note: Chapters of all the books are ordered and separated by 'X-X-X'
+
+###################################################################################
+
+###   Galatifo   ####
+
+X-X-X
+
+1 Saa krataa yi fi me Paulo a ɔfrɛ a wɔfrɛɛ me sɛ memmɛyɛ ɔsomafo no mfi onipa na mmom efi Yesu Kristo ne Agya Nyankopɔn a ɔma ɔsɔre fii awufo mu no nkyɛn. 2 Me ne anuanom a wɔwɔ ha nyinaa bom kyia Galati asafo ahorow no nyinaa.
+
+3 Adom ne asomdwoe a efi yɛn Agya Nyankopɔn ne Awurade Yesu Kristo nka mo.
+
+4 Yɛn bɔne nti, Kristo yɛɛ osetie maa yɛn Agya Nyankopɔn nam so de ne ho bɔɔ afɔre de gyee yɛn fii bɔne a yɛwɔ mu nnɛ yi mu. 5 Anuonyam nka Onyankopɔn daa nyinaa. Amen.
+
+6 Mo ho yɛ me nwonwa! Ɛnkyɛɛ koraa, morepa nea ɔnam Kristo adom so frɛɛ mo no akɔ asɛmpa foforo ho. 7 Nokwarem, asɛmpa foforo biara nni baabi, nanso meka efisɛ, nnipa bi wɔ hɔ a wɔredan mo adwene pɛ sɛ wɔsesa Kristo Asɛmpa no.
+
+8 Na sɛ yɛn anaa ɔbɔfo fi soro bɛka asɛmpa a nsonoe da ɛno ne yɛn Asɛmpa no ntam a, onii no bɛka afobu a enni awiei mu. 9 Yɛaka dedaw na mereti mu bio se: Obiara a ɔbɛka asɛmpa a ɛne Asɛmpa a moagye atom no bɔ abira no bɛkɔ afobu a enni awiei mu.
+
+10 Nea nnipa pene so na mereyɛ yi anaa? Dabi! Mepɛ nea Onyankopɔn pene so! Anaa mereyɛ nea ɛsɔ nnipa ani? Sɛ migu so reyɛ nea ɛsɔ nnipa ani a, ɛnne merenyɛ Kristo somfo.
+
+11 Anuanom, mepɛ sɛ mote ase sɛ, Asɛmpa a meka kyerɛ mo no mfi onipa. 12 Me nsa anka amfi onipa nkyɛn. Saa ara nso na ɛnyɛ onipa na ɔkyerɛɛ me. Ɛyɛ Kristo no ankasa na ɔdaa no adi kyerɛɛ me.
+
+13 Moate sɛ na mesɛe m’adagyew nyinaa wɔ Yudasom ho. Afei moate nso sɛ na mede atirimɔden taa Onyankopɔn akyidifo na mefaa ɔkwan biara a metumi so pɛe sɛ metɔre wɔn ase. 14 M’afɛfo Yudafo no de, na m’adwene mu abue wɔ Yudasom ho sen wɔn nyinaa. Na mikita yɛn nenanom amanne nso mu denneenen.
+
+15 Nanso Onyankopɔn nam n’adom so frɛɛ me ansa na ɔrewo me sɛ memmɛsom no. Na bere a osii n’adwene pi 16 sɛ ɔbɛda ne Ba no adi akyerɛ me sɛnea ɛbɛyɛ a mɛka Asɛmpa a ɛfa ne ho akyerɛ Amanamanmufo no, mankɔ obiara nkyɛn amma wantu me fo; 17 saa ara nso na mankɔ Yerusalem mankohu asomafo a na wodi m’anim kan no. Mmom, mekɔɔ Arabia prɛko pɛ ɛnna mesan m’akyi baa Damasko. 18 Mfirihyia abiɛsa akyi na mekɔɔ Petro nkyɛn wɔ Yerusalem ne no kodii nkɔmmɔ. Midii ne nkyɛn nnawɔtwe abien. 19 Manhu ɔsomafo biara wɔ hɔ ka Awurade nua Yakobo ho.
+
+20 Nsɛm a merekyerɛw yi yɛ nokware. Merentwa nkontompo enti Onyankopɔn mmoa me.
+
+21 Ɛno akyi mebaa Siria ne Kilikia. 22 Saa bere no na Kristo asafo horow a wɔwɔ Yudea no mu nnipa nnim me. 23 Nsɛm a na wɔaka afa me ho se, “Afei de ɔbarima no a na ɔtaa yɛn no ka gyidi a na ɔpɛ sɛ ɔsɛe no no ho asɛm.” 24 Na me nti, wɔhyɛɛ Onyankopɔn anuonyam.
+
+
+X-X-X
+
+1 Mfe dunan akyi, me ne Barnaba san kɔɔ Yerusalem. Mede Tito nso kaa me ho. 2 Mekɔe efisɛ, Onyankopɔn na ɔdaa no adi kyerɛɛ me sɛ menkɔ. Me ne mpanyimfo no yɛɛ nhyiam kokoam kyerɛkyerɛɛ asɛmpa a meka mekyerɛɛ Amanamanmufo no mu kyerɛɛ wɔn. Na mempɛ sɛ m’adwuma a mayɛ dedaw ne nea migu so reyɛ no yɛ ɔkwa. 3 Ɛwom sɛ me hokafo Tito yɛ Helani de, nanso wɔanhyɛ no sɛ ontwa twetia, 4 na mmom, nnipa bi a wɔboapa yɛɛ wɔn ho sɛ anuanom no bi a wɔde wɔn ho abɔ kuw no pɛe sɛ wotwa no twetia. Saa nnipa yi baa yɛn mu sɛ akwansrafo bɛhwɛɛ ahofadi a yɛnam yɛn a yɛne Kristo ayɛ baako so anya no, na wɔnam so adan yɛn nkoa no. 5 Sɛnea ɛbɛyɛ a Asɛmpa no bɛtena mo nkyɛn nti, yɛamma wɔn kwan koraa.
+
+6 Wɔn a wɔfa wɔn ho sɛ wɔyɛ atitiriw no, sɛnea wɔte biara no meka se, minhu wɔn ntam nsonoe biara. Onyankopɔn nhwɛ nnipa ho mmu atɛn; saa mpanyimfo no mfaa adwene foforo biara mmɛkaa m’asɛm no ho. 7 Na mmom wohui sɛ Onyankopɔn de dwuma no ahyɛ me nsa sɛ menka Asɛmpa no nkyerɛ Amanamanmufo sɛnea ɔde dwuma no hyɛɛ Petro nsa sɛ ɔnka Asɛmpa no nkyerɛ Yudafo no ara pɛ. 8 Na Onyankopɔn a ɔnam Petro so yɛ adwuma sɛ Yudafo mu somafo no ara na ɔnam me so yɛ adwuma wɔ Amanamanmufo mu sɛnea Petro yɛ Yudafo mu adwuma no pɛ. 9 Yakobo, Petro ne Yohane a na wɔfa no sɛ wɔyɛ mpanyimfo no, gye too mu sɛ, Onyankopɔn ama me dwuma sononko bi sɛ minni, enti wokyiaa me ne Barnaba. Wɔpenee so sɛ yɛnyɛ adwuma wɔ Amanamanmufo no mu na wɔn nso wɔnyɛ adwuma wɔ Yudafo no mu. 10 Wobisae sɛ yɛnkae ahiafo wɔ wɔn kuw no mu sɛnea mepɛ sɛ meyɛ no.
+
+11 Bere a Petro baa Antiokia no, mitiaa nea ɔreyɛ no mu wɔ bagua mu, efisɛ, na ɔreyɛ mfomso. 12 Ansa na mmarima bi a Yakobo somaa wɔn no beduu hɔ no, na Petro ne anuanom Amanamanmufo no ato nsa adidi. Nanso nnipa no bedui akyi no, ɔtwee ne ho sɛ ɔne wɔn nnidi bio, efisɛ, na osuro wɔn a wɔpɛ sɛ wotwa Amanamanmufo twetia no. 13 Anuanom Yudafo a aka no yɛɛ sɛ ahufo de wɔn ho bɔɔ Petro maa Barnaba nso de ne ho kɔbataa wɔn ho. 14 Mihui sɛ nsɛm a wɔreka no ne Asɛmpa no bɔ abira no, mekaa no wɔ Petro ne bagua no anim se, “Woyɛ Yudani nanso woyɛ wo ho sɛ Amanamanmuni. Wonyɛ wo ho sɛ Yudani. Ɛbɛyɛ dɛn na woatumi ahyɛ Amanamanmufo ama wɔatena ase sɛ Yudafo?”
+
+15 Ɛyɛ nokware sɛ yɛyɛ Yudafo fi yɛn awo mu. Yɛnyɛ Amanamanmufo nnebɔneyɛfo no.
+
+16 Yenim sɛ ansa na obi bɛfata Onyankopɔn anim no, na gye sɛ wagye Yesu Kristo adi a ɛnyɛ sɛ ɔbɛyɛ nea Mmara no hwehwɛ sɛ ɔnyɛ no. Yɛn nso, yɛagye Kristo Yesu adi sɛnea ɛbɛyɛ a yɛnam ogye a yegye Kristo di no so na ɛnyɛ Mmara no apɛde a yɛyɛ so na yɛnam bɛfata Onyankopɔn anim. Onipa biara nni hɔ a ɔbɛyɛ nea Mmara no hwehwɛ sɛ ɔnyɛ na ɔbɛfata Onyankopɔn anim. 17 Sɛ yɛpɛ sɛ wobu yɛn bem wɔ Kristo mu na sɛ ɛda adi sɛ yɛyɛ nnebɔneyɛfo a, na ɛkyerɛ sɛ Kristo pɛ bɔne? Ɛnte saa koraa. 18 Sɛ mifiti si nea mabubu no a ɛkyerɛ sɛ mebu Mmara so. 19 Na Mmara no nti, mawu. Mmara no ankasa akum me sɛnea ɛbɛyɛ a mɛtena ase mama Onyankopɔn. Wɔabɔ me ne Kristo asɛnnua mu 20 enti ɛnyɛ me na mete ase bio na mmom Kristo no na ɔte me mu. Saa asetena a mete mu mprempren yi, mete ase wɔ Onyankopɔn Ba no a ɔdɔ me na ɔde ne nkwa maa me no gyidi mu. 21  Mempo Onyankopɔn adom no. Sɛ onipa nam Mmara so fata Onyankopɔn anim a, na ɛkyerɛ sɛ Kristo wu a owui no yɛ ɔkwa.
+
+
+
+X-X-X
+1 Mo Galatifo adwenemharefo! Hena na ɔdan mo adwene saa? Mo ara mo anim na wɔkyerɛkyerɛɛ bɔ a wɔbɔɔ Yesu asɛnnuam no kyerɛɛ mo. 2 Mummua me saa asɛm yi: Moyɛɛ nea Mmara no hwehwɛ sɛ monyɛ ansa na Onyankopɔn Honhom no reba mo so anaasɛ mutiee Asɛmpa no, gye dii ansa? 3 Saa na mo adwene mu yɛ hare? Mode Onyankopɔn Honhom fii ase; afei mopɛ sɛ mode mo ara mo tumi wie? 4 Mo suahu yi nyinaa ho amma mfaso biara? Minnye nni saa. 5 Esiane sɛ moyɛ nea Mmara no hwehwɛ sɛ monyɛ no nti na Onyankopɔn hwiee ne Honhom no guu mo so ma moyɛɛ anwonwade no anaasɛ mutiee Asɛmpa no na mugye dii no nti?
+
+6 Ɛte sɛ nea Kyerɛwsɛm no ka faa Abraham ho no pɛ se, “Ogyee Onyankopɔn dii na esiane ne gyidi nti, Onyankopɔn gyee no sɛ onipa trenee.” 7 Enti ɛsɛ sɛ mote ase sɛ, nnipa a wɔwɔ gyidi no na wɔyɛ Abraham asefo turodoo. 8 Kyerɛwsɛm no dii kan hui sɛ Onyankopɔn nam gyidi so bɛma Amanamanmufo adan aba ne nkyɛn. Eyi nti, Kyerɛwsɛm no dii kan kaa Asɛmpa no kyerɛɛ Abraham se, “Ɛnam wo so Onyankopɔn behyira nnipa a wɔwɔ asase so nyinaa.” 9 Abraham gye dii, na wohyiraa no, na wɔn a wogye di nyinaa nso, wɔahyira wɔn sɛnea wohyiraa no no.
+
+10 Wɔadome wɔn a wodi Mmara so no. Kyerɛwsɛm no ka se, “Obiara a onni nea wɔakyerɛw wɔ Mmara nhoma no mu no so no, Onyankopɔn nnome wɔ ne so!” 11 Afei, akyinnye biara nni ho sɛ Mmara rentumi nka obiara mmata Onyankopɔn ho; efisɛ, Kyerɛwsɛm no ka se, “Nea wɔnam gyidi so aka no abata Onyankopɔn ho no bɛtena ase.” 12 Nanso Mmara no nnyina gyidi so. Mmom Kyerɛwsɛm no ka se, “Onipa a ɔyɛ nea Mmara no hwehwɛ sɛ ɔnyɛ no, te hɔ ma Mmara no.”
+
+13 Nanso Kristo agye yɛn afi nnome a Mmara no de brɛɛ yɛn no mu, efisɛ, wayɛ nnome ama yɛn sɛnea Kyerɛwsɛm no ka se, “Obiara a wɔbɛsɛn no dua so no hyɛ Onyankopɔn nnome ase.” 14 Kristo gyee yɛn sɛnea ɛbɛyɛ a nhyira a wohyiraa Abraham no nam Kristo so bɛba Amanamanmufo so na yɛnam gyidi so anya bɔ a Honhom no ahyɛ yɛn no.
+
+15 Anuanom, mede yɛn asetena mu asɛm bi bɛyɛ nhwɛso: Sɛ nnipa baanu bi pene asɛm bi so na wɔyɛ ho apam a, obiara rentumi mmu apam no so na wɔrentumi mfa biribi nka ho.
+
+16 Onyankopɔn hyɛɛ Abraham ne n’aseni bɔ. Kyerɛwsɛm no nka se, “Wo ne w’asefo” a ɛkyerɛ nnipa bebree. Ɛka se, “Wo ne w’aseni” a ɛkyerɛ sɛ onipa baako a ɔno ne Kristo no. 17 Mekyerɛ sɛ: Onyankopɔn yɛɛ apam na ɔhyɛɛ bɔ sɛ obedi so. Mmara a wɔhyɛɛ no mfirihyia ahanan ne aduasa ni no rentumi ngu apam no na ɛrentumi ntwa bɔ a Onyankopɔn hyɛe no nso mu. 18 Na sɛ nea Onyankopɔn de ma no gyina Mmara so a, ɛnne na emfi ne bɔhyɛ no bio. Na esiane sɛ Onyankopɔn ahyɛ ho bɔ no nti na ɔde maa Abraham no.
+
+19 Ɛnne na Mmara no botae ne dɛn? Wɔde kaa ho sɛnea ɛbɛda bɔne adi na ɛbɛtena hɔ kosi sɛ Abraham aseni a ne nti wɔhyɛɛ saa bɔ no bɛba. 20 Abɔfo na wɔnam onipa so de Mmara no ma. Nanso sɛ onipa baako na ɔwɔ hɔ de a, nea odi ntam no ho nhia. Saa onipa baako no ne Onyankopɔn.
+
+21 Eyi kyerɛ sɛ Mmara no tia Onyankopɔn bɔhyɛ no anaa? Dabida! Sɛ mmara bi wɔ hɔ a etumi ma nnipa nkwa a, ɛnne na onipa nam mmara so betumi aka ne ho abata Onyankopɔn. 22 Nanso Kyerɛwsɛm no aka se, wiase nyinaa hyɛ bɔne tumi ase sɛnea ɛbɛyɛ a akyɛde a wɔnam Yesu Kristo so hyɛɛ ho bɔ no, wɔde bɛma wɔn a wogye di no.
+
+23 Ansa na gyidi no reba no, Mmara no too yɛn mpokyerɛ kosi sɛ wɔbɛda gyidi no adi.
+
+24 Enti Mmara no na na ɛhyɛ yɛn so kosii sɛ Kristo bae sɛnea ɛbɛyɛ a wɔnam gyidi so bɛka yɛn abata Onyankopɔn ho. 25 Afei a bere adu sɛ yegye Kristo di no, Mmara nni yɛn so tumi bio.
+
+26 Ɛnam gyidi so nti na mo nyinaa yɛ Onyankopɔn mma a mo ne Kristo Yesu aka abom no. 27 Wɔbɔɔ mo asu hyɛɛ Kristo mu nti moafa Kristo mu nnepa no ato mo ho so. 28 Enti nsonoe nna Yudafo ne Amanamanmufo, ne nkoa ne wɔn a wɔde wɔn ho, ne mmarima ne mmea ntam. Mo nyinaa mo ne Kristo ayɛ baako. 29 Sɛ moyɛ Kristo de a, na moyɛ Abraham asefo na mo nsa bɛka bɔ a Onyankopɔn ahyɛ mo no.
+
+
+
+
+X-X-X
+1 Asɛm a mereka ne sɛ, mpɛn dodow a ɔdedifo no yɛ abofra no, ɛwom sɛ agyapade no nyinaa hyɛ ne nsa de, nanso nsonoe biara nna ɔno ne akoa ntam. 2 Eisane sɛ onnyinii no nti, nnipa bi wɔ hɔ a wɔhwɛ, toto nneɛma ma no kosi bere a n’agya ahyɛ sɛ wɔnnan agyapade no mma no no.
+Onyankopɔn tɔɔ yɛn ahofadi
+
+3 Saa ara na yɛn nso bere a yɛyɛ mmofra no, wiase ahonhom dii yɛn so ara kosii sɛ yenyinii honhom mu no. 4 Nanso mmere pa no dui no, Onyankopɔn somaa ɔno ankasa ne Ba. Ɔbae sɛ ɔba a ɛna awo no bɛhyɛɛ Yuda Mmara ase 5 de gyee wɔn a na wɔhyɛ Mmara no ase no sɛnea ɛbɛyɛ a yɛbɛyɛ Onyankopɔn mma.
+
+6 Sɛnea ɛbɛyɛ a wobehu sɛ moyɛ ne mma nti, Onyankopɔn somaa ne Ba no Honhom, Honhom a ɛteɛm se, “Agya, m’agya no,” ma ɛbɛhyɛɛ yɛn koma mu. 7 Enti, wonyɛ akoa bio na mmom woyɛ ɔba. Esiane sɛ woyɛ ne ba nti, Onyankopɔn de nea ɔwɔ nyinaa bɛma ne mma.
+
+8 Mmere bi a atwam no, na munnim Onyankopɔn, enti mosom wɔn a na wɔnyɛ anyame no sɛ nkoa. 9 Nanso afei a moahu Onyankopɔn anaasɛ Onyankopɔn ahu mo yi, adɛn nti na mopɛ sɛ modan mo ho ma nkyerɛkyerɛ a aba nni mu no? Adɛn nti na mopɛ sɛ moyɛ wɔn asomfo bio? 10 Mudi nna, abosome, nnapɔnna ne mfe bi. 11 Misuro ma mo sɛ masɛe m’ahoɔden wɔ mo ho kwa.
+
+12 Mesrɛ mo, me nuanom, monyɛ sɛ me, efisɛ, mete sɛ mo. Monyɛɛ me bɔne biara. 13 Sɛnea munim no, na meyare nti na mekaa Asɛmpa no kyerɛɛ mo kan no. 14 Ɛwom sɛ na me nipadua no yɛ sɔhwɛ ma mo de, nanso moampo me. Mmom, mugyee me sɛnea mubegye Onyankopɔn bɔfo; mugyee me sɛnea mubegye Kristo Yesu.
+
+15 Mo ani gyei na saa anigye no wiee dɛn? Metumi aka se, sɛ mubetumi a, anka mubetutu mo ani de ama me.
+
+16 Nokware a meka kyerɛ mo nti na afei mabɛyɛ mo tamfo yi?
+
+17 Saa nnipa no pɛ sɛ wɔtwe mo ba wɔn nkyɛn nanso wonni adwene pa. Wɔhwehwɛ sɛ wɔbɛtetew me ne mo ntam na ama mo ani aku wɔn ho sɛnea wɔn ani ku mo ho no. 18 Eye sɛ mubenya saa adwene no ama dwuma pa di a ɛbɛkɔ so saa daa na ɛnyɛ bere a mewɔ mo nkyɛn. 19 Me mma pa, mo a mo nti merehu awo yaw bio kosi sɛ Kristo bɛtena mo mu no, 20 ɛyɛ me pɛ sɛ anka mewɔ mo nkyɛn na me ne mo dwennwene nsɛm bi ho nanso, esiane yɛn ntam kwan ware a ɛware no nti, minhu nea menyɛ. 21 Mibisa mo a mopɛ sɛ mohyɛ Mmara no ase no se, monte nea Mmara no ka no anaa? 22 Mmara no se, na Abraham wɔ mma baanu. Ɔne afenaa bi woo baako na ɔne ɔbea bi a ɔde ne ho nso woo baako. 23 Afenaa ba no, wɔwoo no honam kwan so, ɛnna ɔbea a ɔde ne ho no nso, nam Onyankopɔn bɔhyɛ so woo ne ba no.
+
+24 Saa asɛm yi yɛ mfatoho efisɛ, saa mmea baanu yi gyinaa hɔ ma apam abien. Mmea no mu baako a ne din de Hagar a ofi bepɔw Sinai so no woo ne mma nyinaa wɔ nkoasom mu. 25 Hagar wɔ hɔ ma bepɔw Sinai a ɛwɔ Arabia a ogyina hɔ ma Yerusalem a ɔne n’asefo nyinaa yɛ nkoa. 26 Nanso Yerusalem a ɛwɔ soro no de, ɛde ne ho na ɔyɛ yɛn na.
+
+27 Efisɛ wɔakyerɛw se, “Di ahurusi, obonin. Wo a wonkoo awo da, di ahurusi, efisɛ, ɔbea a woguan gyaa no no bɛwo pii akyɛn ɔbea a ɔne ne kunu te.”
+
+28 Afei, me nuanom, esiane Onyankopɔn bɔ a ɔhyɛe no nti, moyɛ ne mma te sɛ Isak pɛ. 29 Saa bere no na ɔba a wɔnam honam kwan so woo no no taa nea wɔnam Onyankopɔn Honhom mu woo no no. Na ɛnnɛ yi ɛte saa. 30 Na Kyerɛwsɛm no ka dɛn? Ɛka se, “Tow afenaa no ne ne ba no kyene; efisɛ, afenaa ba no rennya kyɛfa wɔ n’agya agyapade mu sɛ ɔbea a ɔde ne ho no ba no.” 31 Enti, anuanom, yɛnyɛ afenaa no mma na mmom yɛyɛ ɔbea a ɔde ne ho no mma.
+
+
+
+
+X-X-X
+1 Ahofadi nti na Kristo ama yɛde yɛn ho no. Munnyina pintinn. Mommma ho kwan mma wɔmmfa mo nnyɛ nkoa bio.
+
+2 Muntie! Me Paulo, meka mekyerɛ mo se, sɛ moma ho kwan ma wotwa mo twetia a, na ɛkyerɛ sɛ Kristo ho amma mfaso biara amma mo koraa. 3 Mebɔ mo kɔkɔ bio sɛ obiara a ɔbɛma ho kwan ama wɔatwa no twetia no, na ɛsɛ sɛ odi Mmara no nyinaa so. 4 Mo a mopɛ sɛ wɔka mo bata Onyankopɔn ho nti mudi Mmara no so no, atew mo ho afi Kristo ho. Onyankopɔn adom no nni mo so bio.
+
+5 Yɛn de, yɛn anidaso ne sɛ Onyankopɔn bɛka yɛn abata ne ho. Eyi ne gyidi a ɛnam tumi a ɛwɔ Onyankopɔn Honhom no mu no yɛretwɛn. 6 Sɛ yɛne Kristo Yesu yɛ baako a, nsonoe biara nna twetiatwa ne momonotoyɛ ntam. Nea ɛho hia ne gyidi a ɛnam ɔdɔ so di dwuma.
+
+7 Na anka moretu mmirika no yiye! Na hena na ɔma mugyaee nokware no tie? Ɔkwan bɛn so na ɔfa daadaa mo? 8 Saa nnaadaa no mfi Onyankopɔn a ɔfrɛ mo no. 9 Wɔka se, “Mmɔkaw kakraa bi na ɛma mmɔre no nyinaa tu.” 10 Meda so wɔ mo mu anidaso. Bata a yɛde yɛn ho abata Awurade no, ma minya gyidi sɛ, meremfa adwene foforo na nea ɔredaadaa mo no, ɔte dɛn ara a, Onyankopɔn bɛtwe n’aso. 11 Anuanom, sɛ migu so ka twetiatwa ho asɛm a, adɛn nti na wɔda so taa me? Na sɛ ɛno na ɛyɛ nokware a, anka m’asɛm a meka fa Kristo asɛnnua ho no nkɔfa ɔhaw mma. 12 Sɛ ɛkaa me nko a, anka wɔn a wɔhaw mo no atwa wɔn ho atwitwa wɔn ho.
+
+13 Me nuanom, mo de, wɔfrɛɛ mo sɛ mommɛde mo ho. Nanso mommma saa ahofadi yi nnyɛ anoyi a ɛbɛma mo nipadua no adi mo so. Mmom, momfa ɔdɔ nsom mo ho mo ho. 14 Efisɛ, Mmara no nyinaa tiaatwa kyerɛ sɛ, “Dɔ wo yɔnko sɛ wo ho.” 15 Na sɛ mokeka na mopirapira mo ho mo ho a, ɛnne monhwɛ yiye na moansɛesɛe mo ho mo ho.
+
+16 Asɛm a meka ne sɛ, momma Honhom no nni mo abrabɔ so, Mommma honam akɔnnɔ nnni mo so . 17 Efisɛ, nea honam pɛ no tia nea Honhom no pɛ; saa ara nso na nea Honhom no pɛ no, honam no tia. Wɔn baanu no yɛ atamfo. Eyi kyerɛ sɛ worentumi nyɛ nea wopɛ sɛ woyɛ. 18 Sɛ Honhom no kyerɛ wo kwan a, na wonhyɛ Mmara ase.
+
+19 Dwuma a bɔne su di no da adi pefee. Eyinom ne aguamammɔ, efi, ahohwi, 20 abosonsom, aduto, ɔtan, akayɛ, ahoɔyaw, abufuw, aperepere, kunsunkunsun, mpaapaemu, 21 nitan, nsabow, agobɔne, ne nneɛma a ɛtete saa. Mebɔ mo kɔkɔ sɛnea mabɔ mo bi dedaw no se, wɔn a wɔtena ase saa no, renkɔ Onyankopɔn ahenni no mu.
+
+22 Na Honhom no aba ne ɔdɔ, anigye, asomdwoe, abodwokyɛre, ayamye, papayɛ, gyidi, 23 odwo, anidahɔ. Mmara biara nni hɔ a etia eyinom.
+
+24 Na wɔn a wɔyɛ Kristo de no abɔ wɔn nipasu no ne honam akɔnnɔ asɛnnua mu. 25 Honhom no ama yɛn nkwa. Ɛsɛ sɛ ɔhwɛ yɛn abrabɔ so. 26 Ɛnsɛ sɛ yɛyɛ ahantan, yiyi yɛn ho yɛn ho abufuw anaa yɛma yɛn ani bere yɛn ho yɛn ho.
+
+
+
+
+X-X-X
+
+1 Anuanom, sɛ obi yɛ bɔne na mokyere no a, mo a moyɛ honhom mu nnipa no monka n’asɛm no honhom mu. Nanso ɛyɛ a monhwɛ mo ho yiye na wɔansɔ mo anhwɛ. 2 Monsoa mo ho mo ho nnesoa abia. Sɛ moyɛ saa a, mudi Kristo mmara no so. 3 Sɛ obi fa ne ho sɛ ɔyɛ biribi nanso onse hwee a, obu ne ho kwasea.
+
+4 Ɛsɛ sɛ obiara bu ne ho atɛn ansa na watumi de nea wayɛ no aka asɛm a ɛho nhia sɛ ɔde ne ho bɛto nea obi ayɛ ho. 5 Efisɛ, ɛsɛ sɛ obiara soa n’adesoa.
+
+6 Ɛsɛ sɛ wɔn a wɔkyerɛ wɔn Asɛmpa no tua wɔn akyerɛkyerɛfo no ka.
+
+7 Monnnaadaa mo ho; obiara rentumi nsi Onyankopɔn atwetwe. Nea onipa dua no, ɛno ara na otwa. 8 Nea odua ma ɛsɔ ɔhonam ani no betwa no owu mu; na nea odua ma ɛsɔ Honhom no ani no fi Honhom no mu benya nkwa a enni awiei. 9 Ne saa nti, mommma yɛmmmrɛ papayɛ ho, efisɛ, sɛ yɛammrɛ a, bere bi bɛba a yebetwa nnɔbae no. 10 Enti mmere dodow a bere no wɔ hɔ ma yɛn no, ɛsɛ sɛ yɛyɛ obiara papa, ne titiriw no, wɔn a yɛne wɔn bɔ abusua wɔ gyidi mu no.
+
+11 Monhwɛ nsɛm mmaako mmaako akɛse a mede m’ankasa me nsa akyerɛw abrɛ mo. 12 Wɔn a wɔpɛ sɛ wɔhoahoa wɔn ho no ara na wɔpɛ sɛ wɔhyɛ mo ma mutwitwa twetia. Wɔyɛ saa sɛnea ɛbɛyɛ a wɔrentaa wɔne Kristo wɔ asɛnnua no ho. 13 Wɔn a wotwa twetia no mpo nni Mmara no so. Pɛ ara na wɔpɛ sɛ wotwa wɔn twetia sɛnea ɛbɛyɛ a wobetumi ahoahoa wɔn ho wɔ twetiatwa no ho.
+
+14 Nanso, me de, Awurade Yesu Kristo asɛnnua no nko ara na mede bɛhoahoa me ho, efisɛ, n’asɛnnua no nti, wiase awu ama me na me nso mawu ama wiase. 15 Sɛ obi atwa twetia anaa ontwaa twetia no nka hwee. Nea ɛho hia ne sɛ wobɛyɛ abɔde foforo.
+
+16 Wɔn a wodi saa mmara yi so wɔ wɔn asetena mu no, asomdwoe ne mmɔborɔhunu nka wɔn; nka wɔn ne Onyankopɔn nkurɔfo nyinaa.
+
+17 Asɛm a mede rewie ne sɛ: Obiara nhaw m’adwene bio, efisɛ, atwa a ɛwɔ me honam ani no kyerɛ sɛ, meyɛ Yesu somfo.
+
+18 Me nuanom, Awurade Yesu Kristo adom no nka mo nyinaa. Amen.
+
+
+###   Kolosefo   ###
+
+X-X-X
+
+1 Saa krataa yi fi Paulo a ɛnam Onyankopɔn pɛ so nti, ɔyɛ Kristo somafo no ne yɛn nua Timoteo nkyɛn.
+
+2 De kɔma ahotefo a wɔwɔ Kolose a wɔyɛ Kristo mu gyidifo no: Adom ne asomdwoe a efi yɛn Agya Onyankopɔn nka mo.
+
+3 Bere biara a yɛbɔ mpae ma mo no, yɛda Onyankopɔn a ɔyɛ Awurade Yesu Kristo Agya no ase. 4 Efisɛ, yɛate mo gyidi a mowɔ wɔ Kristo Yesu mu ne dɔ a modɔ ahotefo no. 5 Da a edi kan a motee Asɛmpa no, munyaa mu anidaso a ɛwɔ hɔ ma mo. Enti mo gyidi ne mo dɔ a mowɔ no gyina mo anidaso a mowɔ a wɔakora no wɔ ɔsoro ama mo no so. 6 Efi da a edi kan a motee Onyankopɔn adom na muhuu sɛnea ɛte no, Asɛmpa no de nhyira abrɛ wiase mmaa nyinaa, na trɛw ara na ɛretrɛw sɛnea muhu no wɔ mo mu no.
+
+7 Ɛnam Epafra a ɔyɛ yɛn nua somfo a ɔde gyidi yɛ Kristo adwuma ma yɛn no so na muhuu eyi. 8 Ɔkaa ɔdɔ a Honhom no de ama mo no kyerɛɛ yɛn.
+
+9 Esiane saa nti, efi bere a yɛtee mo nka no, yɛbɔ mpae ma mo daa. Yebisa Onyankopɔn sɛ omfi ne pɛ mu mma mo nyansa ne ntease a ne Honhom de ma no. 10 Ɛba saa a na mubetumi atena ase sɛnea Awurade hwehwɛ na bere biara nso, mobɛyɛ nea ɛsɔ n’ani. Dwuma biara a mubedi no, ɛbɛsow aba pa na mubenyin wɔ Onyankopɔn ho nimdeɛ mu.
+
+11 Yɛrebɔ mpae nso sɛ ne tumi ne n’ahoɔden bɛhyɛ mo ma sɛnea ɛbɛyɛ a ɔkwan biara so, mode Awurade mu ahosɛpɛw ne boasetɔ begyina biribiara ano. 12 Momfa ahosɛpɛw nna Agya no a ɛnam ne so nti, moanya nea Onyankopɔn akora so ama n’ahotefo a wɔwɔ ne hann no mu no bi no ase. 13 Ogyee yɛn fii sum tumi ase de yɛn baa ne dɔ Ba no ahenni mu dwoodwoo, 14 na ne nti na wɔama yɛade yɛn ho na wɔde yɛn bɔne akyɛ yɛn.
+
+15 Kristo yɛ Onyankopɔn a wonhu no no sɛso. Ɔno ne Abakan a odi abɔde nyinaa so. 16 Efisɛ, ɛnam ne so na Onyankopɔn bɔɔ biribiara a ɛwɔ soro ne asase so, nea wohu ne nea wonhu, honhom mu atumfo, awuranom ne ahemfo. Onyankopɔn nam ne so na ɔbɔɔ wiase nyinaa na ɔbɔ maa no nso. 17 Na ɔwɔ hɔ ansa na wɔrebɔ biribiara na ne mu na biribiara nya n’afa pɛpɛɛpɛ. 18 Asafo no yɛ ne nipadua; na ɔno na ɔyɛ asafo no ti. Ɔno na nipadua no nkwa fi no. Ɔno ne Abakan a wonyanee no fii awufo mu sɛnea ɛbɛyɛ a ɔno nko ara bedi ade nyinaa mu kan. 19 Efi Onyankopɔn no ankasa pɛ mu na Ɔba no anya Onyankopɔn su nyinaa wɔ ne mu. 20 Ɛnam ne Ba no so na Onyankopɔn fi ne pɛ mu de wiase nyinaa san bɛhyɛɛ ɔno ankasa ase. Onyankopɔn nam ne Ba no wu a owui asɛnnua so no de asomdwoe bae, enti ɔde nneɛma a ɛwɔ asase so ne ɔsoro nyinaa ahyɛ n’ase.
+
+21  Bere bi a atwam no, esiane sɛ na moyɛ bɔne na modwene bɔne ho nti, na mo ne Onyankopɔn ntam kwan ware a na moyɛ n’atamfo nso. 22 Nanso ɛnam ne Ba no wu so nti, Onyankopɔn afa mo nnamfo sɛnea ɛbɛyɛ a mobɛyɛ kronn a bɔne biara nni mo ho wɔ n’anim. 23 Ɛsɛ sɛ mokɔ so ma mo gyidi mu yɛ den a momma ho kwan mma mo anidaso a munyaa no da a edi kan a motee Asɛmpa no nhinhim. Saa Asɛmpa a wɔka kyerɛ nnipa nyinaa yi nti, na me, Paulo, mebɛyɛɛ ɔsomfo no.
+
+24 Ɛyɛ me anigye sɛ merebrɛ mo ho. Menam me honam mu amane a merehu so boa nea aka wɔ Kristo amanehunu a ohui wɔ ne honam mu a egyina hɔ ma asafo no no.
+
+25 Onyankopɔn a mo yiye di nti, ɔde saa dwuma yi hyɛɛ me nsa no ayɛ me asafo no somfo. Dwumadi no yɛ n’asɛm no ka, 26 a ɛyɛ ahintasɛm a mfe bebree a atwam no, ɔde hintaw adasamma nanso afei de, wada no adi akyerɛ n’ahotefo. 27 Onyankopɔn nhyehyɛe ne sɛ, ɔbɛda n’ahintasɛm a anuonyam wɔ mu no adi akyerɛ n’ahotefo. Ahintasɛm no ne sɛ: Kristo te mo mu; n’asekyerɛ ne sɛ Onyankopɔn anuonyam no ka mo.
+
+28 Ɛno nti, yɛka Kristo ho asɛm kyerɛ nnipa nyinaa. Yɛnam adwene pa so bɔ obiara kɔkɔ kyerɛkyerɛ no sɛnea ɛbɛyɛ a obiara a yɛde no bɛhyɛ Onyankopɔn nsa no, na ɔyɛ onipa a n’adwene mu abue na ɔne Kristo nso ayɛ baako. 29 Ansa na metumi adi saa dwuma no, na efi tumi a Kristo nam n’ahoɔden so de ama me no.
+
+
+
+X-X-X
+
+1 Mepɛ sɛ mema mo ne nnipa a wɔwɔ Laodikea no ne wɔn a wonhuu me da no hu adwuma dennen a mereyɛ ma wɔn. 2 Me botae ne sɛ, wobenya nkuranhyɛ wɔ wɔn koma mu na wɔatena ase ɔdɔ mu sɛnea ɛbɛyɛ a mubenya gyidi a ntease de ba no. Na wobehu Onyankopɔn a ɔyɛ Kristo ankasa no. 3 Ɔno so na wɔnam hu Onyankopɔn nyansa ne n’adwene.
+
+4 Meka kyerɛ mo se, mommma obiara mmfa akyinnye hunu nnaadaa mo a ɛmfa ho sɛ woye anaa wonye. 5 Ɛwom sɛ minni mo nkyɛn wɔ ɔhonam fam de, nanso mewɔ mo nkyɛn wɔ honhom fam. Ɛyɛ me anigye nso sɛ monam Kristo mu gyidi so aka mo ho abom gyina hɔ pintinn.
+
+6 Esiane sɛ moagye Kristo sɛ mo wura nti, mo ne no mmom ntena. 7 Munnye ntini wɔ ne mu; momfa mo nkwa nto ne so na mo gyidi mu nyɛ den daa sɛnea wɔkyerɛɛ mo no na monna so ase.
+
+8 Monhwɛ yiye na obi amfa ne nnaadaa a efi nnipa nkyerɛkyerɛ ne wiase ahonhom mu a emfi Kristo no amfa mo dommum. 9 Efisɛ, Kristo mu na Onyankopɔn te 10 na wama mo ho kwan sɛ mo ne no nyɛ baako. Ɔkorɔn sen honhom ne tumi biara.
+
+11 Mo ne no ka boom no, wotwaa mo twetia a ɛnyɛ nnipa na wotwaa mo na mmom, ɛyɛ Kristo no ankasa na otwaa mo de tew mo fii nipadua a ɛho ntew no tumi ase. 12 Wɔbɔɔ mo asu no nso, wosiee mo ne Kristo. Na asubɔ no ara mu wɔnam mo gyidi a efi Onyankopɔn tumi a ɛyɛ den so nti onyanee Kristo fii awufo mu no so, nyanee mo ne Kristo.
+
+13 Esiane mo bɔne nti, bere bi a atwam no, na moyɛ honhom mu awufo na afei ɛma moyɛɛ Amanamanmufo a munni Mmara. Nanso afei Onyankopɔn agye mo nkwa de mo abata Kristo ho. Onyankopɔn de yɛn nyinaa bɔne akyɛ yɛn. 14 Ɔnam ne mmara so atwa yɛn bɔne mu afi ne nhoma mu abɔ yɛn bɔne no asɛnnua mu. 15 Saa asɛnnua no so na Kristo gyee ne ho fii honhom mu atumfo nsam. Bere a Onyankopɔn maa Kristo dii nkonim wɔ asɛnnua a ɛpataa yɛn bɔne no so no, ɔmaa wiasefo nyinaa hui.
+
+16 Enti mommma obiara nnhyehyɛ mmara a ɛfa nea mudi anaa monom, nea ɛfa nna kronkron anaa nea ɛfa asram foforo afahyɛ anaa nea ɛfa Homeda ho mmma mo. 17 Saa nneɛma no nyinaa yɛ daakye mu nsɛm sunsum. Kristo ne ɔpapa no. 18 Mommma obiara a esiane sɛ ɔfa no sɛ wanya anisoadehu nti ɔka ahobrɛase a enni mu ne abɔfosom ho asɛm no mmu mo atɛn. Saa ahantanfo yi, ɛwom sɛ wɔfa wɔn ho sɛ ahobrɛasefo, wɔ anifere su. 19 Saa nnipa no ne Kristo no a ɔyɛ Ti na yɛn nyinaa yɛ nipadua a wɔaka abom no nni ayɔnkofa. Kristo tumi nti, nipadua no nyinaa nya n’apɛde, na apɔw so ne ntini akɛse suso mu ma ɛbɔ mu baako na enyin sɛnea Onyankopɔn pɛ sɛ enyin no.
+
+20 Mo ne Kristo awu nti moatew mo ho afi ahonhom a wodi wiase so no ho. Adɛn nti na mobɔ mo bra sɛ nnipa a wɔhyɛ saa wiase no ase? Adɛn nti na mudi saa mmara no so se, 21 “Munnso eyi mu,” “Munnni eyi,” “Mommfa mo nsa nka afoforo?” 22 Nso sɛ wɔde eyinom nyinaa di dwuma a, ne nyinaa sɛe. Ɛyɛ onipa mmara ne ne nkyerɛkyerɛ. 23 Mmara a ɛte saa a wɔhyɛ wɔ ɔsom mu, boa pa kyerɛ ahobrɛase su, hyɛ nnipa ketee no ho nni mfaso biara ma nipadua no.
+
+
+
+X-X-X
+
+1 Wɔanyan mo ne Kristo aba nkwa mu. Ne saa nti, nneɛma a ɛwɔ soro a ɛno nti Kristo te n’ahengua so wɔ Onyankopɔn nifa so no na monhwehwɛ. 2 Saa nneɛma no na momma mo adwene nkɔ so na ɛnyɛ fam nneɛma. 3 Efisɛ, moawu na wɔde mo nkwa asie mo ne Kristo wɔ Onyankopɔn mu. 4 Na sɛ Kristo a ɔyɛ mo nkwa no ba a, mo ne no na ɛbɛba wɔ n’anuonyam mu.
+
+5 Wiase akɔnnɔde te sɛ aguamammɔ, afideyɛ, bɔne ne anibere a ɛyɛ abosonsomsɛm no nyinaa, munyi mfi mo abrabɔ mu. 6 Wɔn a wɔbɛyɛ asoɔden wɔ saa nneɛma no ho no, Onyankopɔn abufuw bɛba wɔn so. 7 Bere bi a atwam no, esiane sɛ na akɔnnɔsɛm di mo abrabɔ so nti, na mo ankasa mudi mo akɔnnɔ akyi. 8 Afei munnyae saa nneɛma yi nyinaa: abufuw, bɔnepɛ, ne ɔtan. Monnyeyaw obi anaa mommma kasa a ɛho ntew mmfi mo anom.
+
+9 Munnnidi atoro nkyerɛ mo ho, efisɛ, moatow nipadua dedaw ne ne su no akyene 10 de nipadua foforo asi ananmu. Oyi ne onipa foforo a daa Onyankopɔn a ɔbɔɔ no no sesa no wɔ ne suban so nam so ma muhu nsɛm a ɛfa ne ho nyinaa. 11 Esiane saa nti, Amanamanmufo ne Yudafo, twetiatwafo ne momonotoyɛ, awudifo, nkoa ne wɔn a wɔde wɔn ho nni hɔ bio. Kristo ne ne nyinaa. Kristo wɔ biribiara mu.
+
+12 Moyɛ Onyankopɔn nkurɔfo. Ɔpɛ mo asɛm nti na oyii mo sɛ ne de. Enti monyɛ timmɔbɔ, ayamye, mommrɛ mo ho ase, munnwo na monyɛ abodwokyɛre. 13 Mommoaboa mo ho mo ho na obi fom ne yɔnko a, momfa nkyekyɛ mo ho. Sɛnea Awurade de akyɛ mo no, saa ara na mo nso momfa nkyekyɛ mo ho mo ho.
+
+14 Eyi nyinaa akyi no, momfa ɔdɔ a ɛde biakoyɛ ba no nka mo abrabɔ ho. 15 Momma Kristo asomdwoe no ntena mo koma mu. Saa asomdwoe yi ho na wɔafrɛ mo nyinaa sɛ nnipa koro no. Momma mo ani nsɔ.
+
+16 Kristo asɛm no ne mu nnepa nyinaa ntena mo koma mu. Momfa nyansa nkyerɛkyerɛ. Monto asanku so nnwom ne ayeyi nnwom ne honhom mu nnwom. Mumfi mo koma mu nto aseda nnwom mma Onyankopɔn. 17 Biribiara a moyɛ anaa moka no, monyɛ wɔ Awurade Yesu din mu na momfa ne so nna Agya Onyankopɔn ase.
+
+18 Ɔyerenom, mommrɛ mo ho ase mma mo kununom sɛnea ɛsɛ Awurade mu.
+
+19 Okununom, monnɔ mo yerenom na monnhyɛ wɔn ahometew.
+
+20 Mma, ade nyinaa mu, muntie mo awofo asɛm na eyi na ɛsɔ Onyankopɔn ani.
+
+21 Awofo, munnyi mo mma abufuw na ammu wɔn aba mu.
+
+22 Asomfo, ade nyinaa mu, muntie mo wuranom asɛm. Ɛnyɛ sɛ wɔn ani tua mo nti na ɛsɛ sɛ moyɛ na wɔpene mo na mmom, esiane sɛ mudi Awurade ni no nti, momfa koma pa nyɛ. 23 Biribiara a moyɛ no, momfa mo koma nyinaa nyɛ na momfa no sɛ moreyɛ ama Awurade na monyɛ mma nnipa. 24 Monkae sɛ Awurade bɛkyɛ mo so ade. Mo nsa bɛka ade a ɔde asie ama ne nkurɔfo no bi. Kristo ne Owura a mosom no. 25 Ɔdebɔneyɛfo te dɛn ara a, bɔne a ɔyɛ no so akatua na obenya a animhwɛ biara nni mu.
+
+
+
+
+X-X-X
+
+1 Awuranom, momma mo asomfo nea eye na ɛteɛ. Monkae sɛ mo nso mowɔ Owura wɔ soro.
+
+2 Mommɔ mpae daa. Mo mpaebɔ mu, monyɛ nnam na monna Onyankopɔn ase. 3 Bere koro no ara mu, mommɔ mpae mma yɛn nso na Onyankopɔn ama yɛn mu kwan ama yɛatumi aka Asɛmpa no ne Kristo ho ahintasɛm. Efisɛ, ɛno nti na meda afiase no. 4 Mommɔ mpae na matumi akasa ama ntease aba mu sɛnea ɛsɛ sɛ mekasa.
+
+5 Bere biara a mubenya kwan ne wɔn a wɔnyɛ gyidifo no ahyia no, mo ne wɔn nkasa nyansa mu. 6 Daa monka kasa pa a ɛyɛ anigye nkyerɛ wɔn na momma wɔn mu biara mmuae pa.
+
+7 Yɛn nuabarima pa Tihiko a ɔyɛ odwumayɛfo pa na ɔsan yɛ Awurade adwumayɛ mu somfo no bɛka me ho asɛm akyerɛ mo. 8 Ɛno nti na meresoma no wɔ mo nkyɛn sɛ ɔmmɛka sɛnea yɛrekɔ so fa mfa nhyɛ mo den no. 9 Onua Onesimo a ɔyɛ nokwafo ɔdɔfo na ɔsan fra mo kuw mu no ne no na ɛreba. Wɔbɛka biribiara a ɛrekɔ so wɔ ha akyerɛ mo.
+
+10 Me yɔnko Aristarko a ɔne me da afiase no kyia mo. Saa ara na Barnaba ne nua Marko nso kyia mo. Wɔaka akyerɛ mo se sɛ ɔba mo nkyɛn a, munnye no fɛw so. 11 Yosua a wɔfrɛ no Yusto no nso kyia mo. Saa nnipa baasa yi nko ara ne Yudafo a wɔasakra wɔn adwene a me ne wɔn reyɛ Onyankopɔn ahenni no ho adwuma a wɔaboa me yiye.
+
+12 Kristo Yesu somfo a wɔfrɛ no Epafra a ɔfra mo kuw mu no nso kyia mo. Daa ɔbɔ mpae dennen srɛ Onyankopɔn sɛ ɔnhyɛ mo den na ɔmma mo nyansa na mommrɛ mo ho ase mma n’apɛde. 13 Metumi adi ne nsiyɛ ho adanse akyerɛ mo ne nnipa a wɔwɔ Laodikea ne Hierapoli no.
+
+14 Luka a ɔyɛ yɛn yaresafo pa no ne Dema kyia mo.
+
+15 Yekyia anuanom a wɔwɔ Laodikea ne Nimfa ne asafo a wohyia wɔ ne fi no. 16 Sɛ mokan saa nhoma yi wie a, monhwɛ sɛ mobɛkan akyerɛ asafo a wɔwɔ Laodikea no saa ara nso na monkan nhoma a efi Laodikea no. 17 Monka nkyerɛ Arkipo se, “Bɔ mmɔden sɛ wubewie ɔsom a wɔde ahyɛ wo nsa wɔ Awurade din mu no.”
+
+18 Me, Paulo, me nsa ano nkyerɛw a mede kyia mo ni: Monkae me mpokyerɛ no. Onyankopɔn adom nka mo.
+
+
+
+###   Filemon   ###
+
+X-X-X
+
+1 Saa nhoma yi fi Paulo a esiane Kristo Yesu nti, ɔyɛ odeduani no ne yɛn nuabarima Timoteo nkyɛn. Yɛde kɔma yɛn adamfo ne yɛn yɔnko Filemon 
+2 ne asafo a wohyia wɔ wo fi no ne yɛn nuabea Apia ne yɛn yɔnko sraani Arkipo no.
+3 Adom ne asomdwoe a efi yɛn Agya Nyankopɔn ne Awurade Yesu Kristo nka mo.
+
+4 Onua Filemon, bere biara a mebɔ mpae no, mebɔ bi ma wo na meda me Nyankopɔn nso ase. 5 Mete dɔ a wodɔ Onyankopɔn nkurɔfo ne gyidi a wowɔ wɔ Awurade Yesu mu no. 6 Me mpaebɔ ne sɛ, baako a yɛne wo ayɛ sɛ gyidifo no bɛma yɛn ntease a emu dɔ wɔ nhyira biara a yenya fi Kristo mu no mu. 7 Onua pa, wo dɔ no ama me anigye na ahyɛ me nkuran nso. Woakanyan Onyankopɔn nkurɔfo.
+
+8 Eyi nti, mitumi de akokoduru kasa kyerɛ wo sɛ wo nua wɔ Kristo mu, hyɛ wo ma woyɛ nea ɛsɛ sɛ woyɛ. 9 Ɔdɔ so na menam de saa asɛm yi to w’anim. Ɛwom sɛ me Paulo a meyɛ Kristo Yesu nanmusini na mprempren, ne nti meyɛ odeduani no, na meyɛ nea mereyɛ yi. 10 Enti migyina Onesimo a ɔyɛ me ba wɔ Kristo mu ananmu bisa, efisɛ, bere a meda afiase no, na ɔyɛ me ba honhom mu. 11 Bere bi a atwam no na ne ho nni mfaso ma wo nanso mprempren de, ne ho wɔ mfaso ma me ne wo. 12 Merema no asan n’akyi aba wo nkyɛn mprempren ara. Me koma ka ba a ɔreba no ho.
+
+13 Esiane Asɛmpa no nti, mepɛ sɛ ɔtena me nkyɛn bere a meda afiase yi sɛnea ɛbɛyɛ a obesi w’ananmu aboa me. 14 Nanso mempɛ sɛ mehyɛ wo sɛ boa me. Mmom, mepɛ sɛ wo ara wufi wo pɛ mu boa me. Ɛno nti, merenyɛ biribiara gye sɛ wopene so.
+
+15 Ebia na Onesimo twee ne ho kakra na akyiri yi wabedi nna wo nkyɛn. 16 Mprempren ɔnyɛ ɔsomfo kɛkɛ efisɛ, ɔkyɛn ɔsomfo. Ɔyɛ onua pa wɔ Kristo mu. Ɔsom bo ma me. Saa ara nso na ɔbɛsom bo ama wo sɛ ɔsomfo ne onua wɔ Awurade mu.
+
+17 Enti sɛ wudwen me ho sɛ wo fafafo a, saa ara nso na gye no awaawaatuu sɛnea wubegye me no ara. 18 Sɛ wayɛ wo biribi anaasɛ ɔde wo ka bi a, dan ma me. 19 Ɛha de, me ara mede me nsa bɛhyɛ ase sɛ: Me Paulo, metua wo ka. Ɛnsɛ sɛ mekae wo sɛ wo nkwa gyina me so. 20 Enti, me nua, mesrɛ wo sɛ, Awurade nti, yɛ me saa adɔe yi; ka me koma hyew sɛ wo nua wɔ Kristo mu.
+
+21 Mewɔ anidaso sɛ, nea merekyerɛw wo yi, wobɛyɛ ama aboro nea merebisa wo yi so.
+
+22 Afei pɛ ɔdan ma me efisɛ, minim sɛ Onyankopɔn betie mo mpaebɔ ama mabɛka mo ho bio.
+
+23 Epafra a Kristo Yesu nti ɔne me da afiase no kyia wo.
+
+24 Saa ara nso na Marko, Aristako, Dema ne Luka nso kyia wo.
+
+25 Awurade Kristo adom nka mo nyinaa.
+
+
+
+###  Filipifo  ###
+
+X-X-X
+
+1 Saa nhoma yi fi Paulo ne Timoteo a wɔyɛ Kristo Yesu nkoa nkyɛn. Wɔde kɔma Yesu Kristo mu ahotefo ne ahwɛfo ne asomafo a wɔwɔ Filipi no nyinaa.
+
+2 Adom ne asomdwoe a efi yɛn Agya Nyankopɔn ne Awurade Yesu Kristo nka mo.
+
+3 Bere biara a mekae mo no, meda Onyankopɔn ase. 4 Saa ara nso na da biara mede anigye bɔ mpae ma mo, 5 efisɛ, efi da a edi kan de besi sesɛɛ no, moaboa me wɔ asɛmpaka no adwumayɛ mu. 6 Eyi nti, migye di yiye sɛ: Onyankopɔn a ofitii ase yɛɛ saa adwuma pa yi wɔ mo mu no bɛkɔ so de akosi da a Yesu Kristo bɛba no.
+
+7 Sɛnea mo ho adwene pa wɔ me tirim no nti, sɛ daa mekae mo a, na ne kwan so ara nen. Efisɛ, sɛ meda mpokyerɛ mu anaasɛ mede me ho na mereka Asɛmpa no no, mo nyinaa ne me nya Onyankopɔn adom. 8 Onyankopɔn ankasa di me adanse sɛ m’ani agyina mo wɔ Yesu Kristo dɔ mu. 9 Me mpae a mebɔ ma mo ne sɛ, ɔdɔ a mode dodɔ mo ho mo ho no mu bɛyɛ den, na mubenyin wɔ nimdeɛ ne ntease mu 10 sɛnea ɛbɛyɛ a mubehu nea eye na da a Kristo bɛba no, moayɛ kronn a obi nka asɛm bi ntia mo. 11 Nneɛma pa a Yesu Kristo no nko betumi de ama mo no bɛhyɛ mo abrabɔ ma de ahyɛ Onyankopɔn anuonyam, akamfo no.
+
+12 Anuanom, mepɛ sɛ mote ase sɛ nneɛma a aba me so nyinaa aboa ama Asɛmpa no atrɛw. 13 Ɛno nti, awɛmfo a wɔwɔ ahemfi ha ne afoforo a wɔka wɔn ho no nyinaa nim sɛ, esiane sɛ meyɛ Kristo somfo no nti, na meda afiase. 14 Afiase a meda no ahyɛ anuanom bebree nkuran wɔ Awurade mu ma wotumi ka Onyankopɔn asɛm no wɔ akokoduru so a wonsuro hwee.
+
+15 Ɛyɛ nokware sɛ wɔn mu binom nam nitan ne ntɔkwawpɛ so ka Kristo ho asɛm foforo, na afoforo nso de adwene pa na ɛka ne ho asɛm. 16 Wɔn a wɔde adwene pa ka asɛm no fi ɔdɔ mu na ɛka, efisɛ, wonim sɛ Onyankopɔn asɛm nti na meda afiase. 17 Afoforo a wɔnam nitan ne ntɔkwawpɛ so ka asɛm no nso dwen sɛ wɔnam saa kwan yi so bɛma m’ahohiahia aboro so wɔ m’afiase nna yi mu. 18 Eyi nti na ayɛ dɛn? Ɛyɛ me anigyesɛm. Nea ehia ara ne sɛ, sɛ wofi adwene pa anaa adwemmɔne mu no, Kristo ho asɛm ara na wɔka. Na eyi nti m’ani gye na mɛkɔ so ama mani agye, 19 efisɛ, minim sɛ mo mpaebɔ ne adom a efi Yesu Kristo Honhom mmoa mu no nti, wobegyaa me. 20 Me pɛ ne m’anidaso titiriw ne sɛ, mmere nyinaa mede nsi ne anem bɛyɛ m’adwuma; mpo saa bere yi, sɛ mete ase o, sɛ miwu o, mede me nipadua nyinaa bɛhyɛ Kristo anuonyam. 21 Me de, m’ase a mete ne Kristo; na owu yɛ me mfaso. 22 Na sɛ m’ase a mete yi na ɛbɛma matumi matwetwe afoforo abrɛ Kristo a, ɛnne na asetena ne owu, minhu mu nea memfa. 23 Eyi adi me aniani; ɔpɛ na mepɛ sɛ mitu wiase ne Kristo kɔtena, efisɛ, ɛno mmom na eye; 24 nanso mo nti, sɛ mete ase nso a, anka eye.
+
+25 Minim sɛ me ho hia wɔ asase yi so ha; ɛno nti, mɛtena ha kakra na maboa mo ama moanyin wɔ gyidi mu anya anigye. 26 M’asetena yi bɛma mo ani agye na sɛ mesan bɛsra mo bio a, mubenya biribi agyina so ahyɛ Kristo anuonyam sɛ ɔbɔɔ me ho ban.
+
+27 Mprempren, ade a ɛho hia me ne sɛ, biribiara a ɛbɛto mo no, momma mo abrabɔ mfata sɛ Kristo Asɛmpa no nko sɛnea ɛbɛyɛ a sɛ yehyia o, sɛ yɛanhyia o, mɛte mo ho asɛm pa sɛ mugyina pintinn na mukita botae koro ne gyidi koro wɔ Asɛmpa no ho.
+
+28 Munnsuro mo atamfo. Biribiara a mobɛyɛ no, momfa akokoduru nnyina pintinn. Na eyi bedi adanse sɛ wobedi nkogu na moadi nkonim, efisɛ, Onyankopɔn ka mo ho. 29 Na mo de, ɛnyɛ sɛ wɔadom mo sɛ munni Kristo akyi nko, na mmom, sɛ mubehu amane nso. 30 Afei mubetumi ne me abom ako ɔko a mereko no. Saa ɔko yi na bere a atwam no, mekoe no, na migu so reko sɛnea mote no no.
+
+
+
+
+X-X-X
+1 Mo nkwa a mowɔ wɔ Kristo mu no hyɛ mo den anaa? Ne dɔ kyekye mo werɛ anaa? Mo ne Honhom no wɔ ayɔnkofa bi anaa? Mowɔ ayamye ne ayamhyehye ma mo ho mo ho anaa? 2 Sɛ ɛte saa de a, ɛnne munnya adwene koro wɔ ɔdɔ ne Honhom ne botae koro mu na m’anigye awie pɛyɛ.
+
+3 Monnyɛ pɛsɛmenkominya; monnhoahoa mo ho mfa mpɛ anuonyam hunu. Mommrɛ mo ho ase mma mo ho mo ho na mummu mo yɔnkonom nsen mo ankasa mo ho. 4 Mommma obiara nnnwen ne nko ara n’ade ho na mmom, onnwen n’afɛfo nso de ho bi.
+
+5 Momma mo abrabɔ nyinaa nyɛ sɛ Yesu Kristo de no bi. 6 Ɔno na ɔwɔ Onyankopɔn tebea mu de, nanso wanhyɛ ne ho sɛ ɔne Onyankopɔn bɛyɛ pɛ. 7 Ɔdanee ne tumi kɛse ne n’anuonyam too nkyɛn. Mmom, ofii ne pɛ mu faa akoa tebea de too ne ho so, bae sɛ onipa bɛyɛɛ n’ade sɛ onipa. 8 Ɔbrɛɛ ne ho ase, yɛɛ osetie, de koduu owu mu, asɛnnua ho wu mu mpo.
+
+9 Eyi nti Onyankopɔn maa ne so kɔɔ beae a ɛkorɔn koraa, maa no din a edi din nyinaa so. 10 Na ɛno nti, sɛ wɔbɔ Yesu din a, ɔsorofo ne asase sofo ne asase asefo nkotodwe nyinaa bɛkotow no. 11 Na tɛkrɛma nyinaa apae mu aka se, Yesu Kristo ne Awurade, de ahyɛ Agya Onyankopɔn anuonyam.
+
+12 Enti me nnamfo pa, sɛnea na me ne mo te hɔ a na mutie me no, saa ara nso na bere a minni mo nkyɛn mprempren yi, ɛsɛ sɛ mutie me ara nen. Monkɔ so mfa ahopopo ne suro nyɛ adwuma mfa nwie mo nkwagye ho adwumayɛ, 13 efisɛ, Onyankopɔn na ɔma mufi mo pɛ mu di dwuma a ɛsɔ n’ani.
+
+14 Dwuma biara a mubedi no, munnnwiinwii na munnnye ho akyinnye 15 sɛnea ɛbɛyɛ a wɔnka biribi ntia mo na mobɛyɛ kronn sɛ Onyankopɔn mma pa a wɔte wiase a nkontonpofo ne nnebɔneyɛfo ahyɛ ma tɔ no mu. Ɛsɛ sɛ mohyerɛn wɔ wɔn mu sɛ nsoromma a ɛwɔ soro 16 wɔ nkwa no ho asɛm a moka kyerɛ wɔn no mu. Sɛ moyɛ saa na Kristo Da no mede mo hoahoa me ho a, na ne kwan so ara nen, efisɛ, ɛbɛda no adi sɛ dwuma a mibedii no anyɛ kwa. 17 Ebia na ɛsɛ sɛ wohwie me mogya gu sɛ afɔrebɔde ne ɔsom a efi mo gyidi mu. Sɛ ɛba saa a, ɛbɛyɛ anigyesɛm na me ne mo nyinaa na enya saa ahosɛpɛw no. 18 Saa kwan koro no ara so na ɛsɛ sɛ mo nso mo ani gye na mo ne me nya ahosɛpɛw.
+
+19 Anidaso a mewɔ Awurade Yesu mu no nti, metumi asoma Timoteo ma waba mo nkyɛn na mo ho nsɛm a mɛte no ahyɛ me nkuran. 20 Ɔno nko ne obi a ɔwɔ ɔtema ma me na mo ho asɛm nso hia no. 21 Mo mu biara pɛ ɔno ara ne yiyedi a Yesu Kristo ho asɛm mfa ne ho. 22 Mo ankasa mudi ho adanse sɛ, wakyerɛ mu a odi; wakyerɛ nso sɛ, ɔne me te sɛ ɔba ne n’agya a wɔaka abom adi Asɛmpa no ho dwuma. 23 Sɛ mihu sɛnea nneɛma rekɔ so ma me a, ɛrenkyɛ biara mɛsoma no wɔ mo nkyɛn. 24 Na Awurade mu anidaso a mewɔ nti, minim sɛ ɛrenkyɛ biara m’ankasa mɛba mo nkyɛn.
+
+25 M’adwene ho sɛ, mɛsoma yɛn nua Epafrodito a wayɛ adwuma, na wadi me nkyɛn mu ako na wasom mo sɛ somafo de aboa me no wɔ mo nkyɛn. 26 Ne ho pere no sɛ obehu mo nyinaa na ɛhaw no nso sɛ motee ne nka sɛ ɔyare. 27 Ampa ara, na ɔyare a anka ɔreyɛ awu. Nanso Onyankopɔn huu no ne me nso mmɔbɔ, efisɛ, wamma manni awerɛhow.
+
+28 Me ho peree me yiye sɛ mɛsoma no mo nkyɛn na muhu no a, mo ani asan agye bio na me nso m’awerɛhow to atwa. 29 Momfa ahosɛpɛw nnye no sɛ onua wɔ Awurade mu. Momfa obu ne nidi mma nnipa a wɔte sɛ ɔno nyinaa, 30 efisɛ, ɔde ne nkwa bɔɔ afɔre a ɛnam so maa anka ɔrewu ama Kristo adwuma de aboa me a anka morentumi mmoa saa no.
+
+
+
+X-X-X
+
+1 Anuanom, asɛm a mede rewie ne sɛ, momma mo ani nnye wɔ Awurade mu. Ɛnhaw me sɛ meti nsɛm a makyerɛw dedaw no mu. Eye ma mo akwankyerɛ.
+
+2 Monhwɛ nnebɔneyɛfo no a wɔte sɛ akraman a wɔka se twa na ɛsɛ sɛ onipa twa ne ho sie no yiye. 3 Ɛyɛ yɛn na ɛnyɛ wɔn na yɛagye twetiatwa ato mu, efisɛ, yɛnam Onyankopɔn Honhom so som no na hyɛ a yɛde yɛn ho ahyɛ Kristo Yesu mu no nti, yenya ahosɛpɛw. Yɛmfa yɛn ho nto amanne so.
+
+4 Sɛ obi wɔ hɔ a odwen sɛ sɛ ɔde ne ho to amanne so na eye a, anka ɛyɛ me. 5 Bere a midii nnawɔtwe pɛ na wotwaa me twetia. Meyɛ Israelni fi m’awosu mu. Mifi Benyamin abusua a wɔyɛ Hebrifo kronn no mu. Sɛ wɔka Yudafo mmara sodi ho asɛm nso a, meyɛ Farisini 6 a na me ho pere me sɛ mɛtaa Kristo. Sɛ Mmara no sodi nko na ɛma obi yɛ ɔtreneeni a, ɛnne na me ho nni mfomso biara.
+
+7 Nanso nneɛma a na mefa no sɛ ɛyɛ mfaso nyinaa no esiane Kristo nti, ayɛ adehwere. 8 Ɛnyɛ ɛno nko, na migye midi nso sɛ biribiara nkyɛn sɛ wode wo ho bɛto Kristo Yesu a ɔyɛ m’awurade no so. Ne nti matow biribiara akyene. Mefa ne nyinaa sɛ nneɛma hunu bi, sɛnea ɛbɛyɛ a me nsa bɛka Kristo, 9 na wo ne no ayɛ baako. Afei meremfa m’ahoɔden mpere sɛ mɛyɛ pɛ, pɛyɛ a efi Mmara no mu no. Na mmom mehwehwɛ pɛyɛ a efi Kristo mu gyidi ne Onyankopɔn mu a gyidi na ɛyɛ ne fapem. 10 Nea merehwehwɛ ara ne sɛ, mehu Kristo na menya ne wusɔre no mu suahu, na mahu n’amane no bi, na mayɛ sɛ ɔno wɔ ne wu no mu, 11 a mewɔ anidaso sɛ, me nso me wu akyi, wɔbɛma me asɔre afi owu mu.
+
+12 Menka se madi nkonim anaasɛ meyɛ pɛ. Merebɔ ho mmɔden sɛ medi nkonim a ka a Kristo aka me abata ne ho no nti, wadi ama me no.
+
+13 Nanso anuanom, minnye nni sɛ madi saa nkonim no. Ade baako a ɛsɛ sɛ meyɛ ne sɛ, ɛsɛ sɛ me werɛ fi m’akyi na meyere me ho sɛnea ɛbɛyɛ a medu nea ɛwɔ m’anim no ho. 14 Eyi nti, mitu mmirika kɔ m’anim tee na madu soro botae no a Onyankopɔn nam Kristo Yesu so afrɛ me no ho.
+
+15 Ɛsɛ sɛ yɛn a yenyin wɔ Honhom mu no nyinaa dwen saa. Sɛ mo mu bi nso wɔ adwene foforo a, Onyankopɔn bɛda no adi akyerɛ mo. 16 Momma yɛnkɔ so nni mmara a yɛnam so abɔ yɛn bra abesi nnɛ no so.
+
+17 Anuanom, monkɔ so nsuasua me. Yɛama mo nhwɛso pa nti muntie wɔn a wɔwɔ saa nhwɛso pa no. 18 Maka saa asɛm yi akyerɛ mo sɛ, nnipa bebree wɔ hɔ a wɔn abrabɔ ma wɔyɛ Kristo wu a owui wɔ asɛnnua no ho no atamfo. 19 Saa nnipa no bɛkɔ ɔsɛe mu, efisɛ, wɔn nyame ara ne wɔn honam mu nneɛma. Wɔma wɔn ho so wɔ nneɛma a ɛsɛ sɛ wɔn ani wu ho no ho, na wodwen wiase nneɛma nko ara ho. 20 Yɛn de, yɛyɛ ɔsoro mma na yɛde ahosɛpɛw twɛn yɛn Agyenkwa a ɔyɛ yɛn Awurade Yesu Kristo a ofi soro bɛba no. 21  Ɔnam tumi a etumi ma biribiara hyɛ n’ase no so bɛsakra yɛn nipadua a ɛyɛ mmerɛw na ewu no, na wayɛ no sɛ ne de a ɛwɔ anuonyam no.
+
+
+
+
+
+X-X-X
+
+1 Enti anuanom, medɔ mo na m’ani agyina mo. Moama me ho asan me enti me nso mede mo hoahoa me ho. Adɔfonom, saa na ɛsɛ sɛ mugyina pintinn wɔ Awurade mu.
+
+2 Euodia ne Sintike, mesrɛ mo, montena ase sɛ anuanom wɔ Awurade mu. 3 Na wo nso a woka me ho a migye wo di no, mepɛ sɛ woboa saa mmea yi, efisɛ, wɔde wɔn ahoɔden nyinaa aboa me ama Asɛmpa no mu atrɛw a Klemens ne m’ahokafo bi a wɔn din hyɛ Onyankopɔn nkwa nhoma no mu no nso ka ho.
+
+4 Meka ti mu bio sɛ daa munnya ahosɛpɛw wɔ Awurade mu; mo ho nsɛpɛw mo!
+
+5 Mommrɛ mo ho ase mma nnipa nyinaa. Ɛrenkyɛ, Awurade bɛba. 6 Mommma biribiara nnhaw mo. Daa mo mpaebɔ nyinaa mu, momfa koma pa mmisa Onyankopɔn nea ehia mo. 7 Na Onyankopɔn asomdwoe a ɛtra ade nyinaa so no, bɛhwɛ mo koma ne mo adwene so Kristo Yesu mu.
+
+8 Anuanom, asɛm a mede rewie ne sɛ, nea ɛyɛ nokware, nea ɛwɔ anuonyam, nea ɛteɛ, nea ɛho tew, nea ɛwɔ ɔdɔ, nea ɛwɔ din pa, sɛ ɔbra pa bi wɔ hɔ a, sɛ ayeyi bi wɔ hɔ a, saa nneɛma yi ho na munnwen. 9 Nea moasua na moanya afi me nkyɛn wɔ nsɛm ne nneyɛe mu no na monyɛ. Na Onyankopɔn a ɔma yɛn asomdwoe no bɛka mo ho.
+
+10 M’ani gye wɔ Awurade mu sɛ afei de moakyerɛ ɔdɔ a mode dɔ me. Ɛyɛ nokware sɛ modɔ me de, nanso na munnya ho kwan nkyerɛ saa. 11 Menka saa asɛm yi nkyerɛ sɛ moapa me, efisɛ, masua ama akokwaw me sɛ tebea biara a mewɔ mu no, mepɛ. 12 Minim ohia, nim ahonya. Masua saa ahintasɛm yi enti baabiara ne bere biara, sɛ ɔkɔm de me anaa mamee, sɛ mewɔ pii anaa kakraa bi no, mepɛ no saa ara. 13 Ahoɔden a Kristo de ma me no nti, mitumi gyina tebea biara ano. 14 Eye sɛ moboaa me wɔ m’amanehunu mu.
+
+15 Mo Filipifo no ankasa nim pefee sɛ bere a mifii Makedonia a na merefiti Asɛmpa no ka no ase no, mo nko ara ne asafo a moboaa me. Mo nko ara na moka nea minyae ne nea mehweree ho. 16 Mewɔ Tesalonika no, bere biara a biribi ho behia me no, mode brɛ me. 17 Ɛnyɛ sɛ ɔpɛ na na mepɛ sɛ minya akyɛde na mmom, nhyira a mubenya wɔ mu na na mepɛ sɛ mihu.
+
+18 Me nsa aka biribiara a mode abrɛ me ma aboro so. Afei a Epafrodito de akyɛde no nyinaa abrɛ me yi, me nsa aka biribiara a ɛho hia me. Eyinom te sɛ afɔrebɔde huamhuam a wɔbɔ ma Onyankopɔn, na ogye, na n’ani sɔ. 19 Me Nyankopɔn fi ne nnepa a ɔwɔ wɔ Kristo Yesu mu bɛma mo nea ehia mo nyinaa. 20 Anuonyam nka yɛn Agya Nyankopɔn daa daa. Amen.
+
+21 Mikyia ahotefo no wɔ Kristo Yesu mu. Anuanom a wɔne me wɔ ha no nso kyia mo. 22 Ahotefo no nyinaa kyia mo na ne titiriw no, ɔhempɔn Kaesare fifo.
+
+23 Awurade Yesu Kristo adom nka mo nyinaa.
+
+
+
+####    Hebrifo    ####
+
 X-X-X
 
 1 Mmere a atwam no, na Onyankopɔn nam akwan horow bebree so fa adiyifo so kasa kyerɛ yɛn mpanyimfo.
@@ -454,6 +836,388 @@ X-X-X
 
 25 Adom nka mo nyinaa.
 
+
+
+####   Tito   ####
+
+X-X-X
+
+1 Saa nhoma yi fi Onyankopɔn somfo ne Yesu Kristo somafo Paulo nkyɛn. Woyii me na wɔsomaa me sɛ memmɛboa nhyɛ nnipa a Onyankopɔn ayi wɔn no gyidi den na menkyerɛkyerɛ wɔn nokwasɛm a yɛn nyamesom 2 a ne nnyinaso gyina nkwa a enni awiei no kyerɛ no so no. Onyankopɔn a onni atoro no hyɛɛ yɛn asetena yi ho bɔ ansa na ɔrefi wiase ase; 3 na bere a ɛsɛ mu, ɔdaa no adi wɔ n’asɛnka no mu. Wɔde eyi hyɛɛ me nsa na migyina Onyankopɔn a ɔyɛ yɛn Agyenkwa hyɛ so da no adi.
+
+4 Mekyerɛw me ba Tito wɔ gyidi baako a yɛn nyinaa kita mu mu. Adom ne asomdwoe a efi Agya Nyankopɔn ne Kristo Yesu yɛn Agyenkwa no nka wo!
+
+5 Migyaw wo Kreta sɛnea ɛbɛyɛ a wobɛtoto nnɛama a aka no pɛpɛɛpɛ na wayi mpanyimfo atuatua asafo a ɛwɔ kurow biara mu no ano. 6 Kae mmara a mehyɛ maa wo no. Ɔpanyin yɛ obi a ne ho nni asɛm na ɔwɔ yere baako na ne mma yɛ gyidifo a wɔmmɔ ahohwi, na wɔnyɛ asoɔden nso.
+
+7 Ɛnsɛ sɛ mfomso biara ba ɔpanyin no ho efisɛ, Onyame adwuma hyɛ ne nsa. Ɛnsɛ sɛ ɔyɛ ɔhopɛfo, anaa obi a ne bo nkyɛ fuw anaa ɔkɔwensani anaa basabasayɛfo anaa oniberefo. 8 Ɛsɛ sɛ ɔyɛ obi a ɔpɛ ahɔhoyɛ na n’ani gye nea eye ho na n’adwenem da hɔ na ɔteɛ na ɔyɛ kronn na ɔwɔ ahohyɛso. 9 Ɛsɛ sɛ oso asɛm no mu dennen sɛnea wɔkyerɛɛ no no. Sɛ ɛba saa a, obetumi ahyɛ afoforo den wɔ saa nkyerɛkyerɛ pa no mu na wada wɔn a wotia asɛm no mu no nso mfomso adi.
+
+10 Nnipa pii wɔ hɔ a wotia na wɔnam wɔ nkwaseasɛm so daadaa afoforo, ne titiriw no, wɔn a wofi twetiatwasom no mu. 11 Ɛsɛ sɛ wosiw wɔn nkyerɛkyerɛ no ano efisɛ, wɔnam wɔn nkyerɛkyerɛ bɔne no so ma ntoto ba mmusua mu nam so de pɛ sika. 12 Kreta no ankasa a na ɔyɛ wɔn diyifo na ɔkae se, “Kretafo no yɛ atorofo, mmoa bɔne ne anihafo adidifo.” 13 Na asɛm a ɔkae no yɛ nokware. Esiane saa nti, ɛsɛ sɛ moka wɔn anim yiye sɛnea ɛbɛyɛ a wobenya gyidi pa, 14 na wɔantena ase amma twetiatwa atorosɛm ne nhyɛ a efi nnipa a wɔapo nokware no no.
+
+15 Biribiara yɛ kronn ma wɔn a wɔyɛ kronn no, nanso biribiara nyɛ kronn mma wɔn a wɔn ho agu fi na wonni gyidi, efisɛ, wɔn adwene ne wɔn atiboa ho agu fi. 16 Wɔka se wonim Onyankopɔn, nanso wɔn nneyɛe nkyerɛ saa. Wokyi wɔn, na wɔyɛ asoɔdenfo a wɔde wɔn yɛ ade pa biara a ɛnyɛ ye.
+
+
+X-X-X
+
+
+1 Nkyerɛkyerɛ a wɔbɛkyerɛkyerɛ biara no, ɛsɛ sɛ efi ɔkyerɛ pa mu. 2 Ka kyerɛ nkwakoraa na wɔmma wɔn ho nwo, wɔnyɛ anyansafo, na wɔnhyɛ wɔn ho so; wɔn gyidi mu nyɛ den, wonya ɔdɔ na wontumi ntena ɔhaw mu.
+
+3 Saa ara nso na ka kyerɛ mmerewa na wɔmmɔ ɔbra a ɛyɛ kronn. Wonnni nseku na wɔnnyɛ asadweam nso. Wɔnkyerɛ akyerɛ pa, 4 sɛnea ɛbɛyɛ a wɔnam so betumi ama mmabaa adɔ wɔn kununom ne wɔn mma, 5 ama wɔatumi ahyɛ wɔn ho so, ayɛ kronn na wɔayɛ awarefo pa a wotie wɔn kununom asɛm, na obi anka bɔne amfa Onyankopɔn asɛm no ho.
+
+6 Saa ara na hyɛ mmerante na wonya ahohyɛso. 7 Nneɛma nyinaa mu, fa wo ho yɛ nhwɛso pa wɔ nnwuma pa yɛ mu. Di nokware na ma w’ani nku wo nkyerɛkyerɛ ho. 8 Ka nsɛm a ɛho tew na obi antumi antia mu na ama atamfo ani awu sɛ wonnya asɛm bɔne nka mfa yɛn ho.
+
+9 Ɛsɛ sɛ asomfo tie wɔn wuranom na ade nyinaa mu, wɔsɔ wɔn wuranom ani. Ɛnsɛ sɛ woyiyi nsɛm ano 10 anaa wɔbɔ wɔn korɔn. Nea ɛsɛ sɛ wɔyɛ ne sɛ, bere nyinaa mu, ɛsɛ sɛ wɔyɛ papa na wodi nokware na ɛnam so ma biribiara a wɔyɛ no de anuonyamhyɛ aba nkyerɛkyerɛ a ɛfa Onyankopɔn a ɔyɛ yɛn Agyenkwa no ho.
+
+11 Onyankopɔn ada n’adom a egye nnipa nyinaa nkwa no adi. 12 Na adom no kyerɛ yɛn sɛ, yɛmpa asetena a ɛho ntew no ne wiase akɔnnɔ akyi na yɛntena ase ahohyɛso, kronnyɛ, onyamesuro mu wɔ wiase ha, 13 bere a yɛretwɛn adom da a yɛn ani da so a yɛn tumfo Onyankopɔn ne yɛn Agyenkwa Yesu Kristo no anuonyam bɛda adi no. 14 Ɔde ne ho maa yɛn de gyee yɛn fii bɔne mu ama yɛayɛ kronn a yɛyɛ ne nko de a yɛpɛ papayɛ.
+
+15 Kyerɛkyerɛ saa nneɛma yi na gyina wo tumi so hyɛ w’atiefo nkuran, ka wɔn anim. Mma wɔn mu bi mmnu wo abomfiaa.
+
+
+X-X-X
+
+
+1 Kae wo nkurɔfo na wɔmmrɛ wɔn ho ase nhyɛ mpanyin ne tumi ase na wontie wɔn na wonsiesie wɔn ho mma adepa yɛ. 2 Ka kyerɛ wɔn se wɔnnka asɛmmɔne mmfa obi ho na mmom wonnwo brɛoo na daa wonyi ɔdɔ adi nkyerɛ nnipa nyinaa.
+
+3 Kan no, na yɛn ankasa yɛyɛ nkwaseafo, asoɔdenfo, ne abɔnefo. Na yɛyɛ akɔnnɔ ne anigye horow nkoa. Yɛsɛee yɛn abrabɔ wɔ bɔne ne anibere ho. Afoforo tan yɛn maa yɛn nso yɛtan wɔn.
+
+4 Nanso bere a yɛn Agyenkwa Onyankopɔn ayamye ne ne dɔ daa adi no, 5 ogyee yɛn nkwa. Ɛnyɛ nnwuma pa bi a yɛayɛ nti, na mmom, ɔnam n’ahummɔbɔ mu ahohoro yɛn ho, agye yɛn nkwa, ama Honhom Kronkron no awo yɛn foforo ama yɛn nkwa foforo. 6 Onyankopɔn nam Yesu Kristo a ɔyɛ yɛn Agyenkwa no so ahwie Honhom Kronkron no agu yɛn so 7 sɛnea ɛbɛyɛ a’ n’adom nti, ɔbɛka yɛn ne Onyankopɔn abom na ɛnam so ma yɛanya nkwa a enni awiei a yɛn ani da so no. 8 Eyi yɛ nokwasɛm. Mepɛ sɛ wuti saa asɛm yi mu yiye na ama wɔn a wogye Onyankopɔn di no ahu sɛ, ɛsɛ sɛ wɔde wɔn bere di dwuma pa. Eyinom nyinaa ye na ɛho wɔ mfaso ma nnipa.
+
+9 Nanso munnnye nkwasea akyinnye. Saa ara nso na monnto ana, nkasakasa, nko wɔ mmara so. Ɛho nni mfaso biara. 10 Obi a ɔde mpaepaemu ba no, bɔ no kɔkɔ na ɛno akyi tew wo ho fi ne ho. 11 Ɛsɛ sɛ wuhu sɛ obi a ɔte saa no asɛe, na bɔne a ɔyɛ no da adi wɔ ne ho.
+
+12 Sɛ mesoma Artema anaa Tihiko wo nkyɛn a, bɔ mmɔden bra me nkyɛn wɔ Nikopoli, na ɛhɔ na mabɔ me tirim sɛ mɛtena awɔw bere no. 13 Bɔ mmɔden gya ɔmmaranimfo Sena ne Apolo kwan yiye na anhia wɔn hwee. 14 Ma yɛn nkurɔfo no nsua sɛnea wɔde wɔn adagyew yɛ nnwuma pa de boa. Ɛnsɛ sɛ wɔtena ase kwa.
+
+15 Wɔn a wɔne me wɔ ha nyinaa kyiakyia wo. Kyia wɔn a wɔdɔ yɛn wɔ gyidi mu ma yɛn. Adom nka mo nyinaa.
+
+
+
+#####   1 Tesalonikafo    #####
+
+X-X-X
+
+1 Saa nhoma yi fi Paulo, Silas ne Timoteo nkyɛn. Wɔde kɔma Tesalonika asafo a wɔyɛ Agya Onyankopɔn ne Awurade Yesu Kristo mma no: Adom ne asomdwoe nka mo.
+
+2 Daa yesi mo ananmu da Onyankopɔn ase ma mo na yɛkae mo wɔ yɛn mpaebɔ mu nso. 3 Efisɛ, yɛkae mo gyidi a mode di dwuma, mo dɔ a ɛma mutumi de nsi yɛ adwuma ne mo anidaso dennen a mowɔ wɔ yɛn Awurade Yesu Kristo mu no wɔ yɛn Nyankopɔn ne Agya no anim.
+
+4 Anuanom, yenim sɛ Onyankopɔn dɔ mo nti na wayi mo sɛ ɔno ankasa ne de no. 5 Sɛ yɛbɛkaa Asɛmpa no kyerɛ mo a, ɛnyɛ nsɛm bi kwa na mmom yegyina tumi ne Honhom Kronkron ne mu nokware mu gyidi so. Munim sɛnea bere a na yɛne mo wɔ ha no mo yiyedi mu nti na ɛmaa yɛne mo tenae. 6 Musuasuaa yɛn ne Awurade; na ɛwom sɛ muhuu amane de, nanso mode anigye a efi Honhom Kronkron no mu gyee asɛm no.
+
+7 Ɛnam so ma mobɛyɛɛ nhwɛso maa gyidifo a wɔwɔ Makedonia ne Hela no nyinaa. 8 Nsɛm a moka faa Awurade ho no ankɔ Makedonia ne Hela nko, na mmom, gyidi a mowɔ wɔ Onyankopɔn mu no ho asɛm adu baabiara. Asɛm biara nni hɔ a ɛsɛ sɛ yɛka bio. 9 Saa nnipa no nyinaa ka gye a yɛbɛsraa mo no, mugyee yɛn ne twe a motwee mo ho fii ahoni ho na mode mo ho maa Onyankopɔn, som nokware ne ɔteasefo Nyankopɔn no 10 na moatwɛn ne Ba a ofi soro no; ne Ba Yesu a onyanee no fi awufo mu a ogye yɛn fi Onyankopɔn abufuw a ɛreba no mu no.
+
+
+X-X-X
+
+
+1 Anuanom, mo ankasa munim sɛ nsra a yɛbɛsraa mo no anyɛ ɔkwa. 2 Munim ayaayaade a wɔyɛɛ yɛn ne ɔyaw a wɔyaw yɛn wɔ Filipi ansa na yɛreba mo nkyɛn wɔ Tesalonika. Ɛwom sɛ na nnipa bi tia yɛn de, nanso yɛn Nyankopɔn hyɛɛ yɛn den ma yɛkaa Asɛmpa a efi ne mu no. 3 Asɛmpa a yɛka kyerɛɛ mo no mfi adwemmɔne anaa nnaadaa mu na mmom, nea yɛkae no yɛ nokware turodoo.
+
+4 Daa yɛka nokware sɛnea Onyankopɔn hwehwɛ yɛn sɛ yɛnka no, efisɛ, ɔpene so na ɔde Asɛmpa no nso ama yɛn sɛ yɛnka. Yɛmpɛ sɛ yɛsɔ nnipa ani na mmom Onyankopɔn a ɔsɔ yɛn adwene hwɛ no ani na yɛpɛ sɛ yɛsɔ. 5 Munim pefee sɛ yɛamma ha sɛ yɛrebɛka nnaadaasɛm akyeerɛ mo anaasɛ yɛrebɛka nsɛm sikanibere so. Onyankopɔn ne yɛn adanse. 6 Sɛ moyɛ Kristo asomafo no nti, anka yɛwɔ ho kwan sɛ yɛpɛ anuonyam fi mo nkyɛn nanso yemmisaa anuonyam mfii mo anaasɛ onipa foforo bi nkyɛn. 7 Na yɛwɔ mo nkyɛn no na yɛne mo te odwo so sɛnea ɔbeatan korɔkorɔ ne mma. 8 Esiane sɛ na yɛdɔ mo no nti, na ɛnyɛ Asɛmpa no nko ara na na mowɔ mu kyɛfa na mmom yɛn ankasa yɛn abrabɔ nso ka ho bi. Na yɛdɔ mo pa ara.
+
+9 Anuanom, minim sɛ mokae adwuma a yɛyɛe ne brɛ a yɛbrɛe. Yɛyɛɛ adwuma awia ne anadwo sɛnea Onyankopɔn Asɛmpa no ka a yɛka kyerɛɛ mo no, yɛremfa ɔhaw bi mmɛto mo so.
+
+10 Mo ne Onyankopɔn yɛ yɛn adansefo. Yɛn suban a yɛdaa no adi kyerɛɛ mo a mugyee Asɛmpa no dii no yɛ kronn a eye na mfomso biara nni ho. 11 Mo ara munim sɛ yɛne mo tenae sɛnea agya ne n’ankasa mma tena. 12 Yɛhyɛɛ mo nkuran; yɛkyekyee mo werɛ na yɛkɔɔ so tuu mo fo sɛ montena ase wɔ ɔkwan a ɛsɔ Onyankopɔn a ɔfrɛ mo wɔ n’ahenni ne n’anuonyam mu no so.
+
+13 Daa yɛbɛda Onyankopɔn ase wɔ saa asɛm yi ho. Bere a yɛkaa Onyankopɔn asɛm kyerɛɛ mo no, mutiei, gye dii sɛ ɛnyɛ asɛm a efi onipa nkyɛn na mmom, ampa ara sɛ, efi Onyankopɔn nkyɛn. Mo a moagye adi no, Onyankopɔn yɛ adwuma wɔ mo mu.
+
+14 Anuanom, nsɛm a ɛtotoo Onyankopɔn asafo a na ɛwowɔ Yudea ne nnipa a wɔwɔ hɔ a na wɔyɛ Kristo Yesu nkurɔfo no bi ara na ato mo yi. Ɔtaa a mo ara mo manfo taa mo no, saa ara na Yudafo no nso taa asafo no, 15 kum Awurade Yesu ne adiyifo no taa yɛn nso. Onyankopɔn ani nsɔ wɔn na nnipa bo fuw wɔn. 16 Wɔbɔ mmɔden sɛ wobesiw yɛn kwan sɛnea ɛbɛyɛ a yɛrentumi nkɔka asɛm a ɛbɛma Amanamanmufo no nkwagye nkyerɛ wɔn. Eyi ma daa wɔn bɔne kɔ so. Na Onyankopɔn abufuw wɔ wɔn so.
+
+17 Yɛn de, anuanom, tetew a yɛtetew mu kakraa a emfi yɛn no nanso ɛyɛ honam fam no, yɛn ani gyinaa mo na yɛbɔɔ ho mmɔden sɛ yebehu mo bio. 18 Yɛpɛe sɛ yɛbɛsan aba mo nkyɛn. Me Paulo de, na mepɛ sɛ meba hɔ boro pɛnkoro nanso ɔbonsam amma yɛn ho kwan. 19 Nanso ne nyinaa akyi no, mo nko ara ne yɛn anidaso ne yɛn ahosɛpɛw na sɛ yebetumi ahoahoa yɛn ho nkonimdi mu wɔ Awurade Yesu anim wɔ ne ba no mu a, egyina mo so. 20 Nokwarem, yɛn ahohoahoa ne yɛn ahosɛpɛw gyina mo so.
+
+
+X-X-X
+
+
+1 Akyiri yi a mihui sɛ meyɛ ho hwee a ɛnyɛ ye no, meyɛɛ m’adwene sɛ me nko ara mɛtena Atene. 2 Enti yɛsomaa yɛn nua Timoteo a yɛne no yɛ Onyankopɔn adwuma no sɛ ɔnkɔka Asɛmpa a ɛfa Kristo ho mfa mmoa, nhyɛ mo gyidi den, 3 sɛnea ɛbɛyɛ a ɔtaa no nti, mo mu biara mmɔ hu. Mo ara munim sɛ saa ɔtaa no yɛ Onyankopɔn pɛ a wahyehyɛ ama yɛn. 4 Bere a na yɛne mo wɔ hɔ no, yedii kan ka kyerɛɛ mo se, wɔbɛtaa yɛn na sɛnea munim no, saa pɛpɛɛpɛ na aba yi.
+
+5 Ɛno nti na mesomaa Timoteo. Esiane sɛ na asɛm no hyɛ me so nti, mesomaa no sɛ ɔmmɛhwɛ mo gyidi mu. Na misuro sɛ ɔbonsam na wasɔ mo ahwɛ ama dwuma a yɛadi no nyinaa ayɛ ɔkwa.
+
+6 Afei Timoteo afi mo nkyɛn aba yɛn nkyɛn abɛka anigyesɛm a ɛfa mo gyidi ne mo dɔ ho asɛm akyerɛ yɛn. Waka akyerɛ yɛn se daa modwene yɛn ho adwene pa na mopɛ sɛ muhu yɛn sɛnea yɛn nso yɛpɛ sɛ yɛhu mo no ara pɛ. 7 Enti yɛn haw ne yɛn amanehunu no mu no, moahyɛ yɛn nkuran, 8 efisɛ, sɛ mugyina pintinn wɔ Awurade mu a, na ɛma yɛn nso yetumi gyina biribiara ano wɔ yɛn asetena mu.
+
+9 Ɛsɛ sɛ yɛda Onyankopɔn ase ma mo. Mo nti, yɛda Onyankopɔn ase sɛ moama yɛn ho asɛpɛww yɛn wɔ n’anim. 10 Daa awia ne anadwo, yefi yɛn koma nyinaa mu srɛ no sɛ, ɔmma yɛne mo nhyia na yɛmma mo nea ehia mo wɔ mo gyidi mu.
+
+11 Ɔno ara yɛn Nyankopɔn ne Agya no ankasa ne yɛn Awurade Yesu Kristo nsiesie kwan na yɛmmra mo nkyɛn. 12 Awurade mma mo dɔ mu nyɛ den mmoro so wɔ mo ho mo ho mu ne afoforo mu, sɛnea yɛn nso yɛdɔ mo no. 13 Ɔnhyɛ mo koma den a mo ho nni asɛm wɔ kronkronyɛ mu yɛn Nyankopɔn ne Agya no anim wɔ yɛn Awurade Yesu Kristo ne n’ahotefo nyinaa ba mu.
+
+
+X-X-X
+
+
+1 Anuanom, asɛm a etwa to ne sɛ, musuaa ɔkwan pa a ɛsɛ sɛ mofa so tena ase a ɛbɛsɔ Onyankopɔn ani. Na saa pɛpɛɛpɛ na morebɔ mo bra. Enti yɛde yɛn Awurade Yesu din srɛ, hyɛ mo sɛ, monyɛ mma ɛmmoro nea moreyɛ mprempren no mu. 2 Munim nkyerɛkyerɛ a ɛnam Awurade Yesu tumi nti, yetumi kyerɛkyerɛɛ mo. 3 Eyi yɛ Onyankopɔn pɛ a ɔwɔ ma mo. Ɔpɛ sɛ moyɛ kronkron na motwe mo ho fi aguamammɔ ho. 4 Ɛsɛ sɛ musua sɛnea mohyɛ mo ho so na obiara atumi ne ne yere atena kronnyɛ ne anuonyam so. 5 Monntena ase akɔnnɔ anibere so te sɛ wɔn a wonnim Onyankopɔn.
+
+6 Onyankopɔn akyide no bi nso ne sɛ, ɛnsɛ sɛ mo mu biara sisi ne yɔnko gye ne yere, efisɛ, sɛ obi yɛ saa a, Onyankopɔn bɛtwe n’aso denneenen sɛnea yɛadi kan abɔ mo kɔkɔ no. 7 Onyankopɔn amfrɛ yɛn sɛ yɛmmɛbɔ aguaman na mmom ɔfrɛɛ yɛn sɛ yɛntena ase ahotew mu. 8 Ɛno nti, obiara a ɔbɛpo nkyerɛkyerɛ no ntia onipa na mmom, otia Onyankopɔn a ɔma mo Honhom Kronkron no.
+
+9 Ɛho nhia sɛ mɛkyerɛw mo afa ɔdɔ a ɛsɛ sɛ modɔ mo nuanom asuafo no ho. Onyankopɔn akyerɛ mo ankasa ɔkwan a ɛsɛ sɛ mofa so dodɔ mo ho mo ho. 10 Na moada saa ɔdɔ no adi pɛpɛɛpɛ akyerɛ anuanom a wɔwɔ Makedonia no nyinaa. Nanso anuanom, yɛsrɛ mo sɛ monkɔ so nnodɔ mo ho mo ho mma ɛmmoro saa. 11 Momma ɛnyɛ mo botae sɛ mobɛtena ase dinn na moahwɛ so adi mo dwuma de abɔ mo ho akɔhoma sɛnea yɛaka akyerɛ mo dedaw no. 12 Sɛ moyɛ saa a, ɛbɛma wɔn a wɔnyɛ asuafo no afɛre mo na moremmisa nea ehia mo nso mfi obiara nkyɛn.
+
+13 Anuanom, yɛpɛ sɛ yɛka nokware a ɛfa wɔn a wɔawuwu no ho kyerɛ mo sɛnea ɛbɛyɛ a morenni ho awerɛhow te sɛ wɔn a wonni anidaso no. 14 Yegye di sɛ Yesu wui, na ɔsɔree bio enti yɛwɔ gyidi sɛ wɔn a wogyee Yesu dii na wowuwui no, Onyankopɔn de saa nnipa no bɛka Yesu ho.
+
+15 Awurade nkyerɛkyerɛ a yɛreka akyerɛ mo no ne sɛ, ɛda a Awurade bɛba no, yɛn a yɛte ase yi renni awufo no anim kan. 16 Awurade no ankasa de nteɛm a ɔbɔfo panyin no nso nne a Onyankopɔn torobɛnto nne ka ho fi soro bɛba fam. Wɔn a wɔawuwu wɔ Kristo mu no bɛsɔre kan, 17 na wɔaboaboa yɛn a yɛte ase bere no ne wɔn a wɔasɔre no ano wɔ omununkum mu ahyia Awurade wɔ wim. Na saa na yɛne Awurade bɛtena daa. 18 Enti, momfa saa asɛm yi nkyekye obiara werɛ.
+
+
+X-X-X
+
+1 Anuanom, ɛho nhia sɛ mɛkyerɛw akyerɛ mo nna ne bere a saa nsɛm yi besisi. 2 Efisɛ, mo ankasa munim yiye sɛ da a Awurade bɛba no bɛyɛ sɛ ɔkorɔmfo a ɔreba anadwo. 3 Bere a nnipa bɛka se, “Biribiara yɛ asomdwoe” no, saa bere no na adesɛe bɛba wɔn so. Na wɔrenguan. Ɛbɛyɛ te sɛ yaw a ɛba ɔpemfo a ɔrewo so no.
+
+4 Nanso mo anuanom yi de, monte sum mu nti ɛnsɛ sɛ saa da no fi mo mu sɛ ɔkorɔmfo. 5 Mo nyinaa moyɛ hann ne adekyee mma. Yɛnyɛ anadwo ne sum mma. 6 Ɛno nti, ɛnsɛ sɛ yɛdeda sɛ afoforo no. Ɛsɛ sɛ yɛwɛn na yɛbrɛ yɛn ho ase. 7 Anadwo na nnipa da. Anadwo na nnipa bow nsa. 8 Nanso yɛyɛ adekyee mma nti ɛsɛ sɛ yɛbrɛ yɛn ho ase. Ɛsɛ sɛ yɛhyɛ gyidi ne ɔdɔ nkatabo ne yɛn nkwagye anidaso sɛ dade kyɛw.
+
+9 Onyankopɔn anyi yɛn sɛ yemmehu amane wɔ n’abufuw ano na mmom, oyii yɛn sɛ yɛmfa Awurade Yesu Kristo 10 a owu maa yɛn no sɛnea ɛbɛyɛ a, sɛ ɔba na sɛ yɛawu o sɛ yɛte ase o, yɛne no bɛtena ase wɔ nkwa mu. 11 Esiane saa nti, monhyɛ mo ho nkuran na mommoaboa mo ho mo ho sɛnea mugu so reyɛ yi.
+
+12 Anuanom, yɛsrɛ mo sɛ, momfa obu ne nidi mma wɔn a Awurade ayi wɔn sɛ wonni mo anim nkyerɛkyerɛ mo no. 13 Esiane adwuma a wɔyɛ no nti, mummu wɔn na monnɔ wɔn yiye. Montena ase asomdwoe mu.
+
+14 Anuanom, yɛhyɛ mo sɛ, monkasa nkyerɛ anihafo, monka wɔn a wɔnyɛ hyew no hyew; mommoa wɔn a wɔyɛ mmerɛw; montɔ mo bo ase mma wɔn nyinaa. 15 Monhwɛ sɛ obi mfa bɔne a obi ayɛ no no ho ka ntua no. Bere biara, momma ɛnyɛ mo botae sɛ mobɛyɛ papa ama mo ho mo ho ne obiara.
+
+16 Momma mo ani nnye da biara 17 na bere biara nso, mommɔ mpae; 18 biribiara mu monna ase. Eyi na Onyankopɔn hwehwɛ afi mo nkyɛn wɔ Kristo Yesu mu.
+
+19 Monnka Honhom Kronkron no nnhyɛ; 20 munnsi adiyisɛm atwetwe. 21 Monsɔ biribiara nhwɛ; momfa nea eye, 22 na munkyi bɔne biara. 23 Na ɔno asomdwoe Nyankopɔn no ara ntew mo ho koraa, na ɔnhwɛ mo honhom ne mo kra ne mo nipadua so mu a ɛho remma asɛm biara yɛn Awurade Yesu Kristo ba mu. 24 Ɔnokwafo ne nea ɔfrɛɛ mo no, ɔno nso na ɔbɛyɛ.
+
+25 Anuanom, mommɔ mpae mma yɛn.
+
+26 Momfa mfewano kronkron nkyiakyia anuanom nyinaa.
+
+27 Mehyɛ mo wɔ Awurade tumi mu sɛ monkenkan saa nhoma yi nkyerɛ anuanom no nyinaa.
+
+28 Yɛn Awurade Yesu Kristo adom nka mo.
+
+
+####   2 Tesalonikafo   ####
+
+X-X-X
+
+1 Saa nhoma yi fi Paulo, Silas ne Timoteo nkyɛn. Wɔde kɔma Tesalonika asafo a wɔyɛ Agya Onyankopɔn ne Awurade Yesu Kristo nkurɔfo no:
+
+2 Adom ne asomdwoe a efi Agya Onyankopɔn ne yɛn Awurade Yesu Kristo nka mo.
+
+3 Anuanom, ɛsɛ sɛ da biara yɛda Onyankopɔn ase ma mo. Ɛsɛ sɛ yɛyɛ saa, efisɛ, mo gyidi ne ɔdɔ a modɔ afoforo no den ara na ɛreyɛ. 4 Saa nti na yɛn ankasa yɛde mo hoahoa yɛn ho wɔ Onyankopɔn asafo horow mu no. Yɛde ɔtaa ne amanehunu a mokɔ so gyina ano no hoahoa yɛn ho. 5 Eyinom nyinaa di adanse sɛ, Onyankopɔn bu atɛntrenee ɛno nti, wɔbɛkan mo afra wɔn a wɔbɛkɔ n’ahenni a morehu ho amane no mu. 6 Onyankopɔn bɛyɛ nea ɛteɛ. Wɔn a wɔbɛma mo ahu amane no, ɔno nso bɛma wɔahu amane, 7 na mo a morehu amane no ne yɛn nso, wama yɛahome. Saa asɛm yi besi wɔ bere a Awurade Yesu nam ogyaframa mu fi soro reba a n’abɔfo atumfo ka ne ho no, 8 abɛtwe wɔn a wonnim Onyankopɔn na wontie yɛn Awurade Yesu Asɛmpa no aso. 9 Wɔbɛkɔ daa ɔsɛe mu na wɔayi wɔn afi Awurade anim ne n’anuonyam mu 10 da a ɔbɛma n’akyidifo ne n’asuafo ahyɛ no anuonyam no. Mo nso, mobɛfra saa nkurɔfo no mu, efisɛ, moagye asɛm a yɛka kyerɛɛ mo no adi.
+
+11 Eyi nti na daa yɛbɔ mpae ma mo no. Yɛsrɛ Onyankopɔn sɛ ɔmma mo ntumi ntena ase mma asetena a ɛno nti ɔfrɛɛ mo no. 12 Onnyina ne tumi so mma mo tumi, nyɛ mo apɛde ne biribiara a mo gyidi bɛka akyerɛ mo sɛ monyɛ no nyinaa. 13 Yɛbɔ mpae sɛnea wɔnam yɛn Nyankopɔn ne Awurade Yesu Kristo adom so bɛhyɛ Awurade Yesu din anuonyam wɔ mo mu na mo nso, wɔahyɛ mo anuonyam wɔ ne mu.
+
+
+
+X-X-X
+
+
+1 Ɛfa yɛn Awurade Yesu Kristo ba a ɔrebɛba ne boa a wɔbɛboaboa yɛn ano akɔka ne ho no, mesrɛ mo, anuanom, 2 mommma mo adwene mu nnyɛ mo nnaa sɛ da a Awurade reba no adu. Ebia na obi rehyɛ saa nkɔm no anaa obi foforo nso gyina so reka asɛm. Anaasɛ nso wɔka se yɛn nhoma a yɛkyerɛw no bi mu na saa asɛm no wɔ. 3 Mommma obiara nnaadaa mo saa kwan yi so. Saa Da no remma da gye sɛ Adɔnyɛ a etwa to no aba ama ɔbɔnefo no a ɔbɛka daa ɔsɛe mu no ada ne ho adi. 4 Biribiara a nnipa som na wobu no kronkron no obetia mu. Ɔbɛkorɔn ne ho wɔ ne nyinaa so na wakɔtena Onyankopɔn asɔredan mu na waka se ɔno ne Onyankopɔn.
+
+5 Monkae sɛ bere a me ne mo wɔ hɔ no, na metaa ka eyinom nyinaa kyerɛ mo. 6 Nanso biribi na atwe no asɛn na sɛ bere no du a, ne ho asɛm bɛba.
+
+7 Ɔbɔnefo no di ne dwuma dedaw na nea ɛbɛba no remma da gye sɛ wayi nea okita mu no afi hɔ. 8 Ɛno ansa na ɔbɔnefo no bɛba, na Awurade Yesu nam n’anom home so betu no agu na ɔde ne ba a ɔbɛba no mu anuonyam asɛe no. 9 Ɔbɔnefo no nam ɔbonsam tumi so na ɛbɛba na wabɛyɛ anwonwade ne nsɛnkyerɛnne 10 na ɔnam bɔne so adaadaa wɔn a wɔbɛyera no. Wɔbɛyera, efisɛ, wɔannye nokware no antom, annɔ nokware no na wɔnam so anya nkwa. 11 Eyi nti, Onyankopɔn soma mfomso tumi ma ɛkɔhyɛ wɔn mu na ɛnam so ama wɔagye nsɛm a ɛnyɛ nokware adi. 12 Awiei no ara ne sɛ, wɔn a wonnye nokware no nni na wɔn ani gye bɔne ho no, wobebu wɔn atɛn.
+
+13 Anuanom, ɛsɛ sɛ bere biara yɛda Onyankopɔn ase ma mo a Awurade dɔ mo no. Efisɛ, ɛnam Honhom no tumi so na Onyankopɔn yii mo sɛ nnipa a mudi kan a wobegye mo nkwa na wɔayɛ mo Onyankopɔn nkurɔfo kronkron wɔ mo gyidi a mowɔ wɔ nokware mu no mu. 14 Onyankopɔn nam Asɛmpa no so frɛɛ mo sɛnea mo ne Awurade Yesu Kristo bɛtena n’anuonyam no mu.
+
+15 Enti, anuanom, munnyina pintinn na monka mo ho mmata nokware a yɛkyerɛɛ mo wɔ asɛnka ne yɛn nhoma no mu no.
+
+16 Yɛn Awurade Yesu Kristo no ankasa ne yɛn Agya Onyankopɔn a ɔdɔ yɛn na ɔnam n’adom mu ahyɛ yɛn daa nkuran ne anidaso pa no, 17 nkyekye mo werɛ, na ɔnhyɛ mo den asɛm ne adwuma pa nyinaa mu.
+
+
+
+
+X-X-X
+
+
+1 Anuanom, asɛm a etwa to ne sɛ, mommɔ mpae mma yɛn sɛnea ɛbɛyɛ a Awurade asɛm bɛkɔ so atrɛw ntɛm sɛnea ɛyɛe wɔ mo mu no. 2 Afei mommɔ mpae mma yɛn sɛnea ɛbɛyɛ a Onyankopɔn beyi yɛn afi abɔnefo ne nsɛmmɔnedifo nsam. Efisɛ, ɛnyɛ nnipa nyinaa na wogye asɛm no di. 3 Nanso Awurade yɛ ɔnokwafo. Ɔbɛhyɛ mo den na wagye mo afi ɔbɔnefo no nsam. 4 Awurade mma yɛn mo mu anidaso. Yɛwɔ anidaso sɛ moreyɛ na mobɛkɔ so ayɛ biribiara a yɛbɛkyerɛ mo sɛ monyɛ no.
+
+5 Awurade nka mo ho na munnya ɔdɔ koma mma Onyankopɔn ne Kristo nkuranhyɛ no.
+
+6 Anuanom, yɛhyɛ mo wɔ Awurade Yesu Kristo din mu sɛ, montwe mo ho mfi anuanom a wodi anihaw na wonni mmara a yɛahyɛ ama wɔn no so no ho. 7 Mo ankasa munim pefee sɛ ɛsɛ sɛ moyɛ nea yɛyɛe no bi pɛpɛɛpɛ. Bere a na yɛwɔ mo nkyɛn no, yɛanyɛ anihaw. 8 Obi ammoa yɛn a yɛantua onii no ka. Yɛyɛɛ adwuma denneenen. Awia ne anadwo nyinaa yɛyɛɛ adwuma sɛnea yɛremfa sikasɛm biara nhaw mo adwene. 9 Eyi nkyerɛ sɛ na yenni ho kwan sɛ yebisa mo biribi de boa yɛn asetena. Yɛyɛɛ saa de yɛɛ nhwɛso maa mo. 10 Yɛwɔ mo nkyɛn no, yɛka kyerɛɛ mo se, “Obiara a ɔmpɛ sɛ ɔyɛ adwuma no, ɛnsɛ sɛ wɔma odidi.”
+
+11 Yɛka saa asɛm yi, efisɛ, yɛte sɛ mo mu bi yɛ anihafo a wɔnyɛ hwee sɛ wɔnenam nkurɔfo nnwuma ase. 12 Yɛde Awurade Yesu Kristo din hyɛ wɔn, bɔ wɔn kɔkɔ se, wɔmmɔ bra pa na wɔnyɛ adwuma mfa mmɔ wɔn ho akɔhoma.
+
+13 Anuanom munnnyae papayɛ da.
+
+14 Obi wɔ hɔ a ɔrentie nhoma a makyerɛw abrɛ mo yi mu nsɛm. Sɛ muhu obi saa a, monhwɛ no yiye na montwe mo ho mfi ne ho na n’anim ngu ase. 15 Nanso mommfa saa onipa no sɛ ɔyɛ ɔtamfo na mmom, mommɔ no kɔkɔ sɛ mo nua. 16 Na ɔno asomdwoe Awurade no ara mma mo asomdwoe daa ade nyinaa mu. Awurade ne mo nyinaa ntena.
+
+17 Me ara me Paulo, me nsa ano nkyerɛw a menam so rekyia mo ni. Saa kwan yi ara so na mefa kyerɛw nhoma.
+
+18 Yɛn Awurade Yesu Kristo adom nka mo nyinaa.
+
+
+#####    1  Timoteo   #####
+
+
+X-X-X
+
+1 Saa nhoma yi fi Yesu Kristo somafo Paulo a ɔnam Onyankopɔn a ɔyɛ yɛn anidaso no hyɛ so nkyɛn, 2 kɔma Timoteo a ɔyɛ me ba kann wɔ gyidi no mu nkyɛn. Agya Onyankopɔn ne Kristo Yesu a ɔyɛ yɛn Awurade no adom, mmɔborɔhunu ne asomdwoe nka mo.
+
+3 Mepɛ sɛ motena Efeso sɛnea merekɔ Makedonia no meka kyerɛɛ mo no. Nnipa bi wɔ hɔ a wɔrekyerɛkyerɛ nkyerɛkyerɛ bɔne a ɛsɛ sɛ mohyɛ wɔn na wogyae. 4 Monka nkyerɛ wɔn na wonnyae atorosɛm ne wɔn nenanom din bebrebe a wɔbobɔ no, efisɛ, saa nneyɛe no de akyinnye ba. Ɛmmoa Onyankopɔn nhyehyɛe a wɔnam gyidi nko so na wohu no. 5 Saa ɔhyɛ yi botae ara ne sɛ, ɛbɛkanyan ɔdɔ a efi koma pa, adwenem fann ne gyidi pa mu.
+
+6 Nnipa bi atwe wɔn ho afi ɔkwan pa no so de wɔn ho ama akyinnye hunu. 7 Wɔpɛ sɛ wɔyɛ Onyankopɔn mmara no akyerɛkyerɛfo nanso wɔn ara wɔn nsɛm a wɔka no wɔnte ase. Saa ara nso na wonni gyidi wɔ nsɛm a wɔka no mu.
+
+8 Yenim sɛ, sɛ wɔnam mmara kwan so de Mmara no di dwuma a eye. 9 Ɛsɛ sɛ yɛkae hu sɛ, wɔnyɛ mmara mma atreneefo na mmom wɔyɛ ma mmaratofo, nnebɔneyɛfo, wɔn a wonsuro Nyame ne abɔnefo, wɔn a wɔnyɛ kronkron anaa wɔn ho ntew, wɔn a wokum wɔn agyanom ne wɔn nanom, awudifo, 10 afideyɛfo, aguamammɔfo, nnipawiafo, atorofo a wɔka nkontomposɛm anaa wɔyɛ biribi a ɛne nokware nkyerɛkyerɛ no bɔ abira no. 11 Saa nkyerɛkyerɛ no wɔ Asɛmpa a wɔde ama me sɛ menka ho asɛm nkyerɛ no mu. Ɛyɛ Asɛmpa a efi Onyankopɔn a ɔyɛ onuonyamfo na wɔahyira no no nkyɛn.
+
+12 Meda yɛn Awurade Yesu Kristo a wama me ahoɔden ma midi me dwuma no ase. Meda no ase sɛ wadwen me ho sɛ mefata na wayi me sɛ mensom no. 13 Nanso mmere bi a atwam no, na mekasa tia no, taa no, kaa nsɛm a ɛmfata faa ne ho. Onyankopɔn ahu me mmɔbɔ na esiane sɛ na minnye nni nti, na minnim nea mereyɛ. 14 Yɛn Awurade hwiee n’adom a ɛdɔɔso no guu me so maa me gyidi ne ɔdɔ a esiane sɛ yɛne Kristo Yesu aka abom no nti, abɛyɛ yɛn dea no.
+
+15 Eyi yɛ nokwasɛm a ɛsɛ sɛ yegye tom na yegye di koraa sɛ: Kristo Yesu baa wiase begyee nnebɔneyɛfo nkwa. Meyɛ ɔdebɔneyɛfo a odi kan koraa. 16 Nanso esiane saa nti, wahu me mmɔbɔ sɛnea ɛbɛyɛ a me a meyɛ ɔdebɔneyɛfo a odi kan no, Kristo Yesu nam me so bɛda ne boasetɔ a enni awiei no adi akyerɛ wɔn a wobegye no adi no na wɔanya nkwa a enni awiei. 17 Anuonyam ne nnidi nka Onyankopɔn daadaa. Ɔno ne mmeresantenhene. Ɔno na wonhu no na onwu da nso. Ɔno nkutoo ne Onyankopɔn a nimdeɛ ahyɛ no ma. Amen.
+
+18 Afei, me ba Timoteo, mede saa dwumadi a wɔhyɛɛ ho nkɔm fi tete no hyɛ wo nsa. Wugu so reko ɔko pa no no, ma saa nsɛm no nyɛ w’akode, 19 na so wo gyidi mu dennen na ma w’adwene mu nyɛ fann. Nnipa bi ntie wɔn atiboa nam saayɛ so asɛe wɔn gyidi. 20 Saa nnipa no bi ne Himeneo ne Aleksandro a mayi wɔn ama Satan na wakyerɛ wɔn sɛnea wɔnnka abususɛm nntia Onyankopɔn.
+
+
+
+X-X-X
+
+1 M’afotu ne sɛ, nea edi kan no, mehyɛ mo sɛ monsrɛ, mommɔ mpae, mommisa na monna Onyankopɔn ase mma nnipa nyinaa; 2 monyɛ saa ara mma ahemfo ne wɔn a tumi hyɛ wɔn nsa nyinaa na yɛatumi atena ase asomdwoe mu wɔ onyamesom ne suban pa mu. 3 Eyi ye na ɛsɔ Onyankopɔn a ɔyɛ Agyenkwa a, 4 ɔpɛ sɛ wogye nnipa nyinaa nkwa na wohu nokware no ani. 5 Efisɛ, Onyankopɔn baako ne ntamgyinafo baako a ɔka Onyankopɔn ne nnipa bom no, ɔwɔ hɔ na ɔno ne Kristo Yesu no. 6 Ɔno na ɔde ne ho bɔɔ afɔre de gyee nnipa nyinaa nkwa no. Eyi yɛ adansedi a ɛbae bere a ɛsɛ mu sɛ Onyankopɔn pɛ sɛ wogye nnipa nyinaa nkwa. 7 Ɛno nti na wɔsomaa me sɛ ɔsomafo ne Amanamanmufo kyerɛkyerɛfo sɛ minni gyidi ne nokware no ho adanse. Merenni atoro; mereka nokware! 8 Mehwehwɛ sɛ nnipa a wɔwɔ mmaa nyinaa a wɔde wɔn ho ama Onyankopɔn a wotumi ma wɔn nsa so a abufuw ne akyinnye nni mu bɔ mpae. 9 Afei mehwehwɛ sɛ mmea brɛ wɔn ho ase na wɔfa kwan pa so hyehyɛ wɔn ho. Ɛnsɛ sɛ wɔbɔ wɔn ti de sika anaa adwinne a ne bo yɛ den siesie wɔn ho na wɔhyɛ ntade a ne bo yɛ den. 10 Na mmom ɛsɛ sɛ wɔda adwuma pa a ɛfata mmea adi sɛ mmea a wɔyɛ nyamesomfo. 11 Ɛsɛ sɛ mmea de kommyɛ ne ahobrɛase sua ade.
+
+12 Memma mmea ho kwan sɛ wɔnkyerɛkyerɛ anaasɛ wonnya mmarima so tumi. Ɛsɛ sɛ wɔyɛ komm. 13 Efisɛ, wɔbɔɔ Adam ansa na wɔrebɔ Hawa. 14 Na ɛnyɛ Adam na wɔdaadaa no. Ɔbea no na wɔdaadaa no ma ɛnam so ma obuu Onyankopɔn mmara so. 15 Na sɛ ɔbea tena ase gyidi, ɔdɔ, kronnyɛ ne ahobrɛase mu a ɔbɛwo asomdwoe mu.
+
+
+X-X-X
+1 Ɛyɛ sɛnnahɔ sɛ, sɛ obi pɛ sɛ ɔyɛ asafopanyin a, na wafa adwuma pa. 2 Asafopanyin yɛ obi a mfomso nni ne ho. Ɛsɛ sɛ ne yere yɛ baako. Ɛsɛ sɛ ɔbrɛ ne ho ase na ɔhyɛ ne ho so yɛ ne biribiara pɛpɛɛpɛ. Ɛsɛ sɛ ogye ahɔho wɔ ne fi na ɔkyerɛkyerɛ nso. 3 Ɛnsɛ sɛ ɔyɛ ɔsadweam anaa basabasa na mmom ɛsɛ sɛ ɔbrɛ ne ho ase na ɔpɛ asomdwoe. Ɛnsɛ sɛ ɔyɛ sikaniberefo. 4 Ɛsɛ sɛ otumi hwɛ ne fifo so yiye na otumi ma ne mma yɛ osetie de obu ne nidi ma no. 5 Na sɛ obi nnim sɛnea ɔhwɛ ne fi so yiye a, ɛbɛyɛ dɛn na obetumi ahwɛ Onyankopɔn asafo so?
+
+6 Ɛnsɛ sɛ ɔyɛ obi a afei na wahu Awurade; sɛ ɛba saa a, ne tirim bɛyɛ no dɛ ma wɔabu no atɛn sɛnea wobuu ɔbonsam atɛn no. 7 Ɛsɛ sɛ ɔyɛ obi a asafo mma no akyi no, wobu no sɛnea ɛbɛyɛ a wɔrengu n’anim ase na ɔbonsam afiri renyi no.
+
+8 Ɛsɛ sɛ asafo mu aboafo nso yɛ nnipa a wɔwɔ suban pa na wodi nokware. Ɛnsɛ sɛ wɔnom nsa pii anaasɛ wɔyɛ aniberefo. 9 Ɛsɛ sɛ wɔde adwenem fann gyina pintinn ma nokware no ne gyidi no. 10 Ɛsɛ sɛ wɔsɔ wɔn hwɛ ansa, na sɛ wodi sɔhwɛ no so nkonim a, wɔasom.
+
+11 Ɛsɛ sɛ wɔn yerenom nso wɔ suban pa a wonni nseku. Biribiara mu, ɛsɛ sɛ wɔbrɛ wɔn ho ase di nokware. 12 Ɛsɛ sɛ asafo no mu boafo no wɔ yere baako na afei otumi hwɛ ne mma ne ne fifo yiye. 13 Wɔn a wɔyɛ adwuma pa no nya din pa na wɔde nnam ka gyidi a wɔwɔ wɔ Kristo Yesu mu no ho asɛm.
+
+14 Saa nhoma a mede rebrɛ wo yi akyi, mewɔ anidaso sɛ ɛrenkyɛ biara mɛba wo nkyɛn. 15 Na sɛ mannu wo nkyɛn ntɛm a, saa nhoma yi bɛma woahu sɛnea yɛbɔ yɛn bra wɔ Onyankopɔn fi a ɛyɛ Onyankopɔn a ɔte ase no asafo a ɛyɛ nokware nnyinaso no mu.
+
+16 Ɛyɛ nokware pefee sɛ ɔkwan a wɔfa so tena ase kronn no nyɛ mmerɛw. “Ɔbae sɛ onipa tebea, Honhon no kyerɛɛ no kwan pa maa abɔfo huu no. Ɔkaa Asɛmpa no amanaman so, maa wiase gyee no dii na wɔfaa no kɔɔ soro.”
+
+
+
+X-X-X
+
+1 Honhom no si no pi sɛ, akyiri yi, nnipa bi begyaa gyidi no mu so. Wobedi atoro ahonhom akyi na wɔadi ahohommɔne nkyerɛkyerɛ akyi. 2 Saa nkyerɛkyerɛ yi fi atorofo nnaadaa a wɔyɛ adwenewuifo sɛ dade a wɔato wɔ ogya mu no. 3 Saa nnipa no kyerɛkyerɛ sɛ enye sɛ obi ware na nnuan bi nso wɔ hɔ a, enye sɛ onipa di. Nanso Onyankopɔn bɔɔ saa nnuan no sɛ, sɛ gyidifo a wɔahu nokware no nsa ka na wɔbɔ so mpae a, wotumi di.
+
+4 Biribiara a Onyankopɔn abɔ no ye. Ɛnsɛ sɛ wɔpo biribiara na mmom ɛsɛ sɛ wɔbɔ mpae gu ne nyinaa so. 5 Efisɛ, Onyankopɔn asɛm no ne mpaebɔ tew ho.
+
+6 Sɛ wokyerɛkyerɛ anuanom no saa nkyerɛkyerɛ yi a, na ɛkyerɛ sɛ woyɛ Kristo somfo pa a wɔnam nokware ne gyidi ne nkyerɛkyerɛ pa so atetew wo.
+
+7 Nsɛe wo bere wɔ atorosɛm ho. Mmom hyɛ wo ho, na yɛ kronn. 8 Ɛwom sɛ honam mu mmɔdenbɔ ho hia de, nanso honhom mu mmɔdenbɔ ho hia akwan nyinaa mu, efisɛ, ɛhyɛ yɛn nnɛ asetena ne daakye asetena ho bɔ. 9 Eyi yɛ nokwasɛm a ɛsɛ sɛ wogye tom na wogye di. 10 Ɛno nti na ɛsɛ sɛ yɛpere na yɛyɛ adwuma dennen, efisɛ, yɛde yɛn anidaso ahyɛ Onyankopɔn teasefo a ɔyɛ nnipa nyinaa, ne titiriw no, gyidifo Agyenkwa no mu.
+
+11 Eyinom na ɛsɛ sɛ moka ho asɛm wɔ mo nkyerɛkyerɛ no mu. 12 Mma obiara ho kwan mma ɔmmfa wo sɛ wunnyinii enti obebu wo abomfiaa. Wo kasa mu, wo suban mu, wo dɔ mu, wo gyidi mu ne wo kronnyɛ mu no, ɛsɛ sɛ woyɛ nhwɛso pa. 13 Nya adagyew kenkan Kyerɛwsɛm no na ka Asɛmpa no na kyerɛkyerɛ ansa na maba.
+
+14 Honhom mu akyɛde a mpanyimfo nam nkɔmhyɛ so de wɔn nsa guu so a wonnyaee no, nnyaa mu. 15 So saa nneɛma no mu yiye. Fa wo ho nyinaa ma wɔn sɛnea ɛbɛma obiara ahu wo nkɔso. 16 Hwɛ wo ho so yiye na hwɛ wo nkyerɛkyerɛ nso so. Kɔ so yɛ saa nneɛma yi nyinaa, efisɛ, sɛ woyɛ saa a wubegye wo ho ne wɔn a wotie wo no nkwa.
+
+
+
+
+X-X-X
+
+1 Nkasa ntia akwakoraa na mmom kɔka w’ahiasɛm kyerɛ no sɛ w’agya. Fa kronnyɛ ne mmabun ntena sɛ wo nnuammarima nkummaa, 2 na fa mmea mpanyimfo sɛ ɛnanom na mmabaa nso, fa wɔn sɛ wo nnuammea wɔ kronnyɛ mu.
+
+3 Di mmea akunafo a wɔyɛ akunafo ampa ara no ni. 4 Sɛ okunafo bi wɔ mma anaa mmanana a, nea edi kan no, ɛsɛ sɛ wɔfa nyamesom pa so de som wɔn abusua de tua wɔn awofo ne nananom ka efisɛ, sɛ wɔyɛ saa a na ɛsɔ Onyankopɔn ani.
+
+5 Ɔbea a ɔyɛ okunafo ampa ara no a onni obi a ɔhwɛ no no de n’anidaso nyinaa ahyɛ Onyankopɔn mu enti anadwo ne awia, ɔkɔ so bɔ mpae srɛ ne mmoa. 6 Nanso sɛ okunafo bi de ne ho ma wiase a, na ɔyɛ teaseawu. 7 Ka saa mmara yi kyerɛ wɔn na obi annya wo ho mfomso.
+
+8 Na sɛ obi nhwɛ ne fifo ne titiriw no, ɔno ara n’abusuafo a, na wabu ne gyidi so. Sɛ ɛba saa a, ɔyɛ onipa bɔne sen nea onnye nni no.
+
+9 Mfa okunafo biara a onni mmoroo mfe aduosia din nka akunafo din ho. Asɛm a ɛka ho ne sɛ, ɛsɛ sɛ waware prɛko pɛ, 10 na afei wagye din wɔ nneyɛe pa ho. Ɛsɛ sɛ ɔyɛ ɔbea a watetew ne mma yiye na ogyee ahɔho wɔ ne fi na ɔhohoroo Onyankopɔn nan ase na ɔboaa ahokyerefo na ɔde ne ho maa nnwuma pa ahorow nyinaa yɛ.
+
+11 Mfa akunafo nkumaa no din nka wɔn ho. Efisɛ, sɛ ɛba sɛ wɔpɛ sɛ wɔsan ware a, wɔtew wɔn ho fi Kristo ho 12 na ɛma wodi fɔ sɛ wɔabu wɔn bɔhyɛ a edi kan so. 13 Ɛno akyi, wɔsɛe wɔn bere kɔ afi afi mu na nea enye koraa ne sɛ, wodi nseku yɛ pɛrepɛre ka nsɛm a anka ɛnsɛ sɛ wɔka. 14 Enti me pɛ ne sɛ, akunafo nkumaa no bɛware, awo mma na wɔahwɛ wɔn afi sɛnea ɛbɛyɛ a atamfo nnya wɔn ho kwan nka nsɛm ntia wɔn. 15 Akunafo bi de wɔn ho ama ɔbonsam dedaw.
+
+16 Sɛ ɔbea gyidifo bi wɔ akunafo wɔ n’abusua mu a, ɛsɛ sɛ ɔhwɛ wɔn yiye na wɔamfa adesoa bi ammɛto asafo no so na asafo no atumi ahwɛ akunafo a aka wɔn nko no.
+
+17 Mpanyimfo a wɔyɛ nnwuma pa sɛ akannifo no, ɛsɛ sɛ wodwen wɔn ho ma wɔn akatua abien; ne titiriw no wɔn a wɔka asɛm no na wɔsan kyerɛkyerɛ nso. 18 Efisɛ, Kyerɛwsɛm no ka se, “Nkyekyere nantwi a osiw aburow no ano!” Bio, “Odwumayɛfo akatua fata no!”
+
+19 Ntie asɛmmɔne a obi ka to ɔpanyin bi so no gye sɛ adansefo baanu anaa baasa de saa asɛm no bɛto w’anim. 20 Wɔn a wɔyɛ bɔne nyinaa no, ka wɔn anim baguam na abɔ afoforo hu.
+
+21 Migyina Onyankopɔn ne Kristo Yesu ne abɔfo kronkron anim ka se di saa mmara a mahyɛ wo yi nyinaa so a nhwɛanim biara nni mu. 22 Sɛ ehia sɛ wode wo nsa gu obi so wɔ Awurade dwumadi no mu a, mpepere ho. Twe wo ho fi bɔne a afoforo yɛ ho na ma wo ho ntew.
+
+23 Nnom nsu nko ara na mmom ɛyɛ wo yafunu ne wo yare a wotaa yare nti, ɛyɛ a nom nsa kakra.
+
+24 Nnipa bi bɔne a wɔyɛ no da adi pefee na saa bɔne no di wɔn anim de wɔn kɔ atemmu mu; nanso afoforo bi wɔ hɔ a wɔn bɔne da adi akyiri yi. 25 Saa ara nso na nneyɛe pa yɛ no da adi pefee. Na nea ɛnna adi pefee no mpo ntumi nhintaw.
+
+
+
+
+
+
+X-X-X
+1 Ɛsɛ sɛ wɔn a wɔyɛ asomfo no nyinaa de nidi ma wɔn wuranom sɛnea ɛbɛyɛ a wɔn mu bi nkasa ntia Onyankopɔn ne yɛn nkyerɛyerɛ no. 2 Ɛnsɛ sɛ asomfo a wɔn wuranom yɛ gyidifo bu wɔn abomfiaa efisɛ, wɔn nyinaa yɛ anuanom. Mmom, ɛsɛ sɛ wɔsom wɔn som pa efisɛ, wɔn a wobenya wɔn som no ho mfaso no ne gyidifo a wɔdɔ wɔn no. 3 Ɛsɛ sɛ mokyerɛkyerɛ na moka eyinom nyinaa. Obiara a ɔbɛkyerɛkyerɛ nkyerɛkyerɛ foforo na ɔrenka nokware a ɛfa yɛn Awurade Yesu Kristo ne yɛn nyamesom ho no, 4 yɛ ɔhantani a onnim hwee. Ɔyɛ obi a ofi adwene bɔne mu gye akyinnye na ɔko nsɛm so a, ɛnam so de anibere, akasakasa, ayeyawayeyaw, nnipa ho adwemmɔne 5 ne mansotwe a efi adwene a emu nnɔ mu na nokware nni mu ba mu. Wodwen sɛ nyamesom yɛ ɔkwan bi a wɔnam so pɛ sika.
+
+6 Ɛyɛ nokware sɛ, sɛ obi ani sɔ nea ɔwɔ a, nyamesom ma saa onipa no yɛ ɔdefo. 7 Yɛamfa hwee amma wiase. Saa ara nso na yɛremfa hwee nkɔ. 8 Ɛno nti, sɛ yɛwɔ aduan ne ntama a, ɛno nko dɔɔso ma yɛn. 9 Wɔn a wɔpɛ sɛ wonya wɔn ho no kɔtɔ sɔhwɛ mu na ɛdan ɔhaw ma wɔn ma ɛtwe wɔn kɔ ɔsɛe mu. 10 Na sikanibere yɛ bɔne nyinaa ntini. Nnipa bi de sikanibere asi wɔn ani so denneenen nam so ama wɔapa wɔn gyidi ama awerɛhow ahyɛ wɔn koma ma.
+
+11 Enti, wo a woyɛ Onyankopɔn nipa, twe wo ho fi eyinom nyinaa ho. Di trenee, onyamesom pa, gyidi, ɔdɔ, boasetɔ ne odwo akyi. 12 Bɔ gyidi mu mmirikatu no ho mmɔden na pere nya nkwa a enni awiei no ma wo ho, efisɛ, saa abrabɔ yi nti na bere a wodaa wo gyidi adi wɔ adansefo bebree anim no, Onyankopɔn frɛɛ wo.
+
+13 Meka no Onyankopɔn a ɔma nneɛma nyinaa nkwa no ne Kristo Yesu a ɔkaa nokware wɔ Pontio Pilato anim, hyɛ wo sɛ, 14 tie mmara a mahyɛ ama wo no na di so pɛpɛɛpɛ kosi da a Yesu Kristo bɛba. 15 Onyankopɔn a wɔahyira no na ɔno yɛ Hene, Ahene mu Hene ne Awurade mu Awurade no bɛma no aba bere a ɛsɛ mu. 16 Ɔno nko na ɔwɔ hɔ daa. ɔte hann a obi ntumi mmɛn ho mu. Obiara nhuu no da na obiara nso rentumi nhu no da. Ɔno na nidi ne tumi a enni awiei wɔ no. Amen.
+
+17 Bɔ wiase yi mu ahonyafo kɔkɔ se, wɔmmfa wɔn ahonya nnhoahoa wɔn ho, na wɔmmfa wɔn anidaso nso nnhyɛ adehunu te sɛ ahonya mu, na mmom wɔmfa wɔn ho nto Onyankopɔn a ɛnam n’adɔe so, ɔmaa yɛn asetena mu nneɛma pa nyinaa no so. 18 Hyɛ wɔn se, wɔnyɛ papa na wɔnyɛ adefo wɔ nnwuma pa yɛ mu. Wɔnyɛ ayamye na wɔne afoforo nkyɛ. 19 Sɛ wɔyɛ saa a, wɔbɛto fapem pa ama wɔn daakye. Na wɔnam so anya asetena a ɛyɛ asetena pa.
+
+20 Timoteo, hwɛ nea wɔde ahyɛ wo nsa no so yiye. Twe wo ho fi ahuhusɛm ne akyinnyehunu a nnipa bi frɛ no “Nimdeɛ” no ho. 21 Nnipa bi gye tom sɛ wɔwɔ saa nimdeɛ no nam so ahwere gyidi kwan no.
+
+Onyankopɔn adom nka mo.
+
+
+#####    2  Timoteo   #####
+
+
+X-X-X
+
+1 Saa nhoma yi fi Kristo Yesu somafo Paulo a Onyankopɔn pɛ nti, ɔde rebɛkyerɛ baako a yɛne Kristo Yesu ayɛ nti wahyɛ yɛn asetena ho bɔ no.
+
+2 De kɔma me ba pa Timoteo: Adom, mmɔborɔhunu ne asomdwoe mfi Agya Nyankopɔn ne yɛn Awurade Kristo Yesu nka wo.
+
+3 Meda Onyankopɔn a mede adwene mu fann som no sɛnea me mpanyimfo yɛe no ase. Daa, anadwo ne awia, mekae wo wɔ me mpaebɔ mu.
+
+4 Mekae su a wusu na mepɛ sɛ mihu wo a, na m’ani agye.
+
+5 Mekae gyidi a emu yɛ den a wowɔ. Saa ara nso na mekae gyidi a na wo nena Lois ne wo na Eunike nso wɔ. Migye di sɛ wo nso wowɔ bi saa ara.
+
+6 Eyi nti merebɔ wo nkae sɛ kae akyɛde a bere a mede me nsa guu wo so no Onyankopɔn de maa wo no. 7 Efisɛ, Honhom a Onyankopɔn de maa yɛn no mma yɛnyɛ ahufo; na mmom, Honhom no ma yɛn tumi, ɔdɔ ne ahohyɛso. 8 Mfɛre sɛ wubedi Awurade ho adanse; saa ara nso na mma me odeduani nso ho nyɛ wo fɛre. Na sɛ ɔhaw bi to wo Asɛmpa no ka ho a, gyina pintinn wɔ ahoɔden a Onyankopɔn de ama wo no mu.
+
+9 Ogyee yɛn nkwa frɛɛ yɛn sɛ yɛmmɛyɛ ne de. Ɛnyɛ biribi pa bi a yɛyɛ nti, na mmom n’adom ara kwa. Ansa na wɔrehyɛ wiase ase no, na ɔnam Kristo Yesu so kyɛɛ yɛn saa adom no 10 nanso mprempren, wɔnam Agyenkwa Kristo Yesu no ba a ɔbɛba so ada no adi akyerɛ yɛn. Watwa owu tumi so nam Asɛmpa no so ama yɛahu nkwa a enni awiei. 11 Onyankopɔn ayi me sɛ menna Asɛmpa no adi sɛ ɔsomafo ne ɔkyerɛkyerɛfo.
+
+12 Ɛnam eyinom so nti na mihu saa amane yi. Nanso meda so wɔ gyidi, efisɛ, minim nea mede me ho ato no so no na minim nso sɛ ɔbɛkora nea mede ahyɛ ne nsa no ama da no nso.
+
+13 So nokwasɛm a mekyerɛɛ wo no mu, na fa yɛ nhwɛsode di akyi, na tena gyidi ne ɔdɔ a ɛyɛ yɛn de a aka yɛne Kristo Yesu abom no mu. 14 Hwɛ nneɛma pa a wɔnam Honhom Kronkron tumi a ɛte yɛn mu so de agyaw yɛn no so yiye.
+
+15 Sɛnea wunim no, Kristofo a wofii Asia baa ha no nyinaa aguan agya me. Figelo ne Hermogene nso ka wɔn ho. 16 Awurade nhu Onisiforo fifo mmɔbɔ efisɛ, ɔhyɛɛ me nkuran mpɛn pii. N’ani anwu wɔ me ho sɛ mada afiase pɛn, 17 na oduu Roma ara pɛ, ɔbɔɔ mmɔden hwehwɛɛ me ara kosii sɛ ohuu me. 18 Awurade mmoa no na da no onnya ahummɔbɔ mfi Awurade no nkyɛn! Wunim akwan horow a ɔfaa so boaa me wɔ Efeso.
+
+
+X-X-X
+
+1 Na wo, me ba, ɛnam adom a ama yɛne Kristo Yesu ayɛ baako no nti, yɛ den. 2 Fa nsɛm a wotee sɛ mereka akyerɛ adansedifo bebree no, na fa hyɛ nnipa a wugye wɔn di na wobetumi akyerɛ afoforo nso.
+
+3 Sɛ amanehunu ba wo so a, mia w’ani tena sɛ Kristo Yesu sraani pa. 4 Obi a odi sraa no mfa ne ho nhyehyɛ afisɛm mu, efisɛ, ɔpɛ sɛ ɔsɔ ne panyin ani. 5 Saa ara nso na obi a ɔfra akansi mu a otu mmirika no rentumi nni nkonim gye sɛ odi akansi no mmara so. 6 Okuafo a wadɔw n’afuw no, ɛsɛ sɛ onya mu nnɔbae a edi kan no. 7 Dwen nsɛm a mereka yi ho efisɛ, Awurade bɛma woate biribiara ase.
+
+8 Kae Dawid aseni Yesu Kristo a wonyanee no fii awufo mu sɛnea wɔkaa no Asɛmpa a mekaa ho asɛm no mu no.
+
+9 Esiane sɛ meka Asɛmpa no nti, mihu amane; mpo, wɔagu me nkɔnsɔnkɔnsɔn sɛ ɔdebɔneyɛfo. Nanso Onyankopɔn asɛm no ngu nkɔnsɔnkɔsɔn mu; 10 na eyi nti biribiara a ɛbɛba me so no, esiane onyankopɔn nnipa a wɔayi wɔn no nri migyina ano sɛnea ɛbɛyɛ a wɔn nso benya nkwagye ne anuonyam a enni awiei a ɛwɔ Kristo Yesu mu no.
+
+11 Nsɛm a ɛsɛ sɛ wode wo ho to so ni. “Sɛ yɛne no wui a, yɛne no bɛtena ase. 12 Sɛ yetumi tena ase a, yɛne no bedi hene. Sɛ yɛpa no a, ɔno nso bɛpa yɛn. 13 Sɛ yɛnyɛ nokwafo a, ɔno de, ɔyɛ ɔnokwafo efisɛ, ɔrentumi ntwa ne ho nkontompo.”
+
+14 Monkae mo nkurɔfo wɔ eyi ho na mommɔ wɔn kɔkɔ wɔ Onyame anim sɛ wonnni wɔn ho akasakasa. Ɛmfa asɛm pa mma. Sɛ wɔyɛ saa a, ɛsɛe atiefo no adwene. 15 Bɔ mmɔden sɛ wobɛyɛ odwumayɛfo a womfɛre Onyankopɔn adwuma no yɛ ho na wokyerɛ nokware a ɛwɔ Onyankopɔn asɛm no mu no, na woafata n’anim. 16 Twe wo ho fi nsenhuhu a ɛho ntew ho efisɛ, ɛno na ɛpam nnipa fi Onyankopɔn ho. 17 Nea wɔkyerɛ no te sɛ akisikuru a edidi fa honam no ani. Saa akyerɛkyerɛfo yi mu baanu ne Himeneo ne Fileto. 18 Wɔaman afi nokware no ho na wɔka kyerɛ gyidifo bi se, yɛn wusɔre no atwam dedaw nam saa asɛm no so sɛe wɔn adwene.
+
+19 Nanso obi rentumi nhinhim fapem dennen a Onyankopɔn ato no efisɛ, wɔakyerɛw saa nsɛm yi wɔ so: “Awurade nim wɔn a wɔyɛ ne de,” na “Obiara a ɔka se ɔyɛ Awurade de no, ɛsɛ sɛ ɔtwe ne ho fi bɔne ho.” 20 Nkuku ne nkaka wɔ ofi kɛse mu. Ebi wɔ hɔ a wɔde dwetɛ na ayɛ, ebi nso wɔde sika kɔkɔɔ na ayɛ. Wɔde dua na ayɛ bi na afoforo nso wɔde dɔte. Ebi wɔ hɔ a ɛwɔ hɔ ma nnapɔnna bi na afoforo nso daa wɔde di dwuma. 21 Sɛ obi tew ne ho fi saa nneɛma bɔne no ho a, wɔde no bɛyɛ nnwuma sononko efisɛ, watu ne ho asi hɔ, asiesie ne ho ama ne wura sɛ dwuma pa biara a ɛsɛ sɛ odi no, obedi.
+
+22 Tew wo ho fi mmerantebere mu nneɛma ho na tiw nneɛma a ɛho tew akyi na di trenee, gyidi, ɔdɔ ne asomdwoe a ɛka wo ne wɔn a wofi koma pa mu bom frɛ Awurade ma ɔboa no akyi.
+
+23 Mfa wo ho nhyehyɛ nkwasea akyinnye a ɛmfa hwee mma no mu efisɛ, ɛde akasakasa ba. 24 Ɛnsɛ sɛ Awurade somfo ne obi nya akasakasa. Ɛsɛ sɛ ɔyɛ ayamye ma obiara. Ɛsɛ sɛ ɔyɛ ɔkyerɛkyerɛfo pa a ɔwɔ boasetɔ nso, 25 a sɛ wɔn a wɔne no di asi fom a, ɔtɔ ne bo ase teɛ wɔn so, sɛ ebia, Onyankopɔn bɛsakra wɔn adwene na wɔahu nokware no. 26 Na wɔn adwene mu ada hɔ na wɔaguan afi ɔbonsam a wakyere wɔn ama wɔyɛ n’apɛde no afiri mu.
+
+
+
+X-X-X
+
+1 Kae saa asɛm yi. Nna a edi akyiri no mu mmere no mu bɛyɛ den. 2 Nnipa bi bɛyɛ pɛsɛmenkominya, aniberefo, ahohiahiafo ne ahantanfo; wɔbɛyɛ abususɛmkafo, asoɔdenfo wɔ wɔn awofo so; wɔbɛyɛ bonniayɛ na wɔrempɛ nyamesom nso; 3 wɔbɛyɛ atirimmɔdenfo, wɔrenhu mmɔbɔ, wɔbɛyɛ nnipa dinsɛefo basabasa ne abufuwpɛfo, wɔbɛtan wɔn afɛfo a wɔyɛ nnipa pa no, 4 wɔbɛyɛ afatwafo, aniɔdenfo, wɔn a wɔhoran; wɔbɛpɛ anikade sen sɛ wɔdɔ Onyankopɔn. 5 Wɔbɛyɛ aniani asomfo a wɔbɛpo tumi a ɛwɔ ɔsom no mu no. Twe wo ho fi saa nnipa no ho.
+
+6 Wɔn mu bi kɔ afi mu kɔhyɛ mmea a wɔn bɔne ama wodi fɔ na akɔnnɔ ahorow bebree hyɛ wɔn so no so; 7 saa mmea no yɛ nnipa a wɔpɛ sɛ wosua biribi nanso wonhu nokware no akyi kwan. 8 Sɛnea Yane ne Yambre ne Mose dii asi no saa ara nso na saa nnipa yi ne nokware di asi, nnipa a wɔn adwene asɛe na wɔnka hwee wɔ gyidi mu.
+
+9 Wonnya nkɔso biara efisɛ, obiara behu nkwasea a wɔyɛ te sɛ Yane ne Yambre ara pɛ.
+
+10 Na wo de, woadi me nkyerɛkyerɛ, me suban ne me botae so. Woahu gyidi a mewɔ ne me boasetɔ, me dɔ, 11 taa a wɔtaa me ne m’amanehunu nyinaa. Wunim nsɛm a ɛtotoo me wɔ Antiokia, Ikoniom ne Listra, ne ɔtaa dennen a mitumi gyinaa ano no. Nanso Awurade yii me fii ne nyinaa mu. 12 Wɔn a wɔpɛ sɛ wɔne Kristo Yesu bom wɔ wɔn abrabɔ mu no, wɔbɛtaa wɔn; 13 nanso nnipa bɔne bɛkɔ so asɛe daa na wɔadaadaa afoforo ne wɔn ankasa wɔn ho.
+
+14 Nanso, wo de, kɔ so tena ase nokware mu sɛnea wɔkyerɛ wo no, na gye di yiye. Wunim wɔn a na w’akyerɛkyerɛfo no yɛ, 15 na wokae nso sɛ, efi wo mmofraase, woahu Kyerɛwsɛm no a etumi ma wo nyansa a, ɛnam gyidi a wowɔ wɔ Kristo Yesu mu no, kyerɛ wo nkwagye kwan no. 16 Kyerɛwsɛm nyinaa fi Onyankopɔn adwenemhyɛ so na eye ma nokwarekyerɛ, bɔne ho animka, mfomso soteɛ, na ɛkyerɛ asetena pa ho akwan 17 sɛnea ɛbɛyɛ a, obi a ɔsom Onyankopɔn bɛyɛ pɛ na watumi adi dwuma pa.
+
+
+
+
+X-X-X
+
+1 Migyina Onyankopɔn ne Kristo Yesu a obebu ateasefo ne awufo atɛn, nam ne ba a ɔbɛba no ne n’ahenni no a abɛn no so hyɛ wo sɛ, 2 ka asɛm no, na bere biara gyina ne ka mu dennen yi atɛn, ka anim, tu fo na kyerɛkyerɛ boasetɔ mu.
+
+3 Bere bi bɛba a nnipa rentie nkyerɛkyerɛ pa no, na mmom wobedi wɔn ara wɔn apɛde akyi na wɔaboaboa akyerɛkyerɛfo a wɔbɛka nsɛm a wɔrepɛ atie no ano, na wɔaka akyerɛ wɔn. 4 Wɔbɛpo nokware no tie, na wɔatie anansesɛm.
+
+5 Nanso mmere nyinaa mu, ɛsɛ sɛ wohwɛ wo ho so yiye. Amanehunu mu, mia w’ani. Yɛ ɔsɛmpakafo adwuma na di wo dwuma nyinaa sɛ Onyankopɔn somfo.
+
+6 Me de, bere adu sɛ wɔde me bɔ afɔre. Bere aso sɛ migyaw asetena yi. 7 Ɔko pa no, mako; mmirika no, mawie tu; gyidi no makora. 8 Ade a ɛretwɛn me mprempren ne nkonim akyɛde, trenee abotiri a Awurade a ɔyɛ trenee temmufo no de bɛma me da no; ɛnyɛ me nko na mmom wɔn a wɔtena ase ɔdɔ mu twɛn no no nyinaa.
+
+9 Bɔ mmɔden bra me nkyɛn ntɛm. 10 Dema dɔɔ nnɛ wiase yi ma ɔyɛɛ saa guan gyaw me kɔɔ Tesalonika. Kreste kɔ Galatia. Tito nso kɔɔ Dalmatia. 11 Luka nko ara na ɔne me wɔ ha. Fa Marko ka wo ho na wo ne no mmra, efisɛ, obetumi aboa me adwuma no yɛ. 12 Mesomaa Tihiko Efeso. 13 Sɛ woreba a fa m’atade a migyaw wɔ Karpo nkyɛn wɔ Troia no brɛ me. Ɛyɛ a fa me nhoma no nso ka ho, ne titiriw no, nea wɔde aboa nhoma yɛe no.
+
+14 Aleksandro, kɔbere dwumfo no, haw me papaapa; nea ɔyɛe no Awurade betua no so ka. 15 Ɛyɛ a hwɛ wo ho yiye wɔ ne ho, efisɛ, na otia nsɛm a yɛka no mu denneenen.
+
+16 Bere a mereyi me ho ano no, obiara ammoa me. Wɔn nyinaa guan gyaa me. Onyankopɔn mmfa nntia wɔn. 17 Nanso Awurade ne me tenae maa me ahoɔden ma mitumi kaa asɛm no kyerɛɛ A=manamanmufo ma wotiei. Enti wogyee me fii gyata anom. 18 Na Awurade begye me afi bɔne nyinaa mu na ɔde me akɔ soro ahenni no mu asomdwoe mu. Ɔno na anuonyam nka no daadaa. Amen.
+
+19 Kyia Priska ne Akwila ne Onesiforo fifo nyinaa ma me. 20 Erasto kaa Korinto ɛnna migyaw Trofimo wɔ Mileto, efisɛ, na ɔyare. 21 Bɔ mmɔden bra ansa na awɔw bere adu. Eubulo ne Pude ne Lino ne Klaudia ne anuanom no nyinaa kyiakyia wo.
+
+22 Awurade ne wo honhom ntena. Adom nka mo nyinaa.
+
+
+#####   1  Petro    #####
+
+
 X-X-X
 
 1 Saa krataa yi fi Yesu Kristo somafo Petro nkyɛn. Ɔde kɔma Onyankopɔn nnipa a wayi wɔn a wɔahwete sɛ ahɔho kɔ Ponto, Galatia, Kapadokia, Asia ne Bitinia amantam mu no.
@@ -561,6 +1325,71 @@ X-X-X
 
 13 Asafo a Onyankopɔn ayi wɔ Babilonia no ne me ba Marko kyia mo. 14 Momfa ɔdɔ atuuyɛ wɔ Kristo mu nkyiakyia mo ho mo ho. Asomdwoe nka mo a mowɔ Kristo mu no nyinaa.
 
+
+#####   2  Petro    #####
+
+X-X-X
+
+1 Saa krataa yi fi Simon Petro a ɔyɛ Yesu Kristo somfo ne ne somafo nkyɛn. Ɔde kɔma wɔn a esiane yɛn Nyankopɔn ne yɛn Agyenkwa Yesu Kristo trenee nti, wɔama wɔn gyidi a ɛsom bo te sɛ yɛn de no ara pɛ no.
+
+2 Adom na asomdwoe a ɛdɔɔso a efi Onyankopɔn ne Yesu a ɔyɛ yɛn Awurade no mmra mo so.
+
+3 Sɛnea munim no yiye no, ɔnam ne tumi so bɛma mo biribiara a ɛho hia ma asetena pa no. Na ɔma yɛn n’anuonyam ne nnepa a ɔwɔ no mpo bi. 4 Ɔnam saa tumi no ara so ama yɛn akyɛde a ɛsom bo sɛnea ɔhyɛɛ yɛn ho bɔ no. Na ɛnam so ama mo aguan afi anibere bɔne a ɛwɔ wiase no ho na mo ne no atena ne su no mu.
+
+5 Esiane saa nti, mommɔ mmɔden mfa nneyɛe a ɛho tew nka mo gyidi ho; na momfa nimdeɛ nka nneyɛe a ɛho tew ho; 6 na momfa ahohyɛso nka mo nimdeɛ ho; na momfa boasetɔ nka mo ahohyɛso ho; na momfa nyamesom pa nka mo boasetɔ ho; 7 na momfa onuadɔ nka nyamesom pa ho; na momfa ɔdɔ mapa nka onuadɔ ho. 8 Eyinom ne su pa a ɛho hia mo. Na sɛ munya ma ɛdɔɔso a, ɛbɛma mo ayɛ nnam wɔ yɛn Awurade Yesu Kristo ho nimdeɛ mu. 9 Na obiara a onni bi no yɛ onifuraefo a ontumi nhu ade a ne werɛ afi sɛ wɔahohoro ne bɔne dedaw no.
+
+10 Enti me nuanom adɔfo, monyere mo ho wɔ dwuma no di mu, na enni mo ho adanse ampa ara sɛ Onyankopɔn afrɛ mo, ayi mo atena hɔ afebɔɔ. Sɛ moyɛ saa a, morenhintiw na morempa abaw nso. 11 Sɛ mofa saa kwan yi so a, wɔbɛma mo akɔ yɛn Awurade ne yɛn Agyenkwa Yesu Kristo ahenni a ɛto ntwa da no mu.
+
+12 Ne saa nti, daa mekaekae mo saa asɛm yi a munim na atim nokware a moagye adi no mu no.
+
+13 Misusuw sɛ, eye sɛ mmere dodow a mete ase yi, mɛbɔ mo nkae wɔ saa asɛm yi ho. 14 Minim sɛ ɛrenkyɛ biara megyaw saa ɔhonam yi hɔ sɛnea yɛn Awurade Yesu Kristo daa no adi kyerɛɛ me no. 15 Mɛbɔ mmɔden sɛ mɛfa ɔkwan bi so ama mo akae saa nsɛm yi bere biara me wu akyi.
+
+16 Ɛnyɛ anansesɛm na yɛte bɛka kyerɛɛ mo fa yɛn Awurade Yesu Kristo tumi ne ba a ɔrebɛba no ho na mmom, yɛahu na yedi ne kɛseyɛ no ho adanse. 17 Yɛwɔ hɔ bi na Agya Onyankopɔn hyɛɛ no anuonyam bere a ɛnne bi fi Anuonyam kɛse mu kae se, “Oyi ne me dɔ Ba a ɔsɔ m’ani!” no. 18 Yɛn ankasa tee nne no sɛ efi soro reba bere a na yɛne no wɔ Bepɔw Kronkron no so no.
+
+19 Ɛno nti, ɛma yenya nkɔm a odiyifo no hyɛe no mu gyidi yiye. Ɛsɛ sɛ mutie no yiye efisɛ, ɛte sɛ kanea a ɛhyerɛn wɔ sum mu kosi da a ade bɛkye ama anɔpa nsoromma ahyerɛn wɔ mo koma mu no. 20 Eyinom nyinaa akyi no, monkae saa asɛm yi: Obiara nni hɔ a ɔnam n’ankasa so betumi akyerɛ Kyerɛwsɛm mu nkɔnhyɛ ase. 21 Na nkɔmhyɛ biara nso nni hɔ a efi onipa mu na mmom Honhom Kronkron no na ɛkyerɛɛ nnipa kwan bere a wɔreka asɛm a efi Onyankopɔn nkyɛn no.
+
+
+
+X-X-X
+
+1 Atoro adiyifo kɔɔ tetefo no mu, na saa ara nso na atoro adiyifo bɛba mo mu ara ne no. Wɔbɛkyerɛ nkyerɛkyerɛ bɔne a nokware nni mu na wɔapa Owura a ogyee wɔn no, na ɛnam so ama ɔsɛe aba wɔn so prɛko pɛ. 2 Nnipa bebree bɛfa akwammɔne so na esiane nea wɔyɛ no nti, nnipa bɛkasa atia nokware kwan no.
+
+3 Saa atoro adiyifo yi nam wɔn sikanibere so bɛto anansesɛm akyerɛ mo de apɛ mo ho mfaso.Wɔn temmufo siesiee ne ho akyɛ na saa ara nso na wɔn sɛefo no nso asɔre agyina. 4 Onyankopɔn amfa abɔfo a wɔyɛɛ bɔne no ho ankyɛ wɔn. Ɔtow wɔn guu asaman sum mu baabi guu wɔn nkɔnsɔnkɔsɔn, na ɛhɔ na wɔretwɛn Atemmu da no. 5 Onyankopɔn amma tete wiase no amfa ne ho anni. Ɔmaa nsuyiri baa wɔn a wɔannye asɛm no anni no so. Wɔn a ogyee wɔn nkwa no ne Noa a ɔkaa trenee ho asɛm no ne nnipa baasɔn bi. 6 Onyankopɔn buu Sodom ne Gomora fɔ de ogya sɛee wɔn, de bɔɔ wɔn a wonnye Onyankopɔn nni no kɔkɔ.
+
+7 Ogyee Lot a ɔyɛ ɔtreneeni no fii nnipa nnebɔneyɛfo nsam. 8 Na saa ɔtreneeni no te saa nnipa nnebɔneyɛfo no mu na afide a na saa nnipa no yɛ no adekyee ne adesae no haw no yiye. 9 Eyi kyerɛ sɛ Onyankopɔn nim ɔkwan a ɔfa so gye n’akyidifo fi ɔhaw mu, ɛnna onim ɔkwan a ɔfa so kora nnipa nnebɔneyɛfo, twe wɔn aso de twɛn Atemmu da no 10 ne titiriw no, wɔn a wodi wɔn honam akɔnnɔ akyi na wɔpa Onyankopɔn tumi no. Saa atoro akyerɛkyerɛfo yi wɔ akokoduru na wommu anuonyamfo a wɔwɔ soro no, efisɛ, wɔtew wɔn atua. 11 Na abɔfo a wɔwɔ ahoɔden ne tumi sen saa atoro akyerɛkyerɛfo yi mpo nkasa wɔn kasa bɔne wɔ Awurade anim.
+
+12 Nanso saa nnipa yi fi wɔn adwene a wonni mu te sɛ nkekaboa a wɔawo wɔn sɛ wɔnkyere wɔn nkum wɔn no gu nneɛma a wɔntee ase no ho fi. Wɔbɛsɛe wɔn sɛ nkekaboa.
+
+13 Ɔhaw a wɔma ɛbae no, wobetua wɔn so ka. Nea wɔn ani gye ho ne sɛ wɔbɛyɛ biribiara awia ketee a ebeye ama wɔn honam akɔnnɔ. Sɛ wɔne mo to nsa didi a, egu wɔn anim ase. Efisɛ, saa bere no na wɔka nnaadaasɛm. 14 Wɔnhwehwɛ hwee sɛ mmea aguamanfo efisɛ, wɔpɛ sɛ daa wɔyɛ bɔne. Wɔdaadaa nnipa a wɔyɛ mmerɛw kɔ bɔne mu. Wɔayɛn wɔn koma ama anibere. Wɔwɔ Onyankopɔn nnome ase. 15 Wɔaman afi ɔkwan tee no so enti wɔayera. Wɔafa ɔkwan a Beor ba Bileam a ne sika a onya ɔde yɛ bɔne no kɔfaa so no so. 16 Eyi ma wɔkaa n’anim wɔ ne bɔne no ho. N’afurum de onipa nne kasae de siw odiyifo no abɔdamsɛm no ho kwan.
+
+17 Saa nnipa yi te sɛ asuti a awew anaasɛ omununkum a mframa bɔ no. Onyankopɔn de wɔn asie esum kabii mu wɔ baabi. 18 Wɔka ahantansɛm ne nkwaseasɛm na wɔnam wɔn honam akɔnnɔsɛm so twetwe wɔn a wɔpɛ sɛ woguan fi wɔn a wɔte bɔne mu no ho no.
+
+19 Wɔhyɛ wɔn ahofadi ho bɔ wɔ bere a wɔn ankasa wɔyɛ bɔne nkoa efisɛ, onipa yɛ akoa ma biribiara a edi ne so no. 20 Na sɛ onipa sua yɛn Awurade ne yɛn Agyenkwa Yesu Kristo ho nsɛm, na ɔnam so guan fi wiase yi mu akwammɔne so, na akyiri yi ɔkɔ bɔne mu bio ma ɔdan bɔne akoa a, ɛnne ɛyɛ hu sen ne kan no. 21 Sɛ wonnim Kristo koraa a, anka eye ma wɔn sen sɛ wobesua ne ho nsɛm na afei wɔbɛdan wɔn akyi akyerɛ mmara kronkron a wɔde maa wɔn no. 22 Nea ɛbaa wɔn so no kyerɛ sɛ, saa bɛ yi yɛ nokware. “Ɔkraman san kɔtaforo ne fe ɛnna ɔprako a wɔaguare no no nso kɔyantam wɔ atɛkyɛ mu.”
+
+
+
+
+X-X-X
+
+1 Adɔfonom, eyi ne krataa a ɛtɔ so abien a makyerɛw abrɛ mo. Mekyerɛwee sɛ mede rebɛkae mo, de akanyan mo adwene. 2 Mepɛ sɛ mokae nsɛm a adiyifo kronkron no kae mmere bi a atwam no ne mmara a efi Awurade ne Agyenkwa a wɔde faa mo asomafo so maa mo no.
+
+3 Nea edi kan no, sɛ mote ase sɛ, nna a edi akyiri no mu no, nnipa bi bɛba a wɔn ara wɔn honam akɔnnɔ na ebedi wɔn so. Wobedi mo ho fɛw 4 aka se, “Ɔhyɛɛ mo bɔ sɛ ɔbɛba. Wanka? Na ɔwɔ he? Yɛn agyanom awuwu dedaw nanso biribiara te sɛ nea ɛte fi adebɔ mfiase!”
+
+5 Wɔhyɛ da ma wɔn werɛ fi nokware no sɛ efi tete na Onyankopɔn kasae na wɔbɔɔ ɔsoro ne asase. Wɔbɔɔ asase fi nsu mu na wɔde nsu na ɛyɛe 6 na wɔde nsu nso, Nsuyiri nsu na ɛsɛee wiase dedaw no. 7 Na ɔsoro ne asase a ɛwɔ hɔ mprempren yi de, wɔnam Onyankopɔn asɛm no ara so rekora ama ogya asɛe no. Wɔrekora ama ɛda a wobebu nnebɔneyɛfo atɛn na wɔasɛe wɔn no.
+
+8 Nanso, anuanom, mommma mo werɛ mmfi ade baako sɛ Awurade ani so de, nsonoe nni da koro ne mfe apem ntam. Ne fam de, n’abien nyinaa yɛ pɛ. 9 Awurade ntwentwɛn ne nan ase wɔ ne bɔ a wahyɛ ho sɛnea ebinom dwen no. Mmom, ɔwɔ mo ho boasetɔ efisɛ, ɔmpɛ sɛ wɔbɛsɛe obiara na mmom ɔpɛ sɛ obiara sesa fi ne bɔne ho. 10 Na Awurade da no bɛba sɛ owifo. Ɛda no, ɔsoro bɛbobom na ayera na wim nneɛma bɛhyew na asɛe na asase ne so nneɛma nyinaa nso ayera.
+
+11 Sɛ saa kwan yi so na wɔbɛfa asɛe ade nyinaa a, na dɛn bra na ɛsɛ sɛ mobɔ? Ɛsɛ sɛ mo bra yɛ kronn na mode mo ho ma Onyankopɔn. 12 Monhwɛ saa da no kwan na monyɛ mo nneɛma pɛpɛɛpɛ; saa da a Onyankopɔn bɛto ɔsoro mu gya na wim nneɛma anan na ayera wɔ ogyaframa mu no. 13 Nanso yɛtwɛn nea Onyankopɔn ahyɛ yɛn ho bɔ no, ɔsoro foforo ne asase foforo a ɛhɔ na atreneefo bɛtena.
+
+14 Enti, anuanom, mugu so retwɛn da no yi, mommɔ mmɔden sɛ mobɛyɛ kronn a mfomso biara nni mo ho wɔ Onyankopɔn anim na mo ne no atena wɔ asomdwoe mu.
+
+15 Monkae sɛ Awurade boasetɔ no kyerɛ nkwagye te sɛ nea yɛn nua Paulo nam nyansa a Onyankopɔn de maa no no so kyerɛw mo no. 16 Saa kwan koro no ara so na ɔfa kyerɛw ne nkrataa no na saa nsɛm yi ara so nso na ogyina kyerɛwee. Nsɛm bi a ɛyɛ den wɔ ne nkrataa no mu a wɔn a wonnim na wɔnyɛ den no nkyerɛ ase yiye te sɛ nea wɔkyerɛ Kyerɛwsɛm a aka no ase no a ɛde ɔsɛe brɛ wɔn no.
+
+17 Nanso, anuanom, mo de munim eyi dedaw. Monwɛn na wɔn a wonni mmara so annaadaa mo amfi beae pa. 18 Munyin wɔ yɛn Awurade ne Agyenkwa Yesu Kristo adom ne nimdeɛ mu. Ɔno na anuonyam nka no mprempren ne daa. Amen.
+
+#####   1  Yohane    #####
+
+
 X-X-X
 
 1 Yɛrekyerɛw mo afa nea ɛwɔ hɔ fi mfitiase, nea yɛate, nea yɛde yɛn ani ahu, nea yɛhwɛe na yɛde yɛn nsa kae wɔ nkwa asɛm no ho no ho. 2 Nkwa no daa ne ho adi no, yehui. Ɛno nti, yɛka ho asɛm kyerɛ mo ka nkwa a enni awiei a na ɛwɔ Agya no nkyɛn a wɔdaa no adi kyerɛɛ yɛn no. 3 Yɛkaa nea yehui na yɛtee no kyerɛɛ mo nso, sɛnea ɛbɛyɛ a mode mo ho bɛbata yɛn ho wɔ ɔdɔ a yɛne Agya no ne Ɔba Yesu Kristo wɔ no mu. 4 Yɛrekyerɛw eyi sɛnea ɛbɛyɛ a yɛn anigye bewie pɛyɛ.
@@ -659,687 +1488,8 @@ X-X-X
 
 21 Me mma, montwe mo ho mfi abosom ho.
 
-X-X-X
 
-1 Saa krataa yi fi me Paulo a ɔfrɛ a wɔfrɛɛ me sɛ memmɛyɛ ɔsomafo no mfi onipa na mmom efi Yesu Kristo ne Agya Nyankopɔn a ɔma ɔsɔre fii awufo mu no nkyɛn. 2 Me ne anuanom a wɔwɔ ha nyinaa bom kyia Galati asafo ahorow no nyinaa.
-
-3 Adom ne asomdwoe a efi yɛn Agya Nyankopɔn ne Awurade Yesu Kristo nka mo.
-
-4 Yɛn bɔne nti, Kristo yɛɛ osetie maa yɛn Agya Nyankopɔn nam so de ne ho bɔɔ afɔre de gyee yɛn fii bɔne a yɛwɔ mu nnɛ yi mu. 5 Anuonyam nka Onyankopɔn daa nyinaa. Amen.
-
-6 Mo ho yɛ me nwonwa! Ɛnkyɛɛ koraa, morepa nea ɔnam Kristo adom so frɛɛ mo no akɔ asɛmpa foforo ho. 7 Nokwarem, asɛmpa foforo biara nni baabi, nanso meka efisɛ, nnipa bi wɔ hɔ a wɔredan mo adwene pɛ sɛ wɔsesa Kristo Asɛmpa no.
-
-8 Na sɛ yɛn anaa ɔbɔfo fi soro bɛka asɛmpa a nsonoe da ɛno ne yɛn Asɛmpa no ntam a, onii no bɛka afobu a enni awiei mu. 9 Yɛaka dedaw na mereti mu bio se: Obiara a ɔbɛka asɛmpa a ɛne Asɛmpa a moagye atom no bɔ abira no bɛkɔ afobu a enni awiei mu.
-
-10 Nea nnipa pene so na mereyɛ yi anaa? Dabi! Mepɛ nea Onyankopɔn pene so! Anaa mereyɛ nea ɛsɔ nnipa ani? Sɛ migu so reyɛ nea ɛsɔ nnipa ani a, ɛnne merenyɛ Kristo somfo.
-
-11 Anuanom, mepɛ sɛ mote ase sɛ, Asɛmpa a meka kyerɛ mo no mfi onipa. 12 Me nsa anka amfi onipa nkyɛn. Saa ara nso na ɛnyɛ onipa na ɔkyerɛɛ me. Ɛyɛ Kristo no ankasa na ɔdaa no adi kyerɛɛ me.
-
-13 Moate sɛ na mesɛe m’adagyew nyinaa wɔ Yudasom ho. Afei moate nso sɛ na mede atirimɔden taa Onyankopɔn akyidifo na mefaa ɔkwan biara a metumi so pɛe sɛ metɔre wɔn ase. 14 M’afɛfo Yudafo no de, na m’adwene mu abue wɔ Yudasom ho sen wɔn nyinaa. Na mikita yɛn nenanom amanne nso mu denneenen.
-
-15 Nanso Onyankopɔn nam n’adom so frɛɛ me ansa na ɔrewo me sɛ memmɛsom no. Na bere a osii n’adwene pi 16 sɛ ɔbɛda ne Ba no adi akyerɛ me sɛnea ɛbɛyɛ a mɛka Asɛmpa a ɛfa ne ho akyerɛ Amanamanmufo no, mankɔ obiara nkyɛn amma wantu me fo; 17 saa ara nso na mankɔ Yerusalem mankohu asomafo a na wodi m’anim kan no. Mmom, mekɔɔ Arabia prɛko pɛ ɛnna mesan m’akyi baa Damasko. 18 Mfirihyia abiɛsa akyi na mekɔɔ Petro nkyɛn wɔ Yerusalem ne no kodii nkɔmmɔ. Midii ne nkyɛn nnawɔtwe abien. 19 Manhu ɔsomafo biara wɔ hɔ ka Awurade nua Yakobo ho.
-
-20 Nsɛm a merekyerɛw yi yɛ nokware. Merentwa nkontompo enti Onyankopɔn mmoa me.
-
-21 Ɛno akyi mebaa Siria ne Kilikia. 22 Saa bere no na Kristo asafo horow a wɔwɔ Yudea no mu nnipa nnim me. 23 Nsɛm a na wɔaka afa me ho se, “Afei de ɔbarima no a na ɔtaa yɛn no ka gyidi a na ɔpɛ sɛ ɔsɛe no no ho asɛm.” 24 Na me nti, wɔhyɛɛ Onyankopɔn anuonyam.
-
-
-X-X-X
-
-1 Mfe dunan akyi, me ne Barnaba san kɔɔ Yerusalem. Mede Tito nso kaa me ho. 2 Mekɔe efisɛ, Onyankopɔn na ɔdaa no adi kyerɛɛ me sɛ menkɔ. Me ne mpanyimfo no yɛɛ nhyiam kokoam kyerɛkyerɛɛ asɛmpa a meka mekyerɛɛ Amanamanmufo no mu kyerɛɛ wɔn. Na mempɛ sɛ m’adwuma a mayɛ dedaw ne nea migu so reyɛ no yɛ ɔkwa. 3 Ɛwom sɛ me hokafo Tito yɛ Helani de, nanso wɔanhyɛ no sɛ ontwa twetia, 4 na mmom, nnipa bi a wɔboapa yɛɛ wɔn ho sɛ anuanom no bi a wɔde wɔn ho abɔ kuw no pɛe sɛ wotwa no twetia. Saa nnipa yi baa yɛn mu sɛ akwansrafo bɛhwɛɛ ahofadi a yɛnam yɛn a yɛne Kristo ayɛ baako so anya no, na wɔnam so adan yɛn nkoa no. 5 Sɛnea ɛbɛyɛ a Asɛmpa no bɛtena mo nkyɛn nti, yɛamma wɔn kwan koraa.
-
-6 Wɔn a wɔfa wɔn ho sɛ wɔyɛ atitiriw no, sɛnea wɔte biara no meka se, minhu wɔn ntam nsonoe biara. Onyankopɔn nhwɛ nnipa ho mmu atɛn; saa mpanyimfo no mfaa adwene foforo biara mmɛkaa m’asɛm no ho. 7 Na mmom wohui sɛ Onyankopɔn de dwuma no ahyɛ me nsa sɛ menka Asɛmpa no nkyerɛ Amanamanmufo sɛnea ɔde dwuma no hyɛɛ Petro nsa sɛ ɔnka Asɛmpa no nkyerɛ Yudafo no ara pɛ. 8 Na Onyankopɔn a ɔnam Petro so yɛ adwuma sɛ Yudafo mu somafo no ara na ɔnam me so yɛ adwuma wɔ Amanamanmufo mu sɛnea Petro yɛ Yudafo mu adwuma no pɛ. 9 Yakobo, Petro ne Yohane a na wɔfa no sɛ wɔyɛ mpanyimfo no, gye too mu sɛ, Onyankopɔn ama me dwuma sononko bi sɛ minni, enti wokyiaa me ne Barnaba. Wɔpenee so sɛ yɛnyɛ adwuma wɔ Amanamanmufo no mu na wɔn nso wɔnyɛ adwuma wɔ Yudafo no mu. 10 Wobisae sɛ yɛnkae ahiafo wɔ wɔn kuw no mu sɛnea mepɛ sɛ meyɛ no.
-
-11 Bere a Petro baa Antiokia no, mitiaa nea ɔreyɛ no mu wɔ bagua mu, efisɛ, na ɔreyɛ mfomso. 12 Ansa na mmarima bi a Yakobo somaa wɔn no beduu hɔ no, na Petro ne anuanom Amanamanmufo no ato nsa adidi. Nanso nnipa no bedui akyi no, ɔtwee ne ho sɛ ɔne wɔn nnidi bio, efisɛ, na osuro wɔn a wɔpɛ sɛ wotwa Amanamanmufo twetia no. 13 Anuanom Yudafo a aka no yɛɛ sɛ ahufo de wɔn ho bɔɔ Petro maa Barnaba nso de ne ho kɔbataa wɔn ho. 14 Mihui sɛ nsɛm a wɔreka no ne Asɛmpa no bɔ abira no, mekaa no wɔ Petro ne bagua no anim se, “Woyɛ Yudani nanso woyɛ wo ho sɛ Amanamanmuni. Wonyɛ wo ho sɛ Yudani. Ɛbɛyɛ dɛn na woatumi ahyɛ Amanamanmufo ama wɔatena ase sɛ Yudafo?”
-
-15 Ɛyɛ nokware sɛ yɛyɛ Yudafo fi yɛn awo mu. Yɛnyɛ Amanamanmufo nnebɔneyɛfo no.
-
-16 Yenim sɛ ansa na obi bɛfata Onyankopɔn anim no, na gye sɛ wagye Yesu Kristo adi a ɛnyɛ sɛ ɔbɛyɛ nea Mmara no hwehwɛ sɛ ɔnyɛ no. Yɛn nso, yɛagye Kristo Yesu adi sɛnea ɛbɛyɛ a yɛnam ogye a yegye Kristo di no so na ɛnyɛ Mmara no apɛde a yɛyɛ so na yɛnam bɛfata Onyankopɔn anim. Onipa biara nni hɔ a ɔbɛyɛ nea Mmara no hwehwɛ sɛ ɔnyɛ na ɔbɛfata Onyankopɔn anim. 17 Sɛ yɛpɛ sɛ wobu yɛn bem wɔ Kristo mu na sɛ ɛda adi sɛ yɛyɛ nnebɔneyɛfo a, na ɛkyerɛ sɛ Kristo pɛ bɔne? Ɛnte saa koraa. 18 Sɛ mifiti si nea mabubu no a ɛkyerɛ sɛ mebu Mmara so. 19 Na Mmara no nti, mawu. Mmara no ankasa akum me sɛnea ɛbɛyɛ a mɛtena ase mama Onyankopɔn. Wɔabɔ me ne Kristo asɛnnua mu 20 enti ɛnyɛ me na mete ase bio na mmom Kristo no na ɔte me mu. Saa asetena a mete mu mprempren yi, mete ase wɔ Onyankopɔn Ba no a ɔdɔ me na ɔde ne nkwa maa me no gyidi mu. 21  Mempo Onyankopɔn adom no. Sɛ onipa nam Mmara so fata Onyankopɔn anim a, na ɛkyerɛ sɛ Kristo wu a owui no yɛ ɔkwa.
-
-
-
-X-X-X
-1 Mo Galatifo adwenemharefo! Hena na ɔdan mo adwene saa? Mo ara mo anim na wɔkyerɛkyerɛɛ bɔ a wɔbɔɔ Yesu asɛnnuam no kyerɛɛ mo. 2 Mummua me saa asɛm yi: Moyɛɛ nea Mmara no hwehwɛ sɛ monyɛ ansa na Onyankopɔn Honhom no reba mo so anaasɛ mutiee Asɛmpa no, gye dii ansa? 3 Saa na mo adwene mu yɛ hare? Mode Onyankopɔn Honhom fii ase; afei mopɛ sɛ mode mo ara mo tumi wie? 4 Mo suahu yi nyinaa ho amma mfaso biara? Minnye nni saa. 5 Esiane sɛ moyɛ nea Mmara no hwehwɛ sɛ monyɛ no nti na Onyankopɔn hwiee ne Honhom no guu mo so ma moyɛɛ anwonwade no anaasɛ mutiee Asɛmpa no na mugye dii no nti?
-
-6 Ɛte sɛ nea Kyerɛwsɛm no ka faa Abraham ho no pɛ se, “Ogyee Onyankopɔn dii na esiane ne gyidi nti, Onyankopɔn gyee no sɛ onipa trenee.” 7 Enti ɛsɛ sɛ mote ase sɛ, nnipa a wɔwɔ gyidi no na wɔyɛ Abraham asefo turodoo. 8 Kyerɛwsɛm no dii kan hui sɛ Onyankopɔn nam gyidi so bɛma Amanamanmufo adan aba ne nkyɛn. Eyi nti, Kyerɛwsɛm no dii kan kaa Asɛmpa no kyerɛɛ Abraham se, “Ɛnam wo so Onyankopɔn behyira nnipa a wɔwɔ asase so nyinaa.” 9 Abraham gye dii, na wohyiraa no, na wɔn a wogye di nyinaa nso, wɔahyira wɔn sɛnea wohyiraa no no.
-
-10 Wɔadome wɔn a wodi Mmara so no. Kyerɛwsɛm no ka se, “Obiara a onni nea wɔakyerɛw wɔ Mmara nhoma no mu no so no, Onyankopɔn nnome wɔ ne so!” 11 Afei, akyinnye biara nni ho sɛ Mmara rentumi nka obiara mmata Onyankopɔn ho; efisɛ, Kyerɛwsɛm no ka se, “Nea wɔnam gyidi so aka no abata Onyankopɔn ho no bɛtena ase.” 12 Nanso Mmara no nnyina gyidi so. Mmom Kyerɛwsɛm no ka se, “Onipa a ɔyɛ nea Mmara no hwehwɛ sɛ ɔnyɛ no, te hɔ ma Mmara no.”
-
-13 Nanso Kristo agye yɛn afi nnome a Mmara no de brɛɛ yɛn no mu, efisɛ, wayɛ nnome ama yɛn sɛnea Kyerɛwsɛm no ka se, “Obiara a wɔbɛsɛn no dua so no hyɛ Onyankopɔn nnome ase.” 14 Kristo gyee yɛn sɛnea ɛbɛyɛ a nhyira a wohyiraa Abraham no nam Kristo so bɛba Amanamanmufo so na yɛnam gyidi so anya bɔ a Honhom no ahyɛ yɛn no.
-
-15 Anuanom, mede yɛn asetena mu asɛm bi bɛyɛ nhwɛso: Sɛ nnipa baanu bi pene asɛm bi so na wɔyɛ ho apam a, obiara rentumi mmu apam no so na wɔrentumi mfa biribi nka ho.
-
-16 Onyankopɔn hyɛɛ Abraham ne n’aseni bɔ. Kyerɛwsɛm no nka se, “Wo ne w’asefo” a ɛkyerɛ nnipa bebree. Ɛka se, “Wo ne w’aseni” a ɛkyerɛ sɛ onipa baako a ɔno ne Kristo no. 17 Mekyerɛ sɛ: Onyankopɔn yɛɛ apam na ɔhyɛɛ bɔ sɛ obedi so. Mmara a wɔhyɛɛ no mfirihyia ahanan ne aduasa ni no rentumi ngu apam no na ɛrentumi ntwa bɔ a Onyankopɔn hyɛe no nso mu. 18 Na sɛ nea Onyankopɔn de ma no gyina Mmara so a, ɛnne na emfi ne bɔhyɛ no bio. Na esiane sɛ Onyankopɔn ahyɛ ho bɔ no nti na ɔde maa Abraham no.
-
-19 Ɛnne na Mmara no botae ne dɛn? Wɔde kaa ho sɛnea ɛbɛda bɔne adi na ɛbɛtena hɔ kosi sɛ Abraham aseni a ne nti wɔhyɛɛ saa bɔ no bɛba. 20 Abɔfo na wɔnam onipa so de Mmara no ma. Nanso sɛ onipa baako na ɔwɔ hɔ de a, nea odi ntam no ho nhia. Saa onipa baako no ne Onyankopɔn.
-
-21 Eyi kyerɛ sɛ Mmara no tia Onyankopɔn bɔhyɛ no anaa? Dabida! Sɛ mmara bi wɔ hɔ a etumi ma nnipa nkwa a, ɛnne na onipa nam mmara so betumi aka ne ho abata Onyankopɔn. 22 Nanso Kyerɛwsɛm no aka se, wiase nyinaa hyɛ bɔne tumi ase sɛnea ɛbɛyɛ a akyɛde a wɔnam Yesu Kristo so hyɛɛ ho bɔ no, wɔde bɛma wɔn a wogye di no.
-
-23 Ansa na gyidi no reba no, Mmara no too yɛn mpokyerɛ kosi sɛ wɔbɛda gyidi no adi.
-
-24 Enti Mmara no na na ɛhyɛ yɛn so kosii sɛ Kristo bae sɛnea ɛbɛyɛ a wɔnam gyidi so bɛka yɛn abata Onyankopɔn ho. 25 Afei a bere adu sɛ yegye Kristo di no, Mmara nni yɛn so tumi bio.
-
-26 Ɛnam gyidi so nti na mo nyinaa yɛ Onyankopɔn mma a mo ne Kristo Yesu aka abom no. 27 Wɔbɔɔ mo asu hyɛɛ Kristo mu nti moafa Kristo mu nnepa no ato mo ho so. 28 Enti nsonoe nna Yudafo ne Amanamanmufo, ne nkoa ne wɔn a wɔde wɔn ho, ne mmarima ne mmea ntam. Mo nyinaa mo ne Kristo ayɛ baako. 29 Sɛ moyɛ Kristo de a, na moyɛ Abraham asefo na mo nsa bɛka bɔ a Onyankopɔn ahyɛ mo no.
-
-
-
-
-X-X-X
-1 Asɛm a mereka ne sɛ, mpɛn dodow a ɔdedifo no yɛ abofra no, ɛwom sɛ agyapade no nyinaa hyɛ ne nsa de, nanso nsonoe biara nna ɔno ne akoa ntam. 2 Eisane sɛ onnyinii no nti, nnipa bi wɔ hɔ a wɔhwɛ, toto nneɛma ma no kosi bere a n’agya ahyɛ sɛ wɔnnan agyapade no mma no no.
-Onyankopɔn tɔɔ yɛn ahofadi
-
-3 Saa ara na yɛn nso bere a yɛyɛ mmofra no, wiase ahonhom dii yɛn so ara kosii sɛ yenyinii honhom mu no. 4 Nanso mmere pa no dui no, Onyankopɔn somaa ɔno ankasa ne Ba. Ɔbae sɛ ɔba a ɛna awo no bɛhyɛɛ Yuda Mmara ase 5 de gyee wɔn a na wɔhyɛ Mmara no ase no sɛnea ɛbɛyɛ a yɛbɛyɛ Onyankopɔn mma.
-
-6 Sɛnea ɛbɛyɛ a wobehu sɛ moyɛ ne mma nti, Onyankopɔn somaa ne Ba no Honhom, Honhom a ɛteɛm se, “Agya, m’agya no,” ma ɛbɛhyɛɛ yɛn koma mu. 7 Enti, wonyɛ akoa bio na mmom woyɛ ɔba. Esiane sɛ woyɛ ne ba nti, Onyankopɔn de nea ɔwɔ nyinaa bɛma ne mma.
-
-8 Mmere bi a atwam no, na munnim Onyankopɔn, enti mosom wɔn a na wɔnyɛ anyame no sɛ nkoa. 9 Nanso afei a moahu Onyankopɔn anaasɛ Onyankopɔn ahu mo yi, adɛn nti na mopɛ sɛ modan mo ho ma nkyerɛkyerɛ a aba nni mu no? Adɛn nti na mopɛ sɛ moyɛ wɔn asomfo bio? 10 Mudi nna, abosome, nnapɔnna ne mfe bi. 11 Misuro ma mo sɛ masɛe m’ahoɔden wɔ mo ho kwa.
-
-12 Mesrɛ mo, me nuanom, monyɛ sɛ me, efisɛ, mete sɛ mo. Monyɛɛ me bɔne biara. 13 Sɛnea munim no, na meyare nti na mekaa Asɛmpa no kyerɛɛ mo kan no. 14 Ɛwom sɛ na me nipadua no yɛ sɔhwɛ ma mo de, nanso moampo me. Mmom, mugyee me sɛnea mubegye Onyankopɔn bɔfo; mugyee me sɛnea mubegye Kristo Yesu.
-
-15 Mo ani gyei na saa anigye no wiee dɛn? Metumi aka se, sɛ mubetumi a, anka mubetutu mo ani de ama me.
-
-16 Nokware a meka kyerɛ mo nti na afei mabɛyɛ mo tamfo yi?
-
-17 Saa nnipa no pɛ sɛ wɔtwe mo ba wɔn nkyɛn nanso wonni adwene pa. Wɔhwehwɛ sɛ wɔbɛtetew me ne mo ntam na ama mo ani aku wɔn ho sɛnea wɔn ani ku mo ho no. 18 Eye sɛ mubenya saa adwene no ama dwuma pa di a ɛbɛkɔ so saa daa na ɛnyɛ bere a mewɔ mo nkyɛn. 19 Me mma pa, mo a mo nti merehu awo yaw bio kosi sɛ Kristo bɛtena mo mu no, 20 ɛyɛ me pɛ sɛ anka mewɔ mo nkyɛn na me ne mo dwennwene nsɛm bi ho nanso, esiane yɛn ntam kwan ware a ɛware no nti, minhu nea menyɛ. 21 Mibisa mo a mopɛ sɛ mohyɛ Mmara no ase no se, monte nea Mmara no ka no anaa? 22 Mmara no se, na Abraham wɔ mma baanu. Ɔne afenaa bi woo baako na ɔne ɔbea bi a ɔde ne ho nso woo baako. 23 Afenaa ba no, wɔwoo no honam kwan so, ɛnna ɔbea a ɔde ne ho no nso, nam Onyankopɔn bɔhyɛ so woo ne ba no.
-
-24 Saa asɛm yi yɛ mfatoho efisɛ, saa mmea baanu yi gyinaa hɔ ma apam abien. Mmea no mu baako a ne din de Hagar a ofi bepɔw Sinai so no woo ne mma nyinaa wɔ nkoasom mu. 25 Hagar wɔ hɔ ma bepɔw Sinai a ɛwɔ Arabia a ogyina hɔ ma Yerusalem a ɔne n’asefo nyinaa yɛ nkoa. 26 Nanso Yerusalem a ɛwɔ soro no de, ɛde ne ho na ɔyɛ yɛn na.
-
-27 Efisɛ wɔakyerɛw se, “Di ahurusi, obonin. Wo a wonkoo awo da, di ahurusi, efisɛ, ɔbea a woguan gyaa no no bɛwo pii akyɛn ɔbea a ɔne ne kunu te.”
-
-28 Afei, me nuanom, esiane Onyankopɔn bɔ a ɔhyɛe no nti, moyɛ ne mma te sɛ Isak pɛ. 29 Saa bere no na ɔba a wɔnam honam kwan so woo no no taa nea wɔnam Onyankopɔn Honhom mu woo no no. Na ɛnnɛ yi ɛte saa. 30 Na Kyerɛwsɛm no ka dɛn? Ɛka se, “Tow afenaa no ne ne ba no kyene; efisɛ, afenaa ba no rennya kyɛfa wɔ n’agya agyapade mu sɛ ɔbea a ɔde ne ho no ba no.” 31 Enti, anuanom, yɛnyɛ afenaa no mma na mmom yɛyɛ ɔbea a ɔde ne ho no mma.
-
-
-
-
-X-X-X
-1 Ahofadi nti na Kristo ama yɛde yɛn ho no. Munnyina pintinn. Mommma ho kwan mma wɔmmfa mo nnyɛ nkoa bio.
-
-2 Muntie! Me Paulo, meka mekyerɛ mo se, sɛ moma ho kwan ma wotwa mo twetia a, na ɛkyerɛ sɛ Kristo ho amma mfaso biara amma mo koraa. 3 Mebɔ mo kɔkɔ bio sɛ obiara a ɔbɛma ho kwan ama wɔatwa no twetia no, na ɛsɛ sɛ odi Mmara no nyinaa so. 4 Mo a mopɛ sɛ wɔka mo bata Onyankopɔn ho nti mudi Mmara no so no, atew mo ho afi Kristo ho. Onyankopɔn adom no nni mo so bio.
-
-5 Yɛn de, yɛn anidaso ne sɛ Onyankopɔn bɛka yɛn abata ne ho. Eyi ne gyidi a ɛnam tumi a ɛwɔ Onyankopɔn Honhom no mu no yɛretwɛn. 6 Sɛ yɛne Kristo Yesu yɛ baako a, nsonoe biara nna twetiatwa ne momonotoyɛ ntam. Nea ɛho hia ne gyidi a ɛnam ɔdɔ so di dwuma.
-
-7 Na anka moretu mmirika no yiye! Na hena na ɔma mugyaee nokware no tie? Ɔkwan bɛn so na ɔfa daadaa mo? 8 Saa nnaadaa no mfi Onyankopɔn a ɔfrɛ mo no. 9 Wɔka se, “Mmɔkaw kakraa bi na ɛma mmɔre no nyinaa tu.” 10 Meda so wɔ mo mu anidaso. Bata a yɛde yɛn ho abata Awurade no, ma minya gyidi sɛ, meremfa adwene foforo na nea ɔredaadaa mo no, ɔte dɛn ara a, Onyankopɔn bɛtwe n’aso. 11 Anuanom, sɛ migu so ka twetiatwa ho asɛm a, adɛn nti na wɔda so taa me? Na sɛ ɛno na ɛyɛ nokware a, anka m’asɛm a meka fa Kristo asɛnnua ho no nkɔfa ɔhaw mma. 12 Sɛ ɛkaa me nko a, anka wɔn a wɔhaw mo no atwa wɔn ho atwitwa wɔn ho.
-
-13 Me nuanom, mo de, wɔfrɛɛ mo sɛ mommɛde mo ho. Nanso mommma saa ahofadi yi nnyɛ anoyi a ɛbɛma mo nipadua no adi mo so. Mmom, momfa ɔdɔ nsom mo ho mo ho. 14 Efisɛ, Mmara no nyinaa tiaatwa kyerɛ sɛ, “Dɔ wo yɔnko sɛ wo ho.” 15 Na sɛ mokeka na mopirapira mo ho mo ho a, ɛnne monhwɛ yiye na moansɛesɛe mo ho mo ho.
-
-16 Asɛm a meka ne sɛ, momma Honhom no nni mo abrabɔ so, Mommma honam akɔnnɔ nnni mo so . 17 Efisɛ, nea honam pɛ no tia nea Honhom no pɛ; saa ara nso na nea Honhom no pɛ no, honam no tia. Wɔn baanu no yɛ atamfo. Eyi kyerɛ sɛ worentumi nyɛ nea wopɛ sɛ woyɛ. 18 Sɛ Honhom no kyerɛ wo kwan a, na wonhyɛ Mmara ase.
-
-19 Dwuma a bɔne su di no da adi pefee. Eyinom ne aguamammɔ, efi, ahohwi, 20 abosonsom, aduto, ɔtan, akayɛ, ahoɔyaw, abufuw, aperepere, kunsunkunsun, mpaapaemu, 21 nitan, nsabow, agobɔne, ne nneɛma a ɛtete saa. Mebɔ mo kɔkɔ sɛnea mabɔ mo bi dedaw no se, wɔn a wɔtena ase saa no, renkɔ Onyankopɔn ahenni no mu.
-
-22 Na Honhom no aba ne ɔdɔ, anigye, asomdwoe, abodwokyɛre, ayamye, papayɛ, gyidi, 23 odwo, anidahɔ. Mmara biara nni hɔ a etia eyinom.
-
-24 Na wɔn a wɔyɛ Kristo de no abɔ wɔn nipasu no ne honam akɔnnɔ asɛnnua mu. 25 Honhom no ama yɛn nkwa. Ɛsɛ sɛ ɔhwɛ yɛn abrabɔ so. 26 Ɛnsɛ sɛ yɛyɛ ahantan, yiyi yɛn ho yɛn ho abufuw anaa yɛma yɛn ani bere yɛn ho yɛn ho.
-
-
-
-
-X-X-X
-
-1 Anuanom, sɛ obi yɛ bɔne na mokyere no a, mo a moyɛ honhom mu nnipa no monka n’asɛm no honhom mu. Nanso ɛyɛ a monhwɛ mo ho yiye na wɔansɔ mo anhwɛ. 2 Monsoa mo ho mo ho nnesoa abia. Sɛ moyɛ saa a, mudi Kristo mmara no so. 3 Sɛ obi fa ne ho sɛ ɔyɛ biribi nanso onse hwee a, obu ne ho kwasea.
-
-4 Ɛsɛ sɛ obiara bu ne ho atɛn ansa na watumi de nea wayɛ no aka asɛm a ɛho nhia sɛ ɔde ne ho bɛto nea obi ayɛ ho. 5 Efisɛ, ɛsɛ sɛ obiara soa n’adesoa.
-
-6 Ɛsɛ sɛ wɔn a wɔkyerɛ wɔn Asɛmpa no tua wɔn akyerɛkyerɛfo no ka.
-
-7 Monnnaadaa mo ho; obiara rentumi nsi Onyankopɔn atwetwe. Nea onipa dua no, ɛno ara na otwa. 8 Nea odua ma ɛsɔ ɔhonam ani no betwa no owu mu; na nea odua ma ɛsɔ Honhom no ani no fi Honhom no mu benya nkwa a enni awiei. 9 Ne saa nti, mommma yɛmmmrɛ papayɛ ho, efisɛ, sɛ yɛammrɛ a, bere bi bɛba a yebetwa nnɔbae no. 10 Enti mmere dodow a bere no wɔ hɔ ma yɛn no, ɛsɛ sɛ yɛyɛ obiara papa, ne titiriw no, wɔn a yɛne wɔn bɔ abusua wɔ gyidi mu no.
-
-11 Monhwɛ nsɛm mmaako mmaako akɛse a mede m’ankasa me nsa akyerɛw abrɛ mo. 12 Wɔn a wɔpɛ sɛ wɔhoahoa wɔn ho no ara na wɔpɛ sɛ wɔhyɛ mo ma mutwitwa twetia. Wɔyɛ saa sɛnea ɛbɛyɛ a wɔrentaa wɔne Kristo wɔ asɛnnua no ho. 13 Wɔn a wotwa twetia no mpo nni Mmara no so. Pɛ ara na wɔpɛ sɛ wotwa wɔn twetia sɛnea ɛbɛyɛ a wobetumi ahoahoa wɔn ho wɔ twetiatwa no ho.
-
-14 Nanso, me de, Awurade Yesu Kristo asɛnnua no nko ara na mede bɛhoahoa me ho, efisɛ, n’asɛnnua no nti, wiase awu ama me na me nso mawu ama wiase. 15 Sɛ obi atwa twetia anaa ontwaa twetia no nka hwee. Nea ɛho hia ne sɛ wobɛyɛ abɔde foforo.
-
-16 Wɔn a wodi saa mmara yi so wɔ wɔn asetena mu no, asomdwoe ne mmɔborɔhunu nka wɔn; nka wɔn ne Onyankopɔn nkurɔfo nyinaa.
-
-17 Asɛm a mede rewie ne sɛ: Obiara nhaw m’adwene bio, efisɛ, atwa a ɛwɔ me honam ani no kyerɛ sɛ, meyɛ Yesu somfo.
-
-18 Me nuanom, Awurade Yesu Kristo adom no nka mo nyinaa. Amen.
-
-
-X-X-X
-
-1 Saa nhoma yi fi Yesu Kristo somafo Paulo a ɔnam Onyankopɔn a ɔyɛ yɛn anidaso no hyɛ so nkyɛn, 2 kɔma Timoteo a ɔyɛ me ba kann wɔ gyidi no mu nkyɛn. Agya Onyankopɔn ne Kristo Yesu a ɔyɛ yɛn Awurade no adom, mmɔborɔhunu ne asomdwoe nka mo.
-
-3 Mepɛ sɛ motena Efeso sɛnea merekɔ Makedonia no meka kyerɛɛ mo no. Nnipa bi wɔ hɔ a wɔrekyerɛkyerɛ nkyerɛkyerɛ bɔne a ɛsɛ sɛ mohyɛ wɔn na wogyae. 4 Monka nkyerɛ wɔn na wonnyae atorosɛm ne wɔn nenanom din bebrebe a wɔbobɔ no, efisɛ, saa nneyɛe no de akyinnye ba. Ɛmmoa Onyankopɔn nhyehyɛe a wɔnam gyidi nko so na wohu no. 5 Saa ɔhyɛ yi botae ara ne sɛ, ɛbɛkanyan ɔdɔ a efi koma pa, adwenem fann ne gyidi pa mu.
-
-6 Nnipa bi atwe wɔn ho afi ɔkwan pa no so de wɔn ho ama akyinnye hunu. 7 Wɔpɛ sɛ wɔyɛ Onyankopɔn mmara no akyerɛkyerɛfo nanso wɔn ara wɔn nsɛm a wɔka no wɔnte ase. Saa ara nso na wonni gyidi wɔ nsɛm a wɔka no mu.
-
-8 Yenim sɛ, sɛ wɔnam mmara kwan so de Mmara no di dwuma a eye. 9 Ɛsɛ sɛ yɛkae hu sɛ, wɔnyɛ mmara mma atreneefo na mmom wɔyɛ ma mmaratofo, nnebɔneyɛfo, wɔn a wonsuro Nyame ne abɔnefo, wɔn a wɔnyɛ kronkron anaa wɔn ho ntew, wɔn a wokum wɔn agyanom ne wɔn nanom, awudifo, 10 afideyɛfo, aguamammɔfo, nnipawiafo, atorofo a wɔka nkontomposɛm anaa wɔyɛ biribi a ɛne nokware nkyerɛkyerɛ no bɔ abira no. 11 Saa nkyerɛkyerɛ no wɔ Asɛmpa a wɔde ama me sɛ menka ho asɛm nkyerɛ no mu. Ɛyɛ Asɛmpa a efi Onyankopɔn a ɔyɛ onuonyamfo na wɔahyira no no nkyɛn.
-
-12 Meda yɛn Awurade Yesu Kristo a wama me ahoɔden ma midi me dwuma no ase. Meda no ase sɛ wadwen me ho sɛ mefata na wayi me sɛ mensom no. 13 Nanso mmere bi a atwam no, na mekasa tia no, taa no, kaa nsɛm a ɛmfata faa ne ho. Onyankopɔn ahu me mmɔbɔ na esiane sɛ na minnye nni nti, na minnim nea mereyɛ. 14 Yɛn Awurade hwiee n’adom a ɛdɔɔso no guu me so maa me gyidi ne ɔdɔ a esiane sɛ yɛne Kristo Yesu aka abom no nti, abɛyɛ yɛn dea no.
-
-15 Eyi yɛ nokwasɛm a ɛsɛ sɛ yegye tom na yegye di koraa sɛ: Kristo Yesu baa wiase begyee nnebɔneyɛfo nkwa. Meyɛ ɔdebɔneyɛfo a odi kan koraa. 16 Nanso esiane saa nti, wahu me mmɔbɔ sɛnea ɛbɛyɛ a me a meyɛ ɔdebɔneyɛfo a odi kan no, Kristo Yesu nam me so bɛda ne boasetɔ a enni awiei no adi akyerɛ wɔn a wobegye no adi no na wɔanya nkwa a enni awiei. 17 Anuonyam ne nnidi nka Onyankopɔn daadaa. Ɔno ne mmeresantenhene. Ɔno na wonhu no na onwu da nso. Ɔno nkutoo ne Onyankopɔn a nimdeɛ ahyɛ no ma. Amen.
-
-18 Afei, me ba Timoteo, mede saa dwumadi a wɔhyɛɛ ho nkɔm fi tete no hyɛ wo nsa. Wugu so reko ɔko pa no no, ma saa nsɛm no nyɛ w’akode, 19 na so wo gyidi mu dennen na ma w’adwene mu nyɛ fann. Nnipa bi ntie wɔn atiboa nam saayɛ so asɛe wɔn gyidi. 20 Saa nnipa no bi ne Himeneo ne Aleksandro a mayi wɔn ama Satan na wakyerɛ wɔn sɛnea wɔnnka abususɛm nntia Onyankopɔn.
-
-
-
-X-X-X
-
-1 M’afotu ne sɛ, nea edi kan no, mehyɛ mo sɛ monsrɛ, mommɔ mpae, mommisa na monna Onyankopɔn ase mma nnipa nyinaa; 2 monyɛ saa ara mma ahemfo ne wɔn a tumi hyɛ wɔn nsa nyinaa na yɛatumi atena ase asomdwoe mu wɔ onyamesom ne suban pa mu. 3 Eyi ye na ɛsɔ Onyankopɔn a ɔyɛ Agyenkwa a, 4 ɔpɛ sɛ wogye nnipa nyinaa nkwa na wohu nokware no ani. 5 Efisɛ, Onyankopɔn baako ne ntamgyinafo baako a ɔka Onyankopɔn ne nnipa bom no, ɔwɔ hɔ na ɔno ne Kristo Yesu no. 6 Ɔno na ɔde ne ho bɔɔ afɔre de gyee nnipa nyinaa nkwa no. Eyi yɛ adansedi a ɛbae bere a ɛsɛ mu sɛ Onyankopɔn pɛ sɛ wogye nnipa nyinaa nkwa. 7 Ɛno nti na wɔsomaa me sɛ ɔsomafo ne Amanamanmufo kyerɛkyerɛfo sɛ minni gyidi ne nokware no ho adanse. Merenni atoro; mereka nokware! 8 Mehwehwɛ sɛ nnipa a wɔwɔ mmaa nyinaa a wɔde wɔn ho ama Onyankopɔn a wotumi ma wɔn nsa so a abufuw ne akyinnye nni mu bɔ mpae. 9 Afei mehwehwɛ sɛ mmea brɛ wɔn ho ase na wɔfa kwan pa so hyehyɛ wɔn ho. Ɛnsɛ sɛ wɔbɔ wɔn ti de sika anaa adwinne a ne bo yɛ den siesie wɔn ho na wɔhyɛ ntade a ne bo yɛ den. 10 Na mmom ɛsɛ sɛ wɔda adwuma pa a ɛfata mmea adi sɛ mmea a wɔyɛ nyamesomfo. 11 Ɛsɛ sɛ mmea de kommyɛ ne ahobrɛase sua ade.
-
-12 Memma mmea ho kwan sɛ wɔnkyerɛkyerɛ anaasɛ wonnya mmarima so tumi. Ɛsɛ sɛ wɔyɛ komm. 13 Efisɛ, wɔbɔɔ Adam ansa na wɔrebɔ Hawa. 14 Na ɛnyɛ Adam na wɔdaadaa no. Ɔbea no na wɔdaadaa no ma ɛnam so ma obuu Onyankopɔn mmara so. 15 Na sɛ ɔbea tena ase gyidi, ɔdɔ, kronnyɛ ne ahobrɛase mu a ɔbɛwo asomdwoe mu.
-
-
-X-X-X
-1 Ɛyɛ sɛnnahɔ sɛ, sɛ obi pɛ sɛ ɔyɛ asafopanyin a, na wafa adwuma pa. 2 Asafopanyin yɛ obi a mfomso nni ne ho. Ɛsɛ sɛ ne yere yɛ baako. Ɛsɛ sɛ ɔbrɛ ne ho ase na ɔhyɛ ne ho so yɛ ne biribiara pɛpɛɛpɛ. Ɛsɛ sɛ ogye ahɔho wɔ ne fi na ɔkyerɛkyerɛ nso. 3 Ɛnsɛ sɛ ɔyɛ ɔsadweam anaa basabasa na mmom ɛsɛ sɛ ɔbrɛ ne ho ase na ɔpɛ asomdwoe. Ɛnsɛ sɛ ɔyɛ sikaniberefo. 4 Ɛsɛ sɛ otumi hwɛ ne fifo so yiye na otumi ma ne mma yɛ osetie de obu ne nidi ma no. 5 Na sɛ obi nnim sɛnea ɔhwɛ ne fi so yiye a, ɛbɛyɛ dɛn na obetumi ahwɛ Onyankopɔn asafo so?
-
-6 Ɛnsɛ sɛ ɔyɛ obi a afei na wahu Awurade; sɛ ɛba saa a, ne tirim bɛyɛ no dɛ ma wɔabu no atɛn sɛnea wobuu ɔbonsam atɛn no. 7 Ɛsɛ sɛ ɔyɛ obi a asafo mma no akyi no, wobu no sɛnea ɛbɛyɛ a wɔrengu n’anim ase na ɔbonsam afiri renyi no.
-
-8 Ɛsɛ sɛ asafo mu aboafo nso yɛ nnipa a wɔwɔ suban pa na wodi nokware. Ɛnsɛ sɛ wɔnom nsa pii anaasɛ wɔyɛ aniberefo. 9 Ɛsɛ sɛ wɔde adwenem fann gyina pintinn ma nokware no ne gyidi no. 10 Ɛsɛ sɛ wɔsɔ wɔn hwɛ ansa, na sɛ wodi sɔhwɛ no so nkonim a, wɔasom.
-
-11 Ɛsɛ sɛ wɔn yerenom nso wɔ suban pa a wonni nseku. Biribiara mu, ɛsɛ sɛ wɔbrɛ wɔn ho ase di nokware. 12 Ɛsɛ sɛ asafo no mu boafo no wɔ yere baako na afei otumi hwɛ ne mma ne ne fifo yiye. 13 Wɔn a wɔyɛ adwuma pa no nya din pa na wɔde nnam ka gyidi a wɔwɔ wɔ Kristo Yesu mu no ho asɛm.
-
-14 Saa nhoma a mede rebrɛ wo yi akyi, mewɔ anidaso sɛ ɛrenkyɛ biara mɛba wo nkyɛn. 15 Na sɛ mannu wo nkyɛn ntɛm a, saa nhoma yi bɛma woahu sɛnea yɛbɔ yɛn bra wɔ Onyankopɔn fi a ɛyɛ Onyankopɔn a ɔte ase no asafo a ɛyɛ nokware nnyinaso no mu.
-
-16 Ɛyɛ nokware pefee sɛ ɔkwan a wɔfa so tena ase kronn no nyɛ mmerɛw. “Ɔbae sɛ onipa tebea, Honhon no kyerɛɛ no kwan pa maa abɔfo huu no. Ɔkaa Asɛmpa no amanaman so, maa wiase gyee no dii na wɔfaa no kɔɔ soro.”
-
-
-
-X-X-X
-
-1 Honhom no si no pi sɛ, akyiri yi, nnipa bi begyaa gyidi no mu so. Wobedi atoro ahonhom akyi na wɔadi ahohommɔne nkyerɛkyerɛ akyi. 2 Saa nkyerɛkyerɛ yi fi atorofo nnaadaa a wɔyɛ adwenewuifo sɛ dade a wɔato wɔ ogya mu no. 3 Saa nnipa no kyerɛkyerɛ sɛ enye sɛ obi ware na nnuan bi nso wɔ hɔ a, enye sɛ onipa di. Nanso Onyankopɔn bɔɔ saa nnuan no sɛ, sɛ gyidifo a wɔahu nokware no nsa ka na wɔbɔ so mpae a, wotumi di.
-
-4 Biribiara a Onyankopɔn abɔ no ye. Ɛnsɛ sɛ wɔpo biribiara na mmom ɛsɛ sɛ wɔbɔ mpae gu ne nyinaa so. 5 Efisɛ, Onyankopɔn asɛm no ne mpaebɔ tew ho.
-
-6 Sɛ wokyerɛkyerɛ anuanom no saa nkyerɛkyerɛ yi a, na ɛkyerɛ sɛ woyɛ Kristo somfo pa a wɔnam nokware ne gyidi ne nkyerɛkyerɛ pa so atetew wo.
-
-7 Nsɛe wo bere wɔ atorosɛm ho. Mmom hyɛ wo ho, na yɛ kronn. 8 Ɛwom sɛ honam mu mmɔdenbɔ ho hia de, nanso honhom mu mmɔdenbɔ ho hia akwan nyinaa mu, efisɛ, ɛhyɛ yɛn nnɛ asetena ne daakye asetena ho bɔ. 9 Eyi yɛ nokwasɛm a ɛsɛ sɛ wogye tom na wogye di. 10 Ɛno nti na ɛsɛ sɛ yɛpere na yɛyɛ adwuma dennen, efisɛ, yɛde yɛn anidaso ahyɛ Onyankopɔn teasefo a ɔyɛ nnipa nyinaa, ne titiriw no, gyidifo Agyenkwa no mu.
-
-11 Eyinom na ɛsɛ sɛ moka ho asɛm wɔ mo nkyerɛkyerɛ no mu. 12 Mma obiara ho kwan mma ɔmmfa wo sɛ wunnyinii enti obebu wo abomfiaa. Wo kasa mu, wo suban mu, wo dɔ mu, wo gyidi mu ne wo kronnyɛ mu no, ɛsɛ sɛ woyɛ nhwɛso pa. 13 Nya adagyew kenkan Kyerɛwsɛm no na ka Asɛmpa no na kyerɛkyerɛ ansa na maba.
-
-14 Honhom mu akyɛde a mpanyimfo nam nkɔmhyɛ so de wɔn nsa guu so a wonnyaee no, nnyaa mu. 15 So saa nneɛma no mu yiye. Fa wo ho nyinaa ma wɔn sɛnea ɛbɛma obiara ahu wo nkɔso. 16 Hwɛ wo ho so yiye na hwɛ wo nkyerɛkyerɛ nso so. Kɔ so yɛ saa nneɛma yi nyinaa, efisɛ, sɛ woyɛ saa a wubegye wo ho ne wɔn a wotie wo no nkwa.
-
-
-
-
-X-X-X
-
-1 Nkasa ntia akwakoraa na mmom kɔka w’ahiasɛm kyerɛ no sɛ w’agya. Fa kronnyɛ ne mmabun ntena sɛ wo nnuammarima nkummaa, 2 na fa mmea mpanyimfo sɛ ɛnanom na mmabaa nso, fa wɔn sɛ wo nnuammea wɔ kronnyɛ mu.
-
-3 Di mmea akunafo a wɔyɛ akunafo ampa ara no ni. 4 Sɛ okunafo bi wɔ mma anaa mmanana a, nea edi kan no, ɛsɛ sɛ wɔfa nyamesom pa so de som wɔn abusua de tua wɔn awofo ne nananom ka efisɛ, sɛ wɔyɛ saa a na ɛsɔ Onyankopɔn ani.
-
-5 Ɔbea a ɔyɛ okunafo ampa ara no a onni obi a ɔhwɛ no no de n’anidaso nyinaa ahyɛ Onyankopɔn mu enti anadwo ne awia, ɔkɔ so bɔ mpae srɛ ne mmoa. 6 Nanso sɛ okunafo bi de ne ho ma wiase a, na ɔyɛ teaseawu. 7 Ka saa mmara yi kyerɛ wɔn na obi annya wo ho mfomso.
-
-8 Na sɛ obi nhwɛ ne fifo ne titiriw no, ɔno ara n’abusuafo a, na wabu ne gyidi so. Sɛ ɛba saa a, ɔyɛ onipa bɔne sen nea onnye nni no.
-
-9 Mfa okunafo biara a onni mmoroo mfe aduosia din nka akunafo din ho. Asɛm a ɛka ho ne sɛ, ɛsɛ sɛ waware prɛko pɛ, 10 na afei wagye din wɔ nneyɛe pa ho. Ɛsɛ sɛ ɔyɛ ɔbea a watetew ne mma yiye na ogyee ahɔho wɔ ne fi na ɔhohoroo Onyankopɔn nan ase na ɔboaa ahokyerefo na ɔde ne ho maa nnwuma pa ahorow nyinaa yɛ.
-
-11 Mfa akunafo nkumaa no din nka wɔn ho. Efisɛ, sɛ ɛba sɛ wɔpɛ sɛ wɔsan ware a, wɔtew wɔn ho fi Kristo ho 12 na ɛma wodi fɔ sɛ wɔabu wɔn bɔhyɛ a edi kan so. 13 Ɛno akyi, wɔsɛe wɔn bere kɔ afi afi mu na nea enye koraa ne sɛ, wodi nseku yɛ pɛrepɛre ka nsɛm a anka ɛnsɛ sɛ wɔka. 14 Enti me pɛ ne sɛ, akunafo nkumaa no bɛware, awo mma na wɔahwɛ wɔn afi sɛnea ɛbɛyɛ a atamfo nnya wɔn ho kwan nka nsɛm ntia wɔn. 15 Akunafo bi de wɔn ho ama ɔbonsam dedaw.
-
-16 Sɛ ɔbea gyidifo bi wɔ akunafo wɔ n’abusua mu a, ɛsɛ sɛ ɔhwɛ wɔn yiye na wɔamfa adesoa bi ammɛto asafo no so na asafo no atumi ahwɛ akunafo a aka wɔn nko no.
-
-17 Mpanyimfo a wɔyɛ nnwuma pa sɛ akannifo no, ɛsɛ sɛ wodwen wɔn ho ma wɔn akatua abien; ne titiriw no wɔn a wɔka asɛm no na wɔsan kyerɛkyerɛ nso. 18 Efisɛ, Kyerɛwsɛm no ka se, “Nkyekyere nantwi a osiw aburow no ano!” Bio, “Odwumayɛfo akatua fata no!”
-
-19 Ntie asɛmmɔne a obi ka to ɔpanyin bi so no gye sɛ adansefo baanu anaa baasa de saa asɛm no bɛto w’anim. 20 Wɔn a wɔyɛ bɔne nyinaa no, ka wɔn anim baguam na abɔ afoforo hu.
-
-21 Migyina Onyankopɔn ne Kristo Yesu ne abɔfo kronkron anim ka se di saa mmara a mahyɛ wo yi nyinaa so a nhwɛanim biara nni mu. 22 Sɛ ehia sɛ wode wo nsa gu obi so wɔ Awurade dwumadi no mu a, mpepere ho. Twe wo ho fi bɔne a afoforo yɛ ho na ma wo ho ntew.
-
-23 Nnom nsu nko ara na mmom ɛyɛ wo yafunu ne wo yare a wotaa yare nti, ɛyɛ a nom nsa kakra.
-
-24 Nnipa bi bɔne a wɔyɛ no da adi pefee na saa bɔne no di wɔn anim de wɔn kɔ atemmu mu; nanso afoforo bi wɔ hɔ a wɔn bɔne da adi akyiri yi. 25 Saa ara nso na nneyɛe pa yɛ no da adi pefee. Na nea ɛnna adi pefee no mpo ntumi nhintaw.
-
-
-
-
-
-
-X-X-X
-1 Ɛsɛ sɛ wɔn a wɔyɛ asomfo no nyinaa de nidi ma wɔn wuranom sɛnea ɛbɛyɛ a wɔn mu bi nkasa ntia Onyankopɔn ne yɛn nkyerɛyerɛ no. 2 Ɛnsɛ sɛ asomfo a wɔn wuranom yɛ gyidifo bu wɔn abomfiaa efisɛ, wɔn nyinaa yɛ anuanom. Mmom, ɛsɛ sɛ wɔsom wɔn som pa efisɛ, wɔn a wobenya wɔn som no ho mfaso no ne gyidifo a wɔdɔ wɔn no. 3 Ɛsɛ sɛ mokyerɛkyerɛ na moka eyinom nyinaa. Obiara a ɔbɛkyerɛkyerɛ nkyerɛkyerɛ foforo na ɔrenka nokware a ɛfa yɛn Awurade Yesu Kristo ne yɛn nyamesom ho no, 4 yɛ ɔhantani a onnim hwee. Ɔyɛ obi a ofi adwene bɔne mu gye akyinnye na ɔko nsɛm so a, ɛnam so de anibere, akasakasa, ayeyawayeyaw, nnipa ho adwemmɔne 5 ne mansotwe a efi adwene a emu nnɔ mu na nokware nni mu ba mu. Wodwen sɛ nyamesom yɛ ɔkwan bi a wɔnam so pɛ sika.
-
-6 Ɛyɛ nokware sɛ, sɛ obi ani sɔ nea ɔwɔ a, nyamesom ma saa onipa no yɛ ɔdefo. 7 Yɛamfa hwee amma wiase. Saa ara nso na yɛremfa hwee nkɔ. 8 Ɛno nti, sɛ yɛwɔ aduan ne ntama a, ɛno nko dɔɔso ma yɛn. 9 Wɔn a wɔpɛ sɛ wonya wɔn ho no kɔtɔ sɔhwɛ mu na ɛdan ɔhaw ma wɔn ma ɛtwe wɔn kɔ ɔsɛe mu. 10 Na sikanibere yɛ bɔne nyinaa ntini. Nnipa bi de sikanibere asi wɔn ani so denneenen nam so ama wɔapa wɔn gyidi ama awerɛhow ahyɛ wɔn koma ma.
-
-11 Enti, wo a woyɛ Onyankopɔn nipa, twe wo ho fi eyinom nyinaa ho. Di trenee, onyamesom pa, gyidi, ɔdɔ, boasetɔ ne odwo akyi. 12 Bɔ gyidi mu mmirikatu no ho mmɔden na pere nya nkwa a enni awiei no ma wo ho, efisɛ, saa abrabɔ yi nti na bere a wodaa wo gyidi adi wɔ adansefo bebree anim no, Onyankopɔn frɛɛ wo.
-
-13 Meka no Onyankopɔn a ɔma nneɛma nyinaa nkwa no ne Kristo Yesu a ɔkaa nokware wɔ Pontio Pilato anim, hyɛ wo sɛ, 14 tie mmara a mahyɛ ama wo no na di so pɛpɛɛpɛ kosi da a Yesu Kristo bɛba. 15 Onyankopɔn a wɔahyira no na ɔno yɛ Hene, Ahene mu Hene ne Awurade mu Awurade no bɛma no aba bere a ɛsɛ mu. 16 Ɔno nko na ɔwɔ hɔ daa. ɔte hann a obi ntumi mmɛn ho mu. Obiara nhuu no da na obiara nso rentumi nhu no da. Ɔno na nidi ne tumi a enni awiei wɔ no. Amen.
-
-17 Bɔ wiase yi mu ahonyafo kɔkɔ se, wɔmmfa wɔn ahonya nnhoahoa wɔn ho, na wɔmmfa wɔn anidaso nso nnhyɛ adehunu te sɛ ahonya mu, na mmom wɔmfa wɔn ho nto Onyankopɔn a ɛnam n’adɔe so, ɔmaa yɛn asetena mu nneɛma pa nyinaa no so. 18 Hyɛ wɔn se, wɔnyɛ papa na wɔnyɛ adefo wɔ nnwuma pa yɛ mu. Wɔnyɛ ayamye na wɔne afoforo nkyɛ. 19 Sɛ wɔyɛ saa a, wɔbɛto fapem pa ama wɔn daakye. Na wɔnam so anya asetena a ɛyɛ asetena pa.
-
-20 Timoteo, hwɛ nea wɔde ahyɛ wo nsa no so yiye. Twe wo ho fi ahuhusɛm ne akyinnyehunu a nnipa bi frɛ no “Nimdeɛ” no ho. 21 Nnipa bi gye tom sɛ wɔwɔ saa nimdeɛ no nam so ahwere gyidi kwan no.
-
-Onyankopɔn adom nka mo.
-
-
-X-X-X
-
-1 Saa nhoma yi fi Paulo ne Timoteo a wɔyɛ Kristo Yesu nkoa nkyɛn. Wɔde kɔma Yesu Kristo mu ahotefo ne ahwɛfo ne asomafo a wɔwɔ Filipi no nyinaa.
-
-2 Adom ne asomdwoe a efi yɛn Agya Nyankopɔn ne Awurade Yesu Kristo nka mo.
-
-3 Bere biara a mekae mo no, meda Onyankopɔn ase. 4 Saa ara nso na da biara mede anigye bɔ mpae ma mo, 5 efisɛ, efi da a edi kan de besi sesɛɛ no, moaboa me wɔ asɛmpaka no adwumayɛ mu. 6 Eyi nti, migye di yiye sɛ: Onyankopɔn a ofitii ase yɛɛ saa adwuma pa yi wɔ mo mu no bɛkɔ so de akosi da a Yesu Kristo bɛba no.
-
-7 Sɛnea mo ho adwene pa wɔ me tirim no nti, sɛ daa mekae mo a, na ne kwan so ara nen. Efisɛ, sɛ meda mpokyerɛ mu anaasɛ mede me ho na mereka Asɛmpa no no, mo nyinaa ne me nya Onyankopɔn adom. 8 Onyankopɔn ankasa di me adanse sɛ m’ani agyina mo wɔ Yesu Kristo dɔ mu. 9 Me mpae a mebɔ ma mo ne sɛ, ɔdɔ a mode dodɔ mo ho mo ho no mu bɛyɛ den, na mubenyin wɔ nimdeɛ ne ntease mu 10 sɛnea ɛbɛyɛ a mubehu nea eye na da a Kristo bɛba no, moayɛ kronn a obi nka asɛm bi ntia mo. 11 Nneɛma pa a Yesu Kristo no nko betumi de ama mo no bɛhyɛ mo abrabɔ ma de ahyɛ Onyankopɔn anuonyam, akamfo no.
-
-12 Anuanom, mepɛ sɛ mote ase sɛ nneɛma a aba me so nyinaa aboa ama Asɛmpa no atrɛw. 13 Ɛno nti, awɛmfo a wɔwɔ ahemfi ha ne afoforo a wɔka wɔn ho no nyinaa nim sɛ, esiane sɛ meyɛ Kristo somfo no nti, na meda afiase. 14 Afiase a meda no ahyɛ anuanom bebree nkuran wɔ Awurade mu ma wotumi ka Onyankopɔn asɛm no wɔ akokoduru so a wonsuro hwee.
-
-15 Ɛyɛ nokware sɛ wɔn mu binom nam nitan ne ntɔkwawpɛ so ka Kristo ho asɛm foforo, na afoforo nso de adwene pa na ɛka ne ho asɛm. 16 Wɔn a wɔde adwene pa ka asɛm no fi ɔdɔ mu na ɛka, efisɛ, wonim sɛ Onyankopɔn asɛm nti na meda afiase. 17 Afoforo a wɔnam nitan ne ntɔkwawpɛ so ka asɛm no nso dwen sɛ wɔnam saa kwan yi so bɛma m’ahohiahia aboro so wɔ m’afiase nna yi mu. 18 Eyi nti na ayɛ dɛn? Ɛyɛ me anigyesɛm. Nea ehia ara ne sɛ, sɛ wofi adwene pa anaa adwemmɔne mu no, Kristo ho asɛm ara na wɔka. Na eyi nti m’ani gye na mɛkɔ so ama mani agye, 19 efisɛ, minim sɛ mo mpaebɔ ne adom a efi Yesu Kristo Honhom mmoa mu no nti, wobegyaa me. 20 Me pɛ ne m’anidaso titiriw ne sɛ, mmere nyinaa mede nsi ne anem bɛyɛ m’adwuma; mpo saa bere yi, sɛ mete ase o, sɛ miwu o, mede me nipadua nyinaa bɛhyɛ Kristo anuonyam. 21 Me de, m’ase a mete ne Kristo; na owu yɛ me mfaso. 22 Na sɛ m’ase a mete yi na ɛbɛma matumi matwetwe afoforo abrɛ Kristo a, ɛnne na asetena ne owu, minhu mu nea memfa. 23 Eyi adi me aniani; ɔpɛ na mepɛ sɛ mitu wiase ne Kristo kɔtena, efisɛ, ɛno mmom na eye; 24 nanso mo nti, sɛ mete ase nso a, anka eye.
-
-25 Minim sɛ me ho hia wɔ asase yi so ha; ɛno nti, mɛtena ha kakra na maboa mo ama moanyin wɔ gyidi mu anya anigye. 26 M’asetena yi bɛma mo ani agye na sɛ mesan bɛsra mo bio a, mubenya biribi agyina so ahyɛ Kristo anuonyam sɛ ɔbɔɔ me ho ban.
-
-27 Mprempren, ade a ɛho hia me ne sɛ, biribiara a ɛbɛto mo no, momma mo abrabɔ mfata sɛ Kristo Asɛmpa no nko sɛnea ɛbɛyɛ a sɛ yehyia o, sɛ yɛanhyia o, mɛte mo ho asɛm pa sɛ mugyina pintinn na mukita botae koro ne gyidi koro wɔ Asɛmpa no ho.
-
-28 Munnsuro mo atamfo. Biribiara a mobɛyɛ no, momfa akokoduru nnyina pintinn. Na eyi bedi adanse sɛ wobedi nkogu na moadi nkonim, efisɛ, Onyankopɔn ka mo ho. 29 Na mo de, ɛnyɛ sɛ wɔadom mo sɛ munni Kristo akyi nko, na mmom, sɛ mubehu amane nso. 30 Afei mubetumi ne me abom ako ɔko a mereko no. Saa ɔko yi na bere a atwam no, mekoe no, na migu so reko sɛnea mote no no.
-
-
-
-
-X-X-X
-1 Mo nkwa a mowɔ wɔ Kristo mu no hyɛ mo den anaa? Ne dɔ kyekye mo werɛ anaa? Mo ne Honhom no wɔ ayɔnkofa bi anaa? Mowɔ ayamye ne ayamhyehye ma mo ho mo ho anaa? 2 Sɛ ɛte saa de a, ɛnne munnya adwene koro wɔ ɔdɔ ne Honhom ne botae koro mu na m’anigye awie pɛyɛ.
-
-3 Monnyɛ pɛsɛmenkominya; monnhoahoa mo ho mfa mpɛ anuonyam hunu. Mommrɛ mo ho ase mma mo ho mo ho na mummu mo yɔnkonom nsen mo ankasa mo ho. 4 Mommma obiara nnnwen ne nko ara n’ade ho na mmom, onnwen n’afɛfo nso de ho bi.
-
-5 Momma mo abrabɔ nyinaa nyɛ sɛ Yesu Kristo de no bi. 6 Ɔno na ɔwɔ Onyankopɔn tebea mu de, nanso wanhyɛ ne ho sɛ ɔne Onyankopɔn bɛyɛ pɛ. 7 Ɔdanee ne tumi kɛse ne n’anuonyam too nkyɛn. Mmom, ofii ne pɛ mu faa akoa tebea de too ne ho so, bae sɛ onipa bɛyɛɛ n’ade sɛ onipa. 8 Ɔbrɛɛ ne ho ase, yɛɛ osetie, de koduu owu mu, asɛnnua ho wu mu mpo.
-
-9 Eyi nti Onyankopɔn maa ne so kɔɔ beae a ɛkorɔn koraa, maa no din a edi din nyinaa so. 10 Na ɛno nti, sɛ wɔbɔ Yesu din a, ɔsorofo ne asase sofo ne asase asefo nkotodwe nyinaa bɛkotow no. 11 Na tɛkrɛma nyinaa apae mu aka se, Yesu Kristo ne Awurade, de ahyɛ Agya Onyankopɔn anuonyam.
-
-12 Enti me nnamfo pa, sɛnea na me ne mo te hɔ a na mutie me no, saa ara nso na bere a minni mo nkyɛn mprempren yi, ɛsɛ sɛ mutie me ara nen. Monkɔ so mfa ahopopo ne suro nyɛ adwuma mfa nwie mo nkwagye ho adwumayɛ, 13 efisɛ, Onyankopɔn na ɔma mufi mo pɛ mu di dwuma a ɛsɔ n’ani.
-
-14 Dwuma biara a mubedi no, munnnwiinwii na munnnye ho akyinnye 15 sɛnea ɛbɛyɛ a wɔnka biribi ntia mo na mobɛyɛ kronn sɛ Onyankopɔn mma pa a wɔte wiase a nkontonpofo ne nnebɔneyɛfo ahyɛ ma tɔ no mu. Ɛsɛ sɛ mohyerɛn wɔ wɔn mu sɛ nsoromma a ɛwɔ soro 16 wɔ nkwa no ho asɛm a moka kyerɛ wɔn no mu. Sɛ moyɛ saa na Kristo Da no mede mo hoahoa me ho a, na ne kwan so ara nen, efisɛ, ɛbɛda no adi sɛ dwuma a mibedii no anyɛ kwa. 17 Ebia na ɛsɛ sɛ wohwie me mogya gu sɛ afɔrebɔde ne ɔsom a efi mo gyidi mu. Sɛ ɛba saa a, ɛbɛyɛ anigyesɛm na me ne mo nyinaa na enya saa ahosɛpɛw no. 18 Saa kwan koro no ara so na ɛsɛ sɛ mo nso mo ani gye na mo ne me nya ahosɛpɛw.
-
-19 Anidaso a mewɔ Awurade Yesu mu no nti, metumi asoma Timoteo ma waba mo nkyɛn na mo ho nsɛm a mɛte no ahyɛ me nkuran. 20 Ɔno nko ne obi a ɔwɔ ɔtema ma me na mo ho asɛm nso hia no. 21 Mo mu biara pɛ ɔno ara ne yiyedi a Yesu Kristo ho asɛm mfa ne ho. 22 Mo ankasa mudi ho adanse sɛ, wakyerɛ mu a odi; wakyerɛ nso sɛ, ɔne me te sɛ ɔba ne n’agya a wɔaka abom adi Asɛmpa no ho dwuma. 23 Sɛ mihu sɛnea nneɛma rekɔ so ma me a, ɛrenkyɛ biara mɛsoma no wɔ mo nkyɛn. 24 Na Awurade mu anidaso a mewɔ nti, minim sɛ ɛrenkyɛ biara m’ankasa mɛba mo nkyɛn.
-
-25 M’adwene ho sɛ, mɛsoma yɛn nua Epafrodito a wayɛ adwuma, na wadi me nkyɛn mu ako na wasom mo sɛ somafo de aboa me no wɔ mo nkyɛn. 26 Ne ho pere no sɛ obehu mo nyinaa na ɛhaw no nso sɛ motee ne nka sɛ ɔyare. 27 Ampa ara, na ɔyare a anka ɔreyɛ awu. Nanso Onyankopɔn huu no ne me nso mmɔbɔ, efisɛ, wamma manni awerɛhow.
-
-28 Me ho peree me yiye sɛ mɛsoma no mo nkyɛn na muhu no a, mo ani asan agye bio na me nso m’awerɛhow to atwa. 29 Momfa ahosɛpɛw nnye no sɛ onua wɔ Awurade mu. Momfa obu ne nidi mma nnipa a wɔte sɛ ɔno nyinaa, 30 efisɛ, ɔde ne nkwa bɔɔ afɔre a ɛnam so maa anka ɔrewu ama Kristo adwuma de aboa me a anka morentumi mmoa saa no.
-
-
-
-X-X-X
-
-1 Anuanom, asɛm a mede rewie ne sɛ, momma mo ani nnye wɔ Awurade mu. Ɛnhaw me sɛ meti nsɛm a makyerɛw dedaw no mu. Eye ma mo akwankyerɛ.
-
-2 Monhwɛ nnebɔneyɛfo no a wɔte sɛ akraman a wɔka se twa na ɛsɛ sɛ onipa twa ne ho sie no yiye. 3 Ɛyɛ yɛn na ɛnyɛ wɔn na yɛagye twetiatwa ato mu, efisɛ, yɛnam Onyankopɔn Honhom so som no na hyɛ a yɛde yɛn ho ahyɛ Kristo Yesu mu no nti, yenya ahosɛpɛw. Yɛmfa yɛn ho nto amanne so.
-
-4 Sɛ obi wɔ hɔ a odwen sɛ sɛ ɔde ne ho to amanne so na eye a, anka ɛyɛ me. 5 Bere a midii nnawɔtwe pɛ na wotwaa me twetia. Meyɛ Israelni fi m’awosu mu. Mifi Benyamin abusua a wɔyɛ Hebrifo kronn no mu. Sɛ wɔka Yudafo mmara sodi ho asɛm nso a, meyɛ Farisini 6 a na me ho pere me sɛ mɛtaa Kristo. Sɛ Mmara no sodi nko na ɛma obi yɛ ɔtreneeni a, ɛnne na me ho nni mfomso biara.
-
-7 Nanso nneɛma a na mefa no sɛ ɛyɛ mfaso nyinaa no esiane Kristo nti, ayɛ adehwere. 8 Ɛnyɛ ɛno nko, na migye midi nso sɛ biribiara nkyɛn sɛ wode wo ho bɛto Kristo Yesu a ɔyɛ m’awurade no so. Ne nti matow biribiara akyene. Mefa ne nyinaa sɛ nneɛma hunu bi, sɛnea ɛbɛyɛ a me nsa bɛka Kristo, 9 na wo ne no ayɛ baako. Afei meremfa m’ahoɔden mpere sɛ mɛyɛ pɛ, pɛyɛ a efi Mmara no mu no. Na mmom mehwehwɛ pɛyɛ a efi Kristo mu gyidi ne Onyankopɔn mu a gyidi na ɛyɛ ne fapem. 10 Nea merehwehwɛ ara ne sɛ, mehu Kristo na menya ne wusɔre no mu suahu, na mahu n’amane no bi, na mayɛ sɛ ɔno wɔ ne wu no mu, 11 a mewɔ anidaso sɛ, me nso me wu akyi, wɔbɛma me asɔre afi owu mu.
-
-12 Menka se madi nkonim anaasɛ meyɛ pɛ. Merebɔ ho mmɔden sɛ medi nkonim a ka a Kristo aka me abata ne ho no nti, wadi ama me no.
-
-13 Nanso anuanom, minnye nni sɛ madi saa nkonim no. Ade baako a ɛsɛ sɛ meyɛ ne sɛ, ɛsɛ sɛ me werɛ fi m’akyi na meyere me ho sɛnea ɛbɛyɛ a medu nea ɛwɔ m’anim no ho. 14 Eyi nti, mitu mmirika kɔ m’anim tee na madu soro botae no a Onyankopɔn nam Kristo Yesu so afrɛ me no ho.
-
-15 Ɛsɛ sɛ yɛn a yenyin wɔ Honhom mu no nyinaa dwen saa. Sɛ mo mu bi nso wɔ adwene foforo a, Onyankopɔn bɛda no adi akyerɛ mo. 16 Momma yɛnkɔ so nni mmara a yɛnam so abɔ yɛn bra abesi nnɛ no so.
-
-17 Anuanom, monkɔ so nsuasua me. Yɛama mo nhwɛso pa nti muntie wɔn a wɔwɔ saa nhwɛso pa no. 18 Maka saa asɛm yi akyerɛ mo sɛ, nnipa bebree wɔ hɔ a wɔn abrabɔ ma wɔyɛ Kristo wu a owui wɔ asɛnnua no ho no atamfo. 19 Saa nnipa no bɛkɔ ɔsɛe mu, efisɛ, wɔn nyame ara ne wɔn honam mu nneɛma. Wɔma wɔn ho so wɔ nneɛma a ɛsɛ sɛ wɔn ani wu ho no ho, na wodwen wiase nneɛma nko ara ho. 20 Yɛn de, yɛyɛ ɔsoro mma na yɛde ahosɛpɛw twɛn yɛn Agyenkwa a ɔyɛ yɛn Awurade Yesu Kristo a ofi soro bɛba no. 21  Ɔnam tumi a etumi ma biribiara hyɛ n’ase no so bɛsakra yɛn nipadua a ɛyɛ mmerɛw na ewu no, na wayɛ no sɛ ne de a ɛwɔ anuonyam no.
-
-
-
-
-
-X-X-X
-
-1 Enti anuanom, medɔ mo na m’ani agyina mo. Moama me ho asan me enti me nso mede mo hoahoa me ho. Adɔfonom, saa na ɛsɛ sɛ mugyina pintinn wɔ Awurade mu.
-
-2 Euodia ne Sintike, mesrɛ mo, montena ase sɛ anuanom wɔ Awurade mu. 3 Na wo nso a woka me ho a migye wo di no, mepɛ sɛ woboa saa mmea yi, efisɛ, wɔde wɔn ahoɔden nyinaa aboa me ama Asɛmpa no mu atrɛw a Klemens ne m’ahokafo bi a wɔn din hyɛ Onyankopɔn nkwa nhoma no mu no nso ka ho.
-
-4 Meka ti mu bio sɛ daa munnya ahosɛpɛw wɔ Awurade mu; mo ho nsɛpɛw mo!
-
-5 Mommrɛ mo ho ase mma nnipa nyinaa. Ɛrenkyɛ, Awurade bɛba. 6 Mommma biribiara nnhaw mo. Daa mo mpaebɔ nyinaa mu, momfa koma pa mmisa Onyankopɔn nea ehia mo. 7 Na Onyankopɔn asomdwoe a ɛtra ade nyinaa so no, bɛhwɛ mo koma ne mo adwene so Kristo Yesu mu.
-
-8 Anuanom, asɛm a mede rewie ne sɛ, nea ɛyɛ nokware, nea ɛwɔ anuonyam, nea ɛteɛ, nea ɛho tew, nea ɛwɔ ɔdɔ, nea ɛwɔ din pa, sɛ ɔbra pa bi wɔ hɔ a, sɛ ayeyi bi wɔ hɔ a, saa nneɛma yi ho na munnwen. 9 Nea moasua na moanya afi me nkyɛn wɔ nsɛm ne nneyɛe mu no na monyɛ. Na Onyankopɔn a ɔma yɛn asomdwoe no bɛka mo ho.
-
-10 M’ani gye wɔ Awurade mu sɛ afei de moakyerɛ ɔdɔ a mode dɔ me. Ɛyɛ nokware sɛ modɔ me de, nanso na munnya ho kwan nkyerɛ saa. 11 Menka saa asɛm yi nkyerɛ sɛ moapa me, efisɛ, masua ama akokwaw me sɛ tebea biara a mewɔ mu no, mepɛ. 12 Minim ohia, nim ahonya. Masua saa ahintasɛm yi enti baabiara ne bere biara, sɛ ɔkɔm de me anaa mamee, sɛ mewɔ pii anaa kakraa bi no, mepɛ no saa ara. 13 Ahoɔden a Kristo de ma me no nti, mitumi gyina tebea biara ano. 14 Eye sɛ moboaa me wɔ m’amanehunu mu.
-
-15 Mo Filipifo no ankasa nim pefee sɛ bere a mifii Makedonia a na merefiti Asɛmpa no ka no ase no, mo nko ara ne asafo a moboaa me. Mo nko ara na moka nea minyae ne nea mehweree ho. 16 Mewɔ Tesalonika no, bere biara a biribi ho behia me no, mode brɛ me. 17 Ɛnyɛ sɛ ɔpɛ na na mepɛ sɛ minya akyɛde na mmom, nhyira a mubenya wɔ mu na na mepɛ sɛ mihu.
-
-18 Me nsa aka biribiara a mode abrɛ me ma aboro so. Afei a Epafrodito de akyɛde no nyinaa abrɛ me yi, me nsa aka biribiara a ɛho hia me. Eyinom te sɛ afɔrebɔde huamhuam a wɔbɔ ma Onyankopɔn, na ogye, na n’ani sɔ. 19 Me Nyankopɔn fi ne nnepa a ɔwɔ wɔ Kristo Yesu mu bɛma mo nea ehia mo nyinaa. 20 Anuonyam nka yɛn Agya Nyankopɔn daa daa. Amen.
-
-21 Mikyia ahotefo no wɔ Kristo Yesu mu. Anuanom a wɔne me wɔ ha no nso kyia mo. 22 Ahotefo no nyinaa kyia mo na ne titiriw no, ɔhempɔn Kaesare fifo.
-
-23 Awurade Yesu Kristo adom nka mo nyinaa.
-
-
-X-X-X
-
-1 Saa krataa yi fi Paulo a ɛnam Onyankopɔn pɛ so nti, ɔyɛ Kristo somafo no ne yɛn nua Timoteo nkyɛn.
-
-2 De kɔma ahotefo a wɔwɔ Kolose a wɔyɛ Kristo mu gyidifo no: Adom ne asomdwoe a efi yɛn Agya Onyankopɔn nka mo.
-
-3 Bere biara a yɛbɔ mpae ma mo no, yɛda Onyankopɔn a ɔyɛ Awurade Yesu Kristo Agya no ase. 4 Efisɛ, yɛate mo gyidi a mowɔ wɔ Kristo Yesu mu ne dɔ a modɔ ahotefo no. 5 Da a edi kan a motee Asɛmpa no, munyaa mu anidaso a ɛwɔ hɔ ma mo. Enti mo gyidi ne mo dɔ a mowɔ no gyina mo anidaso a mowɔ a wɔakora no wɔ ɔsoro ama mo no so. 6 Efi da a edi kan a motee Onyankopɔn adom na muhuu sɛnea ɛte no, Asɛmpa no de nhyira abrɛ wiase mmaa nyinaa, na trɛw ara na ɛretrɛw sɛnea muhu no wɔ mo mu no.
-
-7 Ɛnam Epafra a ɔyɛ yɛn nua somfo a ɔde gyidi yɛ Kristo adwuma ma yɛn no so na muhuu eyi. 8 Ɔkaa ɔdɔ a Honhom no de ama mo no kyerɛɛ yɛn.
-
-9 Esiane saa nti, efi bere a yɛtee mo nka no, yɛbɔ mpae ma mo daa. Yebisa Onyankopɔn sɛ omfi ne pɛ mu mma mo nyansa ne ntease a ne Honhom de ma no. 10 Ɛba saa a na mubetumi atena ase sɛnea Awurade hwehwɛ na bere biara nso, mobɛyɛ nea ɛsɔ n’ani. Dwuma biara a mubedi no, ɛbɛsow aba pa na mubenyin wɔ Onyankopɔn ho nimdeɛ mu.
-
-11 Yɛrebɔ mpae nso sɛ ne tumi ne n’ahoɔden bɛhyɛ mo ma sɛnea ɛbɛyɛ a ɔkwan biara so, mode Awurade mu ahosɛpɛw ne boasetɔ begyina biribiara ano. 12 Momfa ahosɛpɛw nna Agya no a ɛnam ne so nti, moanya nea Onyankopɔn akora so ama n’ahotefo a wɔwɔ ne hann no mu no bi no ase. 13 Ogyee yɛn fii sum tumi ase de yɛn baa ne dɔ Ba no ahenni mu dwoodwoo, 14 na ne nti na wɔama yɛade yɛn ho na wɔde yɛn bɔne akyɛ yɛn.
-
-15 Kristo yɛ Onyankopɔn a wonhu no no sɛso. Ɔno ne Abakan a odi abɔde nyinaa so. 16 Efisɛ, ɛnam ne so na Onyankopɔn bɔɔ biribiara a ɛwɔ soro ne asase so, nea wohu ne nea wonhu, honhom mu atumfo, awuranom ne ahemfo. Onyankopɔn nam ne so na ɔbɔɔ wiase nyinaa na ɔbɔ maa no nso. 17 Na ɔwɔ hɔ ansa na wɔrebɔ biribiara na ne mu na biribiara nya n’afa pɛpɛɛpɛ. 18 Asafo no yɛ ne nipadua; na ɔno na ɔyɛ asafo no ti. Ɔno na nipadua no nkwa fi no. Ɔno ne Abakan a wonyanee no fii awufo mu sɛnea ɛbɛyɛ a ɔno nko ara bedi ade nyinaa mu kan. 19 Efi Onyankopɔn no ankasa pɛ mu na Ɔba no anya Onyankopɔn su nyinaa wɔ ne mu. 20 Ɛnam ne Ba no so na Onyankopɔn fi ne pɛ mu de wiase nyinaa san bɛhyɛɛ ɔno ankasa ase. Onyankopɔn nam ne Ba no wu a owui asɛnnua so no de asomdwoe bae, enti ɔde nneɛma a ɛwɔ asase so ne ɔsoro nyinaa ahyɛ n’ase.
-
-21  Bere bi a atwam no, esiane sɛ na moyɛ bɔne na modwene bɔne ho nti, na mo ne Onyankopɔn ntam kwan ware a na moyɛ n’atamfo nso. 22 Nanso ɛnam ne Ba no wu so nti, Onyankopɔn afa mo nnamfo sɛnea ɛbɛyɛ a mobɛyɛ kronn a bɔne biara nni mo ho wɔ n’anim. 23 Ɛsɛ sɛ mokɔ so ma mo gyidi mu yɛ den a momma ho kwan mma mo anidaso a munyaa no da a edi kan a motee Asɛmpa no nhinhim. Saa Asɛmpa a wɔka kyerɛ nnipa nyinaa yi nti, na me, Paulo, mebɛyɛɛ ɔsomfo no.
-
-24 Ɛyɛ me anigye sɛ merebrɛ mo ho. Menam me honam mu amane a merehu so boa nea aka wɔ Kristo amanehunu a ohui wɔ ne honam mu a egyina hɔ ma asafo no no.
-
-25 Onyankopɔn a mo yiye di nti, ɔde saa dwuma yi hyɛɛ me nsa no ayɛ me asafo no somfo. Dwumadi no yɛ n’asɛm no ka, 26 a ɛyɛ ahintasɛm a mfe bebree a atwam no, ɔde hintaw adasamma nanso afei de, wada no adi akyerɛ n’ahotefo. 27 Onyankopɔn nhyehyɛe ne sɛ, ɔbɛda n’ahintasɛm a anuonyam wɔ mu no adi akyerɛ n’ahotefo. Ahintasɛm no ne sɛ: Kristo te mo mu; n’asekyerɛ ne sɛ Onyankopɔn anuonyam no ka mo.
-
-28 Ɛno nti, yɛka Kristo ho asɛm kyerɛ nnipa nyinaa. Yɛnam adwene pa so bɔ obiara kɔkɔ kyerɛkyerɛ no sɛnea ɛbɛyɛ a obiara a yɛde no bɛhyɛ Onyankopɔn nsa no, na ɔyɛ onipa a n’adwene mu abue na ɔne Kristo nso ayɛ baako. 29 Ansa na metumi adi saa dwuma no, na efi tumi a Kristo nam n’ahoɔden so de ama me no.
-
-
-
-X-X-X
-
-1 Mepɛ sɛ mema mo ne nnipa a wɔwɔ Laodikea no ne wɔn a wonhuu me da no hu adwuma dennen a mereyɛ ma wɔn. 2 Me botae ne sɛ, wobenya nkuranhyɛ wɔ wɔn koma mu na wɔatena ase ɔdɔ mu sɛnea ɛbɛyɛ a mubenya gyidi a ntease de ba no. Na wobehu Onyankopɔn a ɔyɛ Kristo ankasa no. 3 Ɔno so na wɔnam hu Onyankopɔn nyansa ne n’adwene.
-
-4 Meka kyerɛ mo se, mommma obiara mmfa akyinnye hunu nnaadaa mo a ɛmfa ho sɛ woye anaa wonye. 5 Ɛwom sɛ minni mo nkyɛn wɔ ɔhonam fam de, nanso mewɔ mo nkyɛn wɔ honhom fam. Ɛyɛ me anigye nso sɛ monam Kristo mu gyidi so aka mo ho abom gyina hɔ pintinn.
-
-6 Esiane sɛ moagye Kristo sɛ mo wura nti, mo ne no mmom ntena. 7 Munnye ntini wɔ ne mu; momfa mo nkwa nto ne so na mo gyidi mu nyɛ den daa sɛnea wɔkyerɛɛ mo no na monna so ase.
-
-8 Monhwɛ yiye na obi amfa ne nnaadaa a efi nnipa nkyerɛkyerɛ ne wiase ahonhom mu a emfi Kristo no amfa mo dommum. 9 Efisɛ, Kristo mu na Onyankopɔn te 10 na wama mo ho kwan sɛ mo ne no nyɛ baako. Ɔkorɔn sen honhom ne tumi biara.
-
-11 Mo ne no ka boom no, wotwaa mo twetia a ɛnyɛ nnipa na wotwaa mo na mmom, ɛyɛ Kristo no ankasa na otwaa mo de tew mo fii nipadua a ɛho ntew no tumi ase. 12 Wɔbɔɔ mo asu no nso, wosiee mo ne Kristo. Na asubɔ no ara mu wɔnam mo gyidi a efi Onyankopɔn tumi a ɛyɛ den so nti onyanee Kristo fii awufo mu no so, nyanee mo ne Kristo.
-
-13 Esiane mo bɔne nti, bere bi a atwam no, na moyɛ honhom mu awufo na afei ɛma moyɛɛ Amanamanmufo a munni Mmara. Nanso afei Onyankopɔn agye mo nkwa de mo abata Kristo ho. Onyankopɔn de yɛn nyinaa bɔne akyɛ yɛn. 14 Ɔnam ne mmara so atwa yɛn bɔne mu afi ne nhoma mu abɔ yɛn bɔne no asɛnnua mu. 15 Saa asɛnnua no so na Kristo gyee ne ho fii honhom mu atumfo nsam. Bere a Onyankopɔn maa Kristo dii nkonim wɔ asɛnnua a ɛpataa yɛn bɔne no so no, ɔmaa wiasefo nyinaa hui.
-
-16 Enti mommma obiara nnhyehyɛ mmara a ɛfa nea mudi anaa monom, nea ɛfa nna kronkron anaa nea ɛfa asram foforo afahyɛ anaa nea ɛfa Homeda ho mmma mo. 17 Saa nneɛma no nyinaa yɛ daakye mu nsɛm sunsum. Kristo ne ɔpapa no. 18 Mommma obiara a esiane sɛ ɔfa no sɛ wanya anisoadehu nti ɔka ahobrɛase a enni mu ne abɔfosom ho asɛm no mmu mo atɛn. Saa ahantanfo yi, ɛwom sɛ wɔfa wɔn ho sɛ ahobrɛasefo, wɔ anifere su. 19 Saa nnipa no ne Kristo no a ɔyɛ Ti na yɛn nyinaa yɛ nipadua a wɔaka abom no nni ayɔnkofa. Kristo tumi nti, nipadua no nyinaa nya n’apɛde, na apɔw so ne ntini akɛse suso mu ma ɛbɔ mu baako na enyin sɛnea Onyankopɔn pɛ sɛ enyin no.
-
-20 Mo ne Kristo awu nti moatew mo ho afi ahonhom a wodi wiase so no ho. Adɛn nti na mobɔ mo bra sɛ nnipa a wɔhyɛ saa wiase no ase? Adɛn nti na mudi saa mmara no so se, 21 “Munnso eyi mu,” “Munnni eyi,” “Mommfa mo nsa nka afoforo?” 22 Nso sɛ wɔde eyinom nyinaa di dwuma a, ne nyinaa sɛe. Ɛyɛ onipa mmara ne ne nkyerɛkyerɛ. 23 Mmara a ɛte saa a wɔhyɛ wɔ ɔsom mu, boa pa kyerɛ ahobrɛase su, hyɛ nnipa ketee no ho nni mfaso biara ma nipadua no.
-
-
-
-X-X-X
-
-1 Wɔanyan mo ne Kristo aba nkwa mu. Ne saa nti, nneɛma a ɛwɔ soro a ɛno nti Kristo te n’ahengua so wɔ Onyankopɔn nifa so no na monhwehwɛ. 2 Saa nneɛma no na momma mo adwene nkɔ so na ɛnyɛ fam nneɛma. 3 Efisɛ, moawu na wɔde mo nkwa asie mo ne Kristo wɔ Onyankopɔn mu. 4 Na sɛ Kristo a ɔyɛ mo nkwa no ba a, mo ne no na ɛbɛba wɔ n’anuonyam mu.
-
-5 Wiase akɔnnɔde te sɛ aguamammɔ, afideyɛ, bɔne ne anibere a ɛyɛ abosonsomsɛm no nyinaa, munyi mfi mo abrabɔ mu. 6 Wɔn a wɔbɛyɛ asoɔden wɔ saa nneɛma no ho no, Onyankopɔn abufuw bɛba wɔn so. 7 Bere bi a atwam no, esiane sɛ na akɔnnɔsɛm di mo abrabɔ so nti, na mo ankasa mudi mo akɔnnɔ akyi. 8 Afei munnyae saa nneɛma yi nyinaa: abufuw, bɔnepɛ, ne ɔtan. Monnyeyaw obi anaa mommma kasa a ɛho ntew mmfi mo anom.
-
-9 Munnnidi atoro nkyerɛ mo ho, efisɛ, moatow nipadua dedaw ne ne su no akyene 10 de nipadua foforo asi ananmu. Oyi ne onipa foforo a daa Onyankopɔn a ɔbɔɔ no no sesa no wɔ ne suban so nam so ma muhu nsɛm a ɛfa ne ho nyinaa. 11 Esiane saa nti, Amanamanmufo ne Yudafo, twetiatwafo ne momonotoyɛ, awudifo, nkoa ne wɔn a wɔde wɔn ho nni hɔ bio. Kristo ne ne nyinaa. Kristo wɔ biribiara mu.
-
-12 Moyɛ Onyankopɔn nkurɔfo. Ɔpɛ mo asɛm nti na oyii mo sɛ ne de. Enti monyɛ timmɔbɔ, ayamye, mommrɛ mo ho ase, munnwo na monyɛ abodwokyɛre. 13 Mommoaboa mo ho mo ho na obi fom ne yɔnko a, momfa nkyekyɛ mo ho. Sɛnea Awurade de akyɛ mo no, saa ara na mo nso momfa nkyekyɛ mo ho mo ho.
-
-14 Eyi nyinaa akyi no, momfa ɔdɔ a ɛde biakoyɛ ba no nka mo abrabɔ ho. 15 Momma Kristo asomdwoe no ntena mo koma mu. Saa asomdwoe yi ho na wɔafrɛ mo nyinaa sɛ nnipa koro no. Momma mo ani nsɔ.
-
-16 Kristo asɛm no ne mu nnepa nyinaa ntena mo koma mu. Momfa nyansa nkyerɛkyerɛ. Monto asanku so nnwom ne ayeyi nnwom ne honhom mu nnwom. Mumfi mo koma mu nto aseda nnwom mma Onyankopɔn. 17 Biribiara a moyɛ anaa moka no, monyɛ wɔ Awurade Yesu din mu na momfa ne so nna Agya Onyankopɔn ase.
-
-18 Ɔyerenom, mommrɛ mo ho ase mma mo kununom sɛnea ɛsɛ Awurade mu.
-
-19 Okununom, monnɔ mo yerenom na monnhyɛ wɔn ahometew.
-
-20 Mma, ade nyinaa mu, muntie mo awofo asɛm na eyi na ɛsɔ Onyankopɔn ani.
-
-21 Awofo, munnyi mo mma abufuw na ammu wɔn aba mu.
-
-22 Asomfo, ade nyinaa mu, muntie mo wuranom asɛm. Ɛnyɛ sɛ wɔn ani tua mo nti na ɛsɛ sɛ moyɛ na wɔpene mo na mmom, esiane sɛ mudi Awurade ni no nti, momfa koma pa nyɛ. 23 Biribiara a moyɛ no, momfa mo koma nyinaa nyɛ na momfa no sɛ moreyɛ ama Awurade na monyɛ mma nnipa. 24 Monkae sɛ Awurade bɛkyɛ mo so ade. Mo nsa bɛka ade a ɔde asie ama ne nkurɔfo no bi. Kristo ne Owura a mosom no. 25 Ɔdebɔneyɛfo te dɛn ara a, bɔne a ɔyɛ no so akatua na obenya a animhwɛ biara nni mu.
-
-
-
-
-X-X-X
-
-1 Awuranom, momma mo asomfo nea eye na ɛteɛ. Monkae sɛ mo nso mowɔ Owura wɔ soro.
-
-2 Mommɔ mpae daa. Mo mpaebɔ mu, monyɛ nnam na monna Onyankopɔn ase. 3 Bere koro no ara mu, mommɔ mpae mma yɛn nso na Onyankopɔn ama yɛn mu kwan ama yɛatumi aka Asɛmpa no ne Kristo ho ahintasɛm. Efisɛ, ɛno nti na meda afiase no. 4 Mommɔ mpae na matumi akasa ama ntease aba mu sɛnea ɛsɛ sɛ mekasa.
-
-5 Bere biara a mubenya kwan ne wɔn a wɔnyɛ gyidifo no ahyia no, mo ne wɔn nkasa nyansa mu. 6 Daa monka kasa pa a ɛyɛ anigye nkyerɛ wɔn na momma wɔn mu biara mmuae pa.
-
-7 Yɛn nuabarima pa Tihiko a ɔyɛ odwumayɛfo pa na ɔsan yɛ Awurade adwumayɛ mu somfo no bɛka me ho asɛm akyerɛ mo. 8 Ɛno nti na meresoma no wɔ mo nkyɛn sɛ ɔmmɛka sɛnea yɛrekɔ so fa mfa nhyɛ mo den no. 9 Onua Onesimo a ɔyɛ nokwafo ɔdɔfo na ɔsan fra mo kuw mu no ne no na ɛreba. Wɔbɛka biribiara a ɛrekɔ so wɔ ha akyerɛ mo.
-
-10 Me yɔnko Aristarko a ɔne me da afiase no kyia mo. Saa ara na Barnaba ne nua Marko nso kyia mo. Wɔaka akyerɛ mo se sɛ ɔba mo nkyɛn a, munnye no fɛw so. 11 Yosua a wɔfrɛ no Yusto no nso kyia mo. Saa nnipa baasa yi nko ara ne Yudafo a wɔasakra wɔn adwene a me ne wɔn reyɛ Onyankopɔn ahenni no ho adwuma a wɔaboa me yiye.
-
-12 Kristo Yesu somfo a wɔfrɛ no Epafra a ɔfra mo kuw mu no nso kyia mo. Daa ɔbɔ mpae dennen srɛ Onyankopɔn sɛ ɔnhyɛ mo den na ɔmma mo nyansa na mommrɛ mo ho ase mma n’apɛde. 13 Metumi adi ne nsiyɛ ho adanse akyerɛ mo ne nnipa a wɔwɔ Laodikea ne Hierapoli no.
-
-14 Luka a ɔyɛ yɛn yaresafo pa no ne Dema kyia mo.
-
-15 Yekyia anuanom a wɔwɔ Laodikea ne Nimfa ne asafo a wohyia wɔ ne fi no. 16 Sɛ mokan saa nhoma yi wie a, monhwɛ sɛ mobɛkan akyerɛ asafo a wɔwɔ Laodikea no saa ara nso na monkan nhoma a efi Laodikea no. 17 Monka nkyerɛ Arkipo se, “Bɔ mmɔden sɛ wubewie ɔsom a wɔde ahyɛ wo nsa wɔ Awurade din mu no.”
-
-18 Me, Paulo, me nsa ano nkyerɛw a mede kyia mo ni: Monkae me mpokyerɛ no. Onyankopɔn adom nka mo.
-
-
-X-X-X
-
-1 Saa nhoma yi fi Paulo, Silas ne Timoteo nkyɛn. Wɔde kɔma Tesalonika asafo a wɔyɛ Agya Onyankopɔn ne Awurade Yesu Kristo mma no: Adom ne asomdwoe nka mo.
-
-2 Daa yesi mo ananmu da Onyankopɔn ase ma mo na yɛkae mo wɔ yɛn mpaebɔ mu nso. 3 Efisɛ, yɛkae mo gyidi a mode di dwuma, mo dɔ a ɛma mutumi de nsi yɛ adwuma ne mo anidaso dennen a mowɔ wɔ yɛn Awurade Yesu Kristo mu no wɔ yɛn Nyankopɔn ne Agya no anim.
-
-4 Anuanom, yenim sɛ Onyankopɔn dɔ mo nti na wayi mo sɛ ɔno ankasa ne de no. 5 Sɛ yɛbɛkaa Asɛmpa no kyerɛ mo a, ɛnyɛ nsɛm bi kwa na mmom yegyina tumi ne Honhom Kronkron ne mu nokware mu gyidi so. Munim sɛnea bere a na yɛne mo wɔ ha no mo yiyedi mu nti na ɛmaa yɛne mo tenae. 6 Musuasuaa yɛn ne Awurade; na ɛwom sɛ muhuu amane de, nanso mode anigye a efi Honhom Kronkron no mu gyee asɛm no.
-
-7 Ɛnam so ma mobɛyɛɛ nhwɛso maa gyidifo a wɔwɔ Makedonia ne Hela no nyinaa. 8 Nsɛm a moka faa Awurade ho no ankɔ Makedonia ne Hela nko, na mmom, gyidi a mowɔ wɔ Onyankopɔn mu no ho asɛm adu baabiara. Asɛm biara nni hɔ a ɛsɛ sɛ yɛka bio. 9 Saa nnipa no nyinaa ka gye a yɛbɛsraa mo no, mugyee yɛn ne twe a motwee mo ho fii ahoni ho na mode mo ho maa Onyankopɔn, som nokware ne ɔteasefo Nyankopɔn no 10 na moatwɛn ne Ba a ofi soro no; ne Ba Yesu a onyanee no fi awufo mu a ogye yɛn fi Onyankopɔn abufuw a ɛreba no mu no.
-
-
-X-X-X
-
-
-1 Anuanom, mo ankasa munim sɛ nsra a yɛbɛsraa mo no anyɛ ɔkwa. 2 Munim ayaayaade a wɔyɛɛ yɛn ne ɔyaw a wɔyaw yɛn wɔ Filipi ansa na yɛreba mo nkyɛn wɔ Tesalonika. Ɛwom sɛ na nnipa bi tia yɛn de, nanso yɛn Nyankopɔn hyɛɛ yɛn den ma yɛkaa Asɛmpa a efi ne mu no. 3 Asɛmpa a yɛka kyerɛɛ mo no mfi adwemmɔne anaa nnaadaa mu na mmom, nea yɛkae no yɛ nokware turodoo.
-
-4 Daa yɛka nokware sɛnea Onyankopɔn hwehwɛ yɛn sɛ yɛnka no, efisɛ, ɔpene so na ɔde Asɛmpa no nso ama yɛn sɛ yɛnka. Yɛmpɛ sɛ yɛsɔ nnipa ani na mmom Onyankopɔn a ɔsɔ yɛn adwene hwɛ no ani na yɛpɛ sɛ yɛsɔ. 5 Munim pefee sɛ yɛamma ha sɛ yɛrebɛka nnaadaasɛm akyeerɛ mo anaasɛ yɛrebɛka nsɛm sikanibere so. Onyankopɔn ne yɛn adanse. 6 Sɛ moyɛ Kristo asomafo no nti, anka yɛwɔ ho kwan sɛ yɛpɛ anuonyam fi mo nkyɛn nanso yemmisaa anuonyam mfii mo anaasɛ onipa foforo bi nkyɛn. 7 Na yɛwɔ mo nkyɛn no na yɛne mo te odwo so sɛnea ɔbeatan korɔkorɔ ne mma. 8 Esiane sɛ na yɛdɔ mo no nti, na ɛnyɛ Asɛmpa no nko ara na na mowɔ mu kyɛfa na mmom yɛn ankasa yɛn abrabɔ nso ka ho bi. Na yɛdɔ mo pa ara.
-
-9 Anuanom, minim sɛ mokae adwuma a yɛyɛe ne brɛ a yɛbrɛe. Yɛyɛɛ adwuma awia ne anadwo sɛnea Onyankopɔn Asɛmpa no ka a yɛka kyerɛɛ mo no, yɛremfa ɔhaw bi mmɛto mo so.
-
-10 Mo ne Onyankopɔn yɛ yɛn adansefo. Yɛn suban a yɛdaa no adi kyerɛɛ mo a mugyee Asɛmpa no dii no yɛ kronn a eye na mfomso biara nni ho. 11 Mo ara munim sɛ yɛne mo tenae sɛnea agya ne n’ankasa mma tena. 12 Yɛhyɛɛ mo nkuran; yɛkyekyee mo werɛ na yɛkɔɔ so tuu mo fo sɛ montena ase wɔ ɔkwan a ɛsɔ Onyankopɔn a ɔfrɛ mo wɔ n’ahenni ne n’anuonyam mu no so.
-
-13 Daa yɛbɛda Onyankopɔn ase wɔ saa asɛm yi ho. Bere a yɛkaa Onyankopɔn asɛm kyerɛɛ mo no, mutiei, gye dii sɛ ɛnyɛ asɛm a efi onipa nkyɛn na mmom, ampa ara sɛ, efi Onyankopɔn nkyɛn. Mo a moagye adi no, Onyankopɔn yɛ adwuma wɔ mo mu.
-
-14 Anuanom, nsɛm a ɛtotoo Onyankopɔn asafo a na ɛwowɔ Yudea ne nnipa a wɔwɔ hɔ a na wɔyɛ Kristo Yesu nkurɔfo no bi ara na ato mo yi. Ɔtaa a mo ara mo manfo taa mo no, saa ara na Yudafo no nso taa asafo no, 15 kum Awurade Yesu ne adiyifo no taa yɛn nso. Onyankopɔn ani nsɔ wɔn na nnipa bo fuw wɔn. 16 Wɔbɔ mmɔden sɛ wobesiw yɛn kwan sɛnea ɛbɛyɛ a yɛrentumi nkɔka asɛm a ɛbɛma Amanamanmufo no nkwagye nkyerɛ wɔn. Eyi ma daa wɔn bɔne kɔ so. Na Onyankopɔn abufuw wɔ wɔn so.
-
-17 Yɛn de, anuanom, tetew a yɛtetew mu kakraa a emfi yɛn no nanso ɛyɛ honam fam no, yɛn ani gyinaa mo na yɛbɔɔ ho mmɔden sɛ yebehu mo bio. 18 Yɛpɛe sɛ yɛbɛsan aba mo nkyɛn. Me Paulo de, na mepɛ sɛ meba hɔ boro pɛnkoro nanso ɔbonsam amma yɛn ho kwan. 19 Nanso ne nyinaa akyi no, mo nko ara ne yɛn anidaso ne yɛn ahosɛpɛw na sɛ yebetumi ahoahoa yɛn ho nkonimdi mu wɔ Awurade Yesu anim wɔ ne ba no mu a, egyina mo so. 20 Nokwarem, yɛn ahohoahoa ne yɛn ahosɛpɛw gyina mo so.
-
-
-X-X-X
-
-
-1 Akyiri yi a mihui sɛ meyɛ ho hwee a ɛnyɛ ye no, meyɛɛ m’adwene sɛ me nko ara mɛtena Atene. 2 Enti yɛsomaa yɛn nua Timoteo a yɛne no yɛ Onyankopɔn adwuma no sɛ ɔnkɔka Asɛmpa a ɛfa Kristo ho mfa mmoa, nhyɛ mo gyidi den, 3 sɛnea ɛbɛyɛ a ɔtaa no nti, mo mu biara mmɔ hu. Mo ara munim sɛ saa ɔtaa no yɛ Onyankopɔn pɛ a wahyehyɛ ama yɛn. 4 Bere a na yɛne mo wɔ hɔ no, yedii kan ka kyerɛɛ mo se, wɔbɛtaa yɛn na sɛnea munim no, saa pɛpɛɛpɛ na aba yi.
-
-5 Ɛno nti na mesomaa Timoteo. Esiane sɛ na asɛm no hyɛ me so nti, mesomaa no sɛ ɔmmɛhwɛ mo gyidi mu. Na misuro sɛ ɔbonsam na wasɔ mo ahwɛ ama dwuma a yɛadi no nyinaa ayɛ ɔkwa.
-
-6 Afei Timoteo afi mo nkyɛn aba yɛn nkyɛn abɛka anigyesɛm a ɛfa mo gyidi ne mo dɔ ho asɛm akyerɛ yɛn. Waka akyerɛ yɛn se daa modwene yɛn ho adwene pa na mopɛ sɛ muhu yɛn sɛnea yɛn nso yɛpɛ sɛ yɛhu mo no ara pɛ. 7 Enti yɛn haw ne yɛn amanehunu no mu no, moahyɛ yɛn nkuran, 8 efisɛ, sɛ mugyina pintinn wɔ Awurade mu a, na ɛma yɛn nso yetumi gyina biribiara ano wɔ yɛn asetena mu.
-
-9 Ɛsɛ sɛ yɛda Onyankopɔn ase ma mo. Mo nti, yɛda Onyankopɔn ase sɛ moama yɛn ho asɛpɛww yɛn wɔ n’anim. 10 Daa awia ne anadwo, yefi yɛn koma nyinaa mu srɛ no sɛ, ɔmma yɛne mo nhyia na yɛmma mo nea ehia mo wɔ mo gyidi mu.
-
-11 Ɔno ara yɛn Nyankopɔn ne Agya no ankasa ne yɛn Awurade Yesu Kristo nsiesie kwan na yɛmmra mo nkyɛn. 12 Awurade mma mo dɔ mu nyɛ den mmoro so wɔ mo ho mo ho mu ne afoforo mu, sɛnea yɛn nso yɛdɔ mo no. 13 Ɔnhyɛ mo koma den a mo ho nni asɛm wɔ kronkronyɛ mu yɛn Nyankopɔn ne Agya no anim wɔ yɛn Awurade Yesu Kristo ne n’ahotefo nyinaa ba mu.
-
-
-X-X-X
-
-
-1 Anuanom, asɛm a etwa to ne sɛ, musuaa ɔkwan pa a ɛsɛ sɛ mofa so tena ase a ɛbɛsɔ Onyankopɔn ani. Na saa pɛpɛɛpɛ na morebɔ mo bra. Enti yɛde yɛn Awurade Yesu din srɛ, hyɛ mo sɛ, monyɛ mma ɛmmoro nea moreyɛ mprempren no mu. 2 Munim nkyerɛkyerɛ a ɛnam Awurade Yesu tumi nti, yetumi kyerɛkyerɛɛ mo. 3 Eyi yɛ Onyankopɔn pɛ a ɔwɔ ma mo. Ɔpɛ sɛ moyɛ kronkron na motwe mo ho fi aguamammɔ ho. 4 Ɛsɛ sɛ musua sɛnea mohyɛ mo ho so na obiara atumi ne ne yere atena kronnyɛ ne anuonyam so. 5 Monntena ase akɔnnɔ anibere so te sɛ wɔn a wonnim Onyankopɔn.
-
-6 Onyankopɔn akyide no bi nso ne sɛ, ɛnsɛ sɛ mo mu biara sisi ne yɔnko gye ne yere, efisɛ, sɛ obi yɛ saa a, Onyankopɔn bɛtwe n’aso denneenen sɛnea yɛadi kan abɔ mo kɔkɔ no. 7 Onyankopɔn amfrɛ yɛn sɛ yɛmmɛbɔ aguaman na mmom ɔfrɛɛ yɛn sɛ yɛntena ase ahotew mu. 8 Ɛno nti, obiara a ɔbɛpo nkyerɛkyerɛ no ntia onipa na mmom, otia Onyankopɔn a ɔma mo Honhom Kronkron no.
-
-9 Ɛho nhia sɛ mɛkyerɛw mo afa ɔdɔ a ɛsɛ sɛ modɔ mo nuanom asuafo no ho. Onyankopɔn akyerɛ mo ankasa ɔkwan a ɛsɛ sɛ mofa so dodɔ mo ho mo ho. 10 Na moada saa ɔdɔ no adi pɛpɛɛpɛ akyerɛ anuanom a wɔwɔ Makedonia no nyinaa. Nanso anuanom, yɛsrɛ mo sɛ monkɔ so nnodɔ mo ho mo ho mma ɛmmoro saa. 11 Momma ɛnyɛ mo botae sɛ mobɛtena ase dinn na moahwɛ so adi mo dwuma de abɔ mo ho akɔhoma sɛnea yɛaka akyerɛ mo dedaw no. 12 Sɛ moyɛ saa a, ɛbɛma wɔn a wɔnyɛ asuafo no afɛre mo na moremmisa nea ehia mo nso mfi obiara nkyɛn.
-
-13 Anuanom, yɛpɛ sɛ yɛka nokware a ɛfa wɔn a wɔawuwu no ho kyerɛ mo sɛnea ɛbɛyɛ a morenni ho awerɛhow te sɛ wɔn a wonni anidaso no. 14 Yegye di sɛ Yesu wui, na ɔsɔree bio enti yɛwɔ gyidi sɛ wɔn a wogyee Yesu dii na wowuwui no, Onyankopɔn de saa nnipa no bɛka Yesu ho.
-
-15 Awurade nkyerɛkyerɛ a yɛreka akyerɛ mo no ne sɛ, ɛda a Awurade bɛba no, yɛn a yɛte ase yi renni awufo no anim kan. 16 Awurade no ankasa de nteɛm a ɔbɔfo panyin no nso nne a Onyankopɔn torobɛnto nne ka ho fi soro bɛba fam. Wɔn a wɔawuwu wɔ Kristo mu no bɛsɔre kan, 17 na wɔaboaboa yɛn a yɛte ase bere no ne wɔn a wɔasɔre no ano wɔ omununkum mu ahyia Awurade wɔ wim. Na saa na yɛne Awurade bɛtena daa. 18 Enti, momfa saa asɛm yi nkyekye obiara werɛ.
-
-
-X-X-X
-
-1 Anuanom, ɛho nhia sɛ mɛkyerɛw akyerɛ mo nna ne bere a saa nsɛm yi besisi. 2 Efisɛ, mo ankasa munim yiye sɛ da a Awurade bɛba no bɛyɛ sɛ ɔkorɔmfo a ɔreba anadwo. 3 Bere a nnipa bɛka se, “Biribiara yɛ asomdwoe” no, saa bere no na adesɛe bɛba wɔn so. Na wɔrenguan. Ɛbɛyɛ te sɛ yaw a ɛba ɔpemfo a ɔrewo so no.
-
-4 Nanso mo anuanom yi de, monte sum mu nti ɛnsɛ sɛ saa da no fi mo mu sɛ ɔkorɔmfo. 5 Mo nyinaa moyɛ hann ne adekyee mma. Yɛnyɛ anadwo ne sum mma. 6 Ɛno nti, ɛnsɛ sɛ yɛdeda sɛ afoforo no. Ɛsɛ sɛ yɛwɛn na yɛbrɛ yɛn ho ase. 7 Anadwo na nnipa da. Anadwo na nnipa bow nsa. 8 Nanso yɛyɛ adekyee mma nti ɛsɛ sɛ yɛbrɛ yɛn ho ase. Ɛsɛ sɛ yɛhyɛ gyidi ne ɔdɔ nkatabo ne yɛn nkwagye anidaso sɛ dade kyɛw.
-
-9 Onyankopɔn anyi yɛn sɛ yemmehu amane wɔ n’abufuw ano na mmom, oyii yɛn sɛ yɛmfa Awurade Yesu Kristo 10 a owu maa yɛn no sɛnea ɛbɛyɛ a, sɛ ɔba na sɛ yɛawu o sɛ yɛte ase o, yɛne no bɛtena ase wɔ nkwa mu. 11 Esiane saa nti, monhyɛ mo ho nkuran na mommoaboa mo ho mo ho sɛnea mugu so reyɛ yi.
-
-12 Anuanom, yɛsrɛ mo sɛ, momfa obu ne nidi mma wɔn a Awurade ayi wɔn sɛ wonni mo anim nkyerɛkyerɛ mo no. 13 Esiane adwuma a wɔyɛ no nti, mummu wɔn na monnɔ wɔn yiye. Montena ase asomdwoe mu.
-
-14 Anuanom, yɛhyɛ mo sɛ, monkasa nkyerɛ anihafo, monka wɔn a wɔnyɛ hyew no hyew; mommoa wɔn a wɔyɛ mmerɛw; montɔ mo bo ase mma wɔn nyinaa. 15 Monhwɛ sɛ obi mfa bɔne a obi ayɛ no no ho ka ntua no. Bere biara, momma ɛnyɛ mo botae sɛ mobɛyɛ papa ama mo ho mo ho ne obiara.
-
-16 Momma mo ani nnye da biara 17 na bere biara nso, mommɔ mpae; 18 biribiara mu monna ase. Eyi na Onyankopɔn hwehwɛ afi mo nkyɛn wɔ Kristo Yesu mu.
-
-19 Monnka Honhom Kronkron no nnhyɛ; 20 munnsi adiyisɛm atwetwe. 21 Monsɔ biribiara nhwɛ; momfa nea eye, 22 na munkyi bɔne biara. 23 Na ɔno asomdwoe Nyankopɔn no ara ntew mo ho koraa, na ɔnhwɛ mo honhom ne mo kra ne mo nipadua so mu a ɛho remma asɛm biara yɛn Awurade Yesu Kristo ba mu. 24 Ɔnokwafo ne nea ɔfrɛɛ mo no, ɔno nso na ɔbɛyɛ.
-
-25 Anuanom, mommɔ mpae mma yɛn.
-
-26 Momfa mfewano kronkron nkyiakyia anuanom nyinaa.
-
-27 Mehyɛ mo wɔ Awurade tumi mu sɛ monkenkan saa nhoma yi nkyerɛ anuanom no nyinaa.
-
-28 Yɛn Awurade Yesu Kristo adom nka mo.
-
-
-X-X-X
-
-1 Saa nhoma yi fi Kristo Yesu somafo Paulo a Onyankopɔn pɛ nti, ɔde rebɛkyerɛ baako a yɛne Kristo Yesu ayɛ nti wahyɛ yɛn asetena ho bɔ no.
-
-2 De kɔma me ba pa Timoteo: Adom, mmɔborɔhunu ne asomdwoe mfi Agya Nyankopɔn ne yɛn Awurade Kristo Yesu nka wo.
-
-3 Meda Onyankopɔn a mede adwene mu fann som no sɛnea me mpanyimfo yɛe no ase. Daa, anadwo ne awia, mekae wo wɔ me mpaebɔ mu.
-
-4 Mekae su a wusu na mepɛ sɛ mihu wo a, na m’ani agye.
-
-5 Mekae gyidi a emu yɛ den a wowɔ. Saa ara nso na mekae gyidi a na wo nena Lois ne wo na Eunike nso wɔ. Migye di sɛ wo nso wowɔ bi saa ara.
-
-6 Eyi nti merebɔ wo nkae sɛ kae akyɛde a bere a mede me nsa guu wo so no Onyankopɔn de maa wo no. 7 Efisɛ, Honhom a Onyankopɔn de maa yɛn no mma yɛnyɛ ahufo; na mmom, Honhom no ma yɛn tumi, ɔdɔ ne ahohyɛso. 8 Mfɛre sɛ wubedi Awurade ho adanse; saa ara nso na mma me odeduani nso ho nyɛ wo fɛre. Na sɛ ɔhaw bi to wo Asɛmpa no ka ho a, gyina pintinn wɔ ahoɔden a Onyankopɔn de ama wo no mu.
-
-9 Ogyee yɛn nkwa frɛɛ yɛn sɛ yɛmmɛyɛ ne de. Ɛnyɛ biribi pa bi a yɛyɛ nti, na mmom n’adom ara kwa. Ansa na wɔrehyɛ wiase ase no, na ɔnam Kristo Yesu so kyɛɛ yɛn saa adom no 10 nanso mprempren, wɔnam Agyenkwa Kristo Yesu no ba a ɔbɛba so ada no adi akyerɛ yɛn. Watwa owu tumi so nam Asɛmpa no so ama yɛahu nkwa a enni awiei. 11 Onyankopɔn ayi me sɛ menna Asɛmpa no adi sɛ ɔsomafo ne ɔkyerɛkyerɛfo.
-
-12 Ɛnam eyinom so nti na mihu saa amane yi. Nanso meda so wɔ gyidi, efisɛ, minim nea mede me ho ato no so no na minim nso sɛ ɔbɛkora nea mede ahyɛ ne nsa no ama da no nso.
-
-13 So nokwasɛm a mekyerɛɛ wo no mu, na fa yɛ nhwɛsode di akyi, na tena gyidi ne ɔdɔ a ɛyɛ yɛn de a aka yɛne Kristo Yesu abom no mu. 14 Hwɛ nneɛma pa a wɔnam Honhom Kronkron tumi a ɛte yɛn mu so de agyaw yɛn no so yiye.
-
-15 Sɛnea wunim no, Kristofo a wofii Asia baa ha no nyinaa aguan agya me. Figelo ne Hermogene nso ka wɔn ho. 16 Awurade nhu Onisiforo fifo mmɔbɔ efisɛ, ɔhyɛɛ me nkuran mpɛn pii. N’ani anwu wɔ me ho sɛ mada afiase pɛn, 17 na oduu Roma ara pɛ, ɔbɔɔ mmɔden hwehwɛɛ me ara kosii sɛ ohuu me. 18 Awurade mmoa no na da no onnya ahummɔbɔ mfi Awurade no nkyɛn! Wunim akwan horow a ɔfaa so boaa me wɔ Efeso.
-
-
-X-X-X
-
-1 Na wo, me ba, ɛnam adom a ama yɛne Kristo Yesu ayɛ baako no nti, yɛ den. 2 Fa nsɛm a wotee sɛ mereka akyerɛ adansedifo bebree no, na fa hyɛ nnipa a wugye wɔn di na wobetumi akyerɛ afoforo nso.
-
-3 Sɛ amanehunu ba wo so a, mia w’ani tena sɛ Kristo Yesu sraani pa. 4 Obi a odi sraa no mfa ne ho nhyehyɛ afisɛm mu, efisɛ, ɔpɛ sɛ ɔsɔ ne panyin ani. 5 Saa ara nso na obi a ɔfra akansi mu a otu mmirika no rentumi nni nkonim gye sɛ odi akansi no mmara so. 6 Okuafo a wadɔw n’afuw no, ɛsɛ sɛ onya mu nnɔbae a edi kan no. 7 Dwen nsɛm a mereka yi ho efisɛ, Awurade bɛma woate biribiara ase.
-
-8 Kae Dawid aseni Yesu Kristo a wonyanee no fii awufo mu sɛnea wɔkaa no Asɛmpa a mekaa ho asɛm no mu no.
-
-9 Esiane sɛ meka Asɛmpa no nti, mihu amane; mpo, wɔagu me nkɔnsɔnkɔnsɔn sɛ ɔdebɔneyɛfo. Nanso Onyankopɔn asɛm no ngu nkɔnsɔnkɔsɔn mu; 10 na eyi nti biribiara a ɛbɛba me so no, esiane onyankopɔn nnipa a wɔayi wɔn no nri migyina ano sɛnea ɛbɛyɛ a wɔn nso benya nkwagye ne anuonyam a enni awiei a ɛwɔ Kristo Yesu mu no.
-
-11 Nsɛm a ɛsɛ sɛ wode wo ho to so ni. “Sɛ yɛne no wui a, yɛne no bɛtena ase. 12 Sɛ yetumi tena ase a, yɛne no bedi hene. Sɛ yɛpa no a, ɔno nso bɛpa yɛn. 13 Sɛ yɛnyɛ nokwafo a, ɔno de, ɔyɛ ɔnokwafo efisɛ, ɔrentumi ntwa ne ho nkontompo.”
-
-14 Monkae mo nkurɔfo wɔ eyi ho na mommɔ wɔn kɔkɔ wɔ Onyame anim sɛ wonnni wɔn ho akasakasa. Ɛmfa asɛm pa mma. Sɛ wɔyɛ saa a, ɛsɛe atiefo no adwene. 15 Bɔ mmɔden sɛ wobɛyɛ odwumayɛfo a womfɛre Onyankopɔn adwuma no yɛ ho na wokyerɛ nokware a ɛwɔ Onyankopɔn asɛm no mu no, na woafata n’anim. 16 Twe wo ho fi nsenhuhu a ɛho ntew ho efisɛ, ɛno na ɛpam nnipa fi Onyankopɔn ho. 17 Nea wɔkyerɛ no te sɛ akisikuru a edidi fa honam no ani. Saa akyerɛkyerɛfo yi mu baanu ne Himeneo ne Fileto. 18 Wɔaman afi nokware no ho na wɔka kyerɛ gyidifo bi se, yɛn wusɔre no atwam dedaw nam saa asɛm no so sɛe wɔn adwene.
-
-19 Nanso obi rentumi nhinhim fapem dennen a Onyankopɔn ato no efisɛ, wɔakyerɛw saa nsɛm yi wɔ so: “Awurade nim wɔn a wɔyɛ ne de,” na “Obiara a ɔka se ɔyɛ Awurade de no, ɛsɛ sɛ ɔtwe ne ho fi bɔne ho.” 20 Nkuku ne nkaka wɔ ofi kɛse mu. Ebi wɔ hɔ a wɔde dwetɛ na ayɛ, ebi nso wɔde sika kɔkɔɔ na ayɛ. Wɔde dua na ayɛ bi na afoforo nso wɔde dɔte. Ebi wɔ hɔ a ɛwɔ hɔ ma nnapɔnna bi na afoforo nso daa wɔde di dwuma. 21 Sɛ obi tew ne ho fi saa nneɛma bɔne no ho a, wɔde no bɛyɛ nnwuma sononko efisɛ, watu ne ho asi hɔ, asiesie ne ho ama ne wura sɛ dwuma pa biara a ɛsɛ sɛ odi no, obedi.
-
-22 Tew wo ho fi mmerantebere mu nneɛma ho na tiw nneɛma a ɛho tew akyi na di trenee, gyidi, ɔdɔ ne asomdwoe a ɛka wo ne wɔn a wofi koma pa mu bom frɛ Awurade ma ɔboa no akyi.
-
-23 Mfa wo ho nhyehyɛ nkwasea akyinnye a ɛmfa hwee mma no mu efisɛ, ɛde akasakasa ba. 24 Ɛnsɛ sɛ Awurade somfo ne obi nya akasakasa. Ɛsɛ sɛ ɔyɛ ayamye ma obiara. Ɛsɛ sɛ ɔyɛ ɔkyerɛkyerɛfo pa a ɔwɔ boasetɔ nso, 25 a sɛ wɔn a wɔne no di asi fom a, ɔtɔ ne bo ase teɛ wɔn so, sɛ ebia, Onyankopɔn bɛsakra wɔn adwene na wɔahu nokware no. 26 Na wɔn adwene mu ada hɔ na wɔaguan afi ɔbonsam a wakyere wɔn ama wɔyɛ n’apɛde no afiri mu.
-
-
-
-X-X-X
-
-1 Kae saa asɛm yi. Nna a edi akyiri no mu mmere no mu bɛyɛ den. 2 Nnipa bi bɛyɛ pɛsɛmenkominya, aniberefo, ahohiahiafo ne ahantanfo; wɔbɛyɛ abususɛmkafo, asoɔdenfo wɔ wɔn awofo so; wɔbɛyɛ bonniayɛ na wɔrempɛ nyamesom nso; 3 wɔbɛyɛ atirimmɔdenfo, wɔrenhu mmɔbɔ, wɔbɛyɛ nnipa dinsɛefo basabasa ne abufuwpɛfo, wɔbɛtan wɔn afɛfo a wɔyɛ nnipa pa no, 4 wɔbɛyɛ afatwafo, aniɔdenfo, wɔn a wɔhoran; wɔbɛpɛ anikade sen sɛ wɔdɔ Onyankopɔn. 5 Wɔbɛyɛ aniani asomfo a wɔbɛpo tumi a ɛwɔ ɔsom no mu no. Twe wo ho fi saa nnipa no ho.
-
-6 Wɔn mu bi kɔ afi mu kɔhyɛ mmea a wɔn bɔne ama wodi fɔ na akɔnnɔ ahorow bebree hyɛ wɔn so no so; 7 saa mmea no yɛ nnipa a wɔpɛ sɛ wosua biribi nanso wonhu nokware no akyi kwan. 8 Sɛnea Yane ne Yambre ne Mose dii asi no saa ara nso na saa nnipa yi ne nokware di asi, nnipa a wɔn adwene asɛe na wɔnka hwee wɔ gyidi mu.
-
-9 Wonnya nkɔso biara efisɛ, obiara behu nkwasea a wɔyɛ te sɛ Yane ne Yambre ara pɛ.
-
-10 Na wo de, woadi me nkyerɛkyerɛ, me suban ne me botae so. Woahu gyidi a mewɔ ne me boasetɔ, me dɔ, 11 taa a wɔtaa me ne m’amanehunu nyinaa. Wunim nsɛm a ɛtotoo me wɔ Antiokia, Ikoniom ne Listra, ne ɔtaa dennen a mitumi gyinaa ano no. Nanso Awurade yii me fii ne nyinaa mu. 12 Wɔn a wɔpɛ sɛ wɔne Kristo Yesu bom wɔ wɔn abrabɔ mu no, wɔbɛtaa wɔn; 13 nanso nnipa bɔne bɛkɔ so asɛe daa na wɔadaadaa afoforo ne wɔn ankasa wɔn ho.
-
-14 Nanso, wo de, kɔ so tena ase nokware mu sɛnea wɔkyerɛ wo no, na gye di yiye. Wunim wɔn a na w’akyerɛkyerɛfo no yɛ, 15 na wokae nso sɛ, efi wo mmofraase, woahu Kyerɛwsɛm no a etumi ma wo nyansa a, ɛnam gyidi a wowɔ wɔ Kristo Yesu mu no, kyerɛ wo nkwagye kwan no. 16 Kyerɛwsɛm nyinaa fi Onyankopɔn adwenemhyɛ so na eye ma nokwarekyerɛ, bɔne ho animka, mfomso soteɛ, na ɛkyerɛ asetena pa ho akwan 17 sɛnea ɛbɛyɛ a, obi a ɔsom Onyankopɔn bɛyɛ pɛ na watumi adi dwuma pa.
-
-
-
-
-X-X-X
-
-1 Migyina Onyankopɔn ne Kristo Yesu a obebu ateasefo ne awufo atɛn, nam ne ba a ɔbɛba no ne n’ahenni no a abɛn no so hyɛ wo sɛ, 2 ka asɛm no, na bere biara gyina ne ka mu dennen yi atɛn, ka anim, tu fo na kyerɛkyerɛ boasetɔ mu.
-
-3 Bere bi bɛba a nnipa rentie nkyerɛkyerɛ pa no, na mmom wobedi wɔn ara wɔn apɛde akyi na wɔaboaboa akyerɛkyerɛfo a wɔbɛka nsɛm a wɔrepɛ atie no ano, na wɔaka akyerɛ wɔn. 4 Wɔbɛpo nokware no tie, na wɔatie anansesɛm.
-
-5 Nanso mmere nyinaa mu, ɛsɛ sɛ wohwɛ wo ho so yiye. Amanehunu mu, mia w’ani. Yɛ ɔsɛmpakafo adwuma na di wo dwuma nyinaa sɛ Onyankopɔn somfo.
-
-6 Me de, bere adu sɛ wɔde me bɔ afɔre. Bere aso sɛ migyaw asetena yi. 7 Ɔko pa no, mako; mmirika no, mawie tu; gyidi no makora. 8 Ade a ɛretwɛn me mprempren ne nkonim akyɛde, trenee abotiri a Awurade a ɔyɛ trenee temmufo no de bɛma me da no; ɛnyɛ me nko na mmom wɔn a wɔtena ase ɔdɔ mu twɛn no no nyinaa.
-
-9 Bɔ mmɔden bra me nkyɛn ntɛm. 10 Dema dɔɔ nnɛ wiase yi ma ɔyɛɛ saa guan gyaw me kɔɔ Tesalonika. Kreste kɔ Galatia. Tito nso kɔɔ Dalmatia. 11 Luka nko ara na ɔne me wɔ ha. Fa Marko ka wo ho na wo ne no mmra, efisɛ, obetumi aboa me adwuma no yɛ. 12 Mesomaa Tihiko Efeso. 13 Sɛ woreba a fa m’atade a migyaw wɔ Karpo nkyɛn wɔ Troia no brɛ me. Ɛyɛ a fa me nhoma no nso ka ho, ne titiriw no, nea wɔde aboa nhoma yɛe no.
-
-14 Aleksandro, kɔbere dwumfo no, haw me papaapa; nea ɔyɛe no Awurade betua no so ka. 15 Ɛyɛ a hwɛ wo ho yiye wɔ ne ho, efisɛ, na otia nsɛm a yɛka no mu denneenen.
-
-16 Bere a mereyi me ho ano no, obiara ammoa me. Wɔn nyinaa guan gyaa me. Onyankopɔn mmfa nntia wɔn. 17 Nanso Awurade ne me tenae maa me ahoɔden ma mitumi kaa asɛm no kyerɛɛ A=manamanmufo ma wotiei. Enti wogyee me fii gyata anom. 18 Na Awurade begye me afi bɔne nyinaa mu na ɔde me akɔ soro ahenni no mu asomdwoe mu. Ɔno na anuonyam nka no daadaa. Amen.
-
-19 Kyia Priska ne Akwila ne Onesiforo fifo nyinaa ma me. 20 Erasto kaa Korinto ɛnna migyaw Trofimo wɔ Mileto, efisɛ, na ɔyare. 21 Bɔ mmɔden bra ansa na awɔw bere adu. Eubulo ne Pude ne Lino ne Klaudia ne anuanom no nyinaa kyiakyia wo.
-
-22 Awurade ne wo honhom ntena. Adom nka mo nyinaa.
-
-
-X-X-X
-
-1 Saa nhoma yi fi Paulo, Silas ne Timoteo nkyɛn. Wɔde kɔma Tesalonika asafo a wɔyɛ Agya Onyankopɔn ne Awurade Yesu Kristo nkurɔfo no:
-
-2 Adom ne asomdwoe a efi Agya Onyankopɔn ne yɛn Awurade Yesu Kristo nka mo.
-
-3 Anuanom, ɛsɛ sɛ da biara yɛda Onyankopɔn ase ma mo. Ɛsɛ sɛ yɛyɛ saa, efisɛ, mo gyidi ne ɔdɔ a modɔ afoforo no den ara na ɛreyɛ. 4 Saa nti na yɛn ankasa yɛde mo hoahoa yɛn ho wɔ Onyankopɔn asafo horow mu no. Yɛde ɔtaa ne amanehunu a mokɔ so gyina ano no hoahoa yɛn ho. 5 Eyinom nyinaa di adanse sɛ, Onyankopɔn bu atɛntrenee ɛno nti, wɔbɛkan mo afra wɔn a wɔbɛkɔ n’ahenni a morehu ho amane no mu. 6 Onyankopɔn bɛyɛ nea ɛteɛ. Wɔn a wɔbɛma mo ahu amane no, ɔno nso bɛma wɔahu amane, 7 na mo a morehu amane no ne yɛn nso, wama yɛahome. Saa asɛm yi besi wɔ bere a Awurade Yesu nam ogyaframa mu fi soro reba a n’abɔfo atumfo ka ne ho no, 8 abɛtwe wɔn a wonnim Onyankopɔn na wontie yɛn Awurade Yesu Asɛmpa no aso. 9 Wɔbɛkɔ daa ɔsɛe mu na wɔayi wɔn afi Awurade anim ne n’anuonyam mu 10 da a ɔbɛma n’akyidifo ne n’asuafo ahyɛ no anuonyam no. Mo nso, mobɛfra saa nkurɔfo no mu, efisɛ, moagye asɛm a yɛka kyerɛɛ mo no adi.
-
-11 Eyi nti na daa yɛbɔ mpae ma mo no. Yɛsrɛ Onyankopɔn sɛ ɔmma mo ntumi ntena ase mma asetena a ɛno nti ɔfrɛɛ mo no. 12 Onnyina ne tumi so mma mo tumi, nyɛ mo apɛde ne biribiara a mo gyidi bɛka akyerɛ mo sɛ monyɛ no nyinaa. 13 Yɛbɔ mpae sɛnea wɔnam yɛn Nyankopɔn ne Awurade Yesu Kristo adom so bɛhyɛ Awurade Yesu din anuonyam wɔ mo mu na mo nso, wɔahyɛ mo anuonyam wɔ ne mu.
-
-
-
-X-X-X
-
-
-1 Ɛfa yɛn Awurade Yesu Kristo ba a ɔrebɛba ne boa a wɔbɛboaboa yɛn ano akɔka ne ho no, mesrɛ mo, anuanom, 2 mommma mo adwene mu nnyɛ mo nnaa sɛ da a Awurade reba no adu. Ebia na obi rehyɛ saa nkɔm no anaa obi foforo nso gyina so reka asɛm. Anaasɛ nso wɔka se yɛn nhoma a yɛkyerɛw no bi mu na saa asɛm no wɔ. 3 Mommma obiara nnaadaa mo saa kwan yi so. Saa Da no remma da gye sɛ Adɔnyɛ a etwa to no aba ama ɔbɔnefo no a ɔbɛka daa ɔsɛe mu no ada ne ho adi. 4 Biribiara a nnipa som na wobu no kronkron no obetia mu. Ɔbɛkorɔn ne ho wɔ ne nyinaa so na wakɔtena Onyankopɔn asɔredan mu na waka se ɔno ne Onyankopɔn.
-
-5 Monkae sɛ bere a me ne mo wɔ hɔ no, na metaa ka eyinom nyinaa kyerɛ mo. 6 Nanso biribi na atwe no asɛn na sɛ bere no du a, ne ho asɛm bɛba.
-
-7 Ɔbɔnefo no di ne dwuma dedaw na nea ɛbɛba no remma da gye sɛ wayi nea okita mu no afi hɔ. 8 Ɛno ansa na ɔbɔnefo no bɛba, na Awurade Yesu nam n’anom home so betu no agu na ɔde ne ba a ɔbɛba no mu anuonyam asɛe no. 9 Ɔbɔnefo no nam ɔbonsam tumi so na ɛbɛba na wabɛyɛ anwonwade ne nsɛnkyerɛnne 10 na ɔnam bɔne so adaadaa wɔn a wɔbɛyera no. Wɔbɛyera, efisɛ, wɔannye nokware no antom, annɔ nokware no na wɔnam so anya nkwa. 11 Eyi nti, Onyankopɔn soma mfomso tumi ma ɛkɔhyɛ wɔn mu na ɛnam so ama wɔagye nsɛm a ɛnyɛ nokware adi. 12 Awiei no ara ne sɛ, wɔn a wonnye nokware no nni na wɔn ani gye bɔne ho no, wobebu wɔn atɛn.
-
-13 Anuanom, ɛsɛ sɛ bere biara yɛda Onyankopɔn ase ma mo a Awurade dɔ mo no. Efisɛ, ɛnam Honhom no tumi so na Onyankopɔn yii mo sɛ nnipa a mudi kan a wobegye mo nkwa na wɔayɛ mo Onyankopɔn nkurɔfo kronkron wɔ mo gyidi a mowɔ wɔ nokware mu no mu. 14 Onyankopɔn nam Asɛmpa no so frɛɛ mo sɛnea mo ne Awurade Yesu Kristo bɛtena n’anuonyam no mu.
-
-15 Enti, anuanom, munnyina pintinn na monka mo ho mmata nokware a yɛkyerɛɛ mo wɔ asɛnka ne yɛn nhoma no mu no.
-
-16 Yɛn Awurade Yesu Kristo no ankasa ne yɛn Agya Onyankopɔn a ɔdɔ yɛn na ɔnam n’adom mu ahyɛ yɛn daa nkuran ne anidaso pa no, 17 nkyekye mo werɛ, na ɔnhyɛ mo den asɛm ne adwuma pa nyinaa mu.
-
-
-
-
-X-X-X
-
-
-1 Anuanom, asɛm a etwa to ne sɛ, mommɔ mpae mma yɛn sɛnea ɛbɛyɛ a Awurade asɛm bɛkɔ so atrɛw ntɛm sɛnea ɛyɛe wɔ mo mu no. 2 Afei mommɔ mpae mma yɛn sɛnea ɛbɛyɛ a Onyankopɔn beyi yɛn afi abɔnefo ne nsɛmmɔnedifo nsam. Efisɛ, ɛnyɛ nnipa nyinaa na wogye asɛm no di. 3 Nanso Awurade yɛ ɔnokwafo. Ɔbɛhyɛ mo den na wagye mo afi ɔbɔnefo no nsam. 4 Awurade mma yɛn mo mu anidaso. Yɛwɔ anidaso sɛ moreyɛ na mobɛkɔ so ayɛ biribiara a yɛbɛkyerɛ mo sɛ monyɛ no.
-
-5 Awurade nka mo ho na munnya ɔdɔ koma mma Onyankopɔn ne Kristo nkuranhyɛ no.
-
-6 Anuanom, yɛhyɛ mo wɔ Awurade Yesu Kristo din mu sɛ, montwe mo ho mfi anuanom a wodi anihaw na wonni mmara a yɛahyɛ ama wɔn no so no ho. 7 Mo ankasa munim pefee sɛ ɛsɛ sɛ moyɛ nea yɛyɛe no bi pɛpɛɛpɛ. Bere a na yɛwɔ mo nkyɛn no, yɛanyɛ anihaw. 8 Obi ammoa yɛn a yɛantua onii no ka. Yɛyɛɛ adwuma denneenen. Awia ne anadwo nyinaa yɛyɛɛ adwuma sɛnea yɛremfa sikasɛm biara nhaw mo adwene. 9 Eyi nkyerɛ sɛ na yenni ho kwan sɛ yebisa mo biribi de boa yɛn asetena. Yɛyɛɛ saa de yɛɛ nhwɛso maa mo. 10 Yɛwɔ mo nkyɛn no, yɛka kyerɛɛ mo se, “Obiara a ɔmpɛ sɛ ɔyɛ adwuma no, ɛnsɛ sɛ wɔma odidi.”
-
-11 Yɛka saa asɛm yi, efisɛ, yɛte sɛ mo mu bi yɛ anihafo a wɔnyɛ hwee sɛ wɔnenam nkurɔfo nnwuma ase. 12 Yɛde Awurade Yesu Kristo din hyɛ wɔn, bɔ wɔn kɔkɔ se, wɔmmɔ bra pa na wɔnyɛ adwuma mfa mmɔ wɔn ho akɔhoma.
-
-13 Anuanom munnnyae papayɛ da.
-
-14 Obi wɔ hɔ a ɔrentie nhoma a makyerɛw abrɛ mo yi mu nsɛm. Sɛ muhu obi saa a, monhwɛ no yiye na montwe mo ho mfi ne ho na n’anim ngu ase. 15 Nanso mommfa saa onipa no sɛ ɔyɛ ɔtamfo na mmom, mommɔ no kɔkɔ sɛ mo nua. 16 Na ɔno asomdwoe Awurade no ara mma mo asomdwoe daa ade nyinaa mu. Awurade ne mo nyinaa ntena.
-
-17 Me ara me Paulo, me nsa ano nkyerɛw a menam so rekyia mo ni. Saa kwan yi ara so na mefa kyerɛw nhoma.
-
-18 Yɛn Awurade Yesu Kristo adom nka mo nyinaa.
-
-
-
-X-X-X
-
-1 Saa nhoma yi fi Onyankopɔn somfo ne Yesu Kristo somafo Paulo nkyɛn. Woyii me na wɔsomaa me sɛ memmɛboa nhyɛ nnipa a Onyankopɔn ayi wɔn no gyidi den na menkyerɛkyerɛ wɔn nokwasɛm a yɛn nyamesom 2 a ne nnyinaso gyina nkwa a enni awiei no kyerɛ no so no. Onyankopɔn a onni atoro no hyɛɛ yɛn asetena yi ho bɔ ansa na ɔrefi wiase ase; 3 na bere a ɛsɛ mu, ɔdaa no adi wɔ n’asɛnka no mu. Wɔde eyi hyɛɛ me nsa na migyina Onyankopɔn a ɔyɛ yɛn Agyenkwa hyɛ so da no adi.
-
-4 Mekyerɛw me ba Tito wɔ gyidi baako a yɛn nyinaa kita mu mu. Adom ne asomdwoe a efi Agya Nyankopɔn ne Kristo Yesu yɛn Agyenkwa no nka wo!
-
-5 Migyaw wo Kreta sɛnea ɛbɛyɛ a wobɛtoto nnɛama a aka no pɛpɛɛpɛ na wayi mpanyimfo atuatua asafo a ɛwɔ kurow biara mu no ano. 6 Kae mmara a mehyɛ maa wo no. Ɔpanyin yɛ obi a ne ho nni asɛm na ɔwɔ yere baako na ne mma yɛ gyidifo a wɔmmɔ ahohwi, na wɔnyɛ asoɔden nso.
-
-7 Ɛnsɛ sɛ mfomso biara ba ɔpanyin no ho efisɛ, Onyame adwuma hyɛ ne nsa. Ɛnsɛ sɛ ɔyɛ ɔhopɛfo, anaa obi a ne bo nkyɛ fuw anaa ɔkɔwensani anaa basabasayɛfo anaa oniberefo. 8 Ɛsɛ sɛ ɔyɛ obi a ɔpɛ ahɔhoyɛ na n’ani gye nea eye ho na n’adwenem da hɔ na ɔteɛ na ɔyɛ kronn na ɔwɔ ahohyɛso. 9 Ɛsɛ sɛ oso asɛm no mu dennen sɛnea wɔkyerɛɛ no no. Sɛ ɛba saa a, obetumi ahyɛ afoforo den wɔ saa nkyerɛkyerɛ pa no mu na wada wɔn a wotia asɛm no mu no nso mfomso adi.
-
-10 Nnipa pii wɔ hɔ a wotia na wɔnam wɔ nkwaseasɛm so daadaa afoforo, ne titiriw no, wɔn a wofi twetiatwasom no mu. 11 Ɛsɛ sɛ wosiw wɔn nkyerɛkyerɛ no ano efisɛ, wɔnam wɔn nkyerɛkyerɛ bɔne no so ma ntoto ba mmusua mu nam so de pɛ sika. 12 Kreta no ankasa a na ɔyɛ wɔn diyifo na ɔkae se, “Kretafo no yɛ atorofo, mmoa bɔne ne anihafo adidifo.” 13 Na asɛm a ɔkae no yɛ nokware. Esiane saa nti, ɛsɛ sɛ moka wɔn anim yiye sɛnea ɛbɛyɛ a wobenya gyidi pa, 14 na wɔantena ase amma twetiatwa atorosɛm ne nhyɛ a efi nnipa a wɔapo nokware no no.
-
-15 Biribiara yɛ kronn ma wɔn a wɔyɛ kronn no, nanso biribiara nyɛ kronn mma wɔn a wɔn ho agu fi na wonni gyidi, efisɛ, wɔn adwene ne wɔn atiboa ho agu fi. 16 Wɔka se wonim Onyankopɔn, nanso wɔn nneyɛe nkyerɛ saa. Wokyi wɔn, na wɔyɛ asoɔdenfo a wɔde wɔn yɛ ade pa biara a ɛnyɛ ye.
-
-
-X-X-X
-
-
-1 Nkyerɛkyerɛ a wɔbɛkyerɛkyerɛ biara no, ɛsɛ sɛ efi ɔkyerɛ pa mu. 2 Ka kyerɛ nkwakoraa na wɔmma wɔn ho nwo, wɔnyɛ anyansafo, na wɔnhyɛ wɔn ho so; wɔn gyidi mu nyɛ den, wonya ɔdɔ na wontumi ntena ɔhaw mu.
-
-3 Saa ara nso na ka kyerɛ mmerewa na wɔmmɔ ɔbra a ɛyɛ kronn. Wonnni nseku na wɔnnyɛ asadweam nso. Wɔnkyerɛ akyerɛ pa, 4 sɛnea ɛbɛyɛ a wɔnam so betumi ama mmabaa adɔ wɔn kununom ne wɔn mma, 5 ama wɔatumi ahyɛ wɔn ho so, ayɛ kronn na wɔayɛ awarefo pa a wotie wɔn kununom asɛm, na obi anka bɔne amfa Onyankopɔn asɛm no ho.
-
-6 Saa ara na hyɛ mmerante na wonya ahohyɛso. 7 Nneɛma nyinaa mu, fa wo ho yɛ nhwɛso pa wɔ nnwuma pa yɛ mu. Di nokware na ma w’ani nku wo nkyerɛkyerɛ ho. 8 Ka nsɛm a ɛho tew na obi antumi antia mu na ama atamfo ani awu sɛ wonnya asɛm bɔne nka mfa yɛn ho.
-
-9 Ɛsɛ sɛ asomfo tie wɔn wuranom na ade nyinaa mu, wɔsɔ wɔn wuranom ani. Ɛnsɛ sɛ woyiyi nsɛm ano 10 anaa wɔbɔ wɔn korɔn. Nea ɛsɛ sɛ wɔyɛ ne sɛ, bere nyinaa mu, ɛsɛ sɛ wɔyɛ papa na wodi nokware na ɛnam so ma biribiara a wɔyɛ no de anuonyamhyɛ aba nkyerɛkyerɛ a ɛfa Onyankopɔn a ɔyɛ yɛn Agyenkwa no ho.
-
-11 Onyankopɔn ada n’adom a egye nnipa nyinaa nkwa no adi. 12 Na adom no kyerɛ yɛn sɛ, yɛmpa asetena a ɛho ntew no ne wiase akɔnnɔ akyi na yɛntena ase ahohyɛso, kronnyɛ, onyamesuro mu wɔ wiase ha, 13 bere a yɛretwɛn adom da a yɛn ani da so a yɛn tumfo Onyankopɔn ne yɛn Agyenkwa Yesu Kristo no anuonyam bɛda adi no. 14 Ɔde ne ho maa yɛn de gyee yɛn fii bɔne mu ama yɛayɛ kronn a yɛyɛ ne nko de a yɛpɛ papayɛ.
-
-15 Kyerɛkyerɛ saa nneɛma yi na gyina wo tumi so hyɛ w’atiefo nkuran, ka wɔn anim. Mma wɔn mu bi mmnu wo abomfiaa.
-
-
-X-X-X
-
-
-1 Kae wo nkurɔfo na wɔmmrɛ wɔn ho ase nhyɛ mpanyin ne tumi ase na wontie wɔn na wonsiesie wɔn ho mma adepa yɛ. 2 Ka kyerɛ wɔn se wɔnnka asɛmmɔne mmfa obi ho na mmom wonnwo brɛoo na daa wonyi ɔdɔ adi nkyerɛ nnipa nyinaa.
-
-3 Kan no, na yɛn ankasa yɛyɛ nkwaseafo, asoɔdenfo, ne abɔnefo. Na yɛyɛ akɔnnɔ ne anigye horow nkoa. Yɛsɛee yɛn abrabɔ wɔ bɔne ne anibere ho. Afoforo tan yɛn maa yɛn nso yɛtan wɔn.
-
-4 Nanso bere a yɛn Agyenkwa Onyankopɔn ayamye ne ne dɔ daa adi no, 5 ogyee yɛn nkwa. Ɛnyɛ nnwuma pa bi a yɛayɛ nti, na mmom, ɔnam n’ahummɔbɔ mu ahohoro yɛn ho, agye yɛn nkwa, ama Honhom Kronkron no awo yɛn foforo ama yɛn nkwa foforo. 6 Onyankopɔn nam Yesu Kristo a ɔyɛ yɛn Agyenkwa no so ahwie Honhom Kronkron no agu yɛn so 7 sɛnea ɛbɛyɛ a’ n’adom nti, ɔbɛka yɛn ne Onyankopɔn abom na ɛnam so ma yɛanya nkwa a enni awiei a yɛn ani da so no. 8 Eyi yɛ nokwasɛm. Mepɛ sɛ wuti saa asɛm yi mu yiye na ama wɔn a wogye Onyankopɔn di no ahu sɛ, ɛsɛ sɛ wɔde wɔn bere di dwuma pa. Eyinom nyinaa ye na ɛho wɔ mfaso ma nnipa.
-
-9 Nanso munnnye nkwasea akyinnye. Saa ara nso na monnto ana, nkasakasa, nko wɔ mmara so. Ɛho nni mfaso biara. 10 Obi a ɔde mpaepaemu ba no, bɔ no kɔkɔ na ɛno akyi tew wo ho fi ne ho. 11 Ɛsɛ sɛ wuhu sɛ obi a ɔte saa no asɛe, na bɔne a ɔyɛ no da adi wɔ ne ho.
-
-12 Sɛ mesoma Artema anaa Tihiko wo nkyɛn a, bɔ mmɔden bra me nkyɛn wɔ Nikopoli, na ɛhɔ na mabɔ me tirim sɛ mɛtena awɔw bere no. 13 Bɔ mmɔden gya ɔmmaranimfo Sena ne Apolo kwan yiye na anhia wɔn hwee. 14 Ma yɛn nkurɔfo no nsua sɛnea wɔde wɔn adagyew yɛ nnwuma pa de boa. Ɛnsɛ sɛ wɔtena ase kwa.
-
-15 Wɔn a wɔne me wɔ ha nyinaa kyiakyia wo. Kyia wɔn a wɔdɔ yɛn wɔ gyidi mu ma yɛn. Adom nka mo nyinaa.
+#####   2  Yohane    #####
 
 
 X-X-X
@@ -1357,33 +1507,3 @@ X-X-X
 12 Mewɔ nsɛm pii ka kyerɛ mo, nanso meremfa krataa ne kyerɛwduru so nka. Na mmom, mɛba nipadua so abɛkasa akyerɛ mo, na moani agye.
 
 13 Wo nuabea a wɔayi no no mma no kyia wo.
-
-
-
-X-X-X
-
-1 Yesu Kristo somfo Yuda a ɔyɛ Yakobo ne nua na ɔkyerɛw krataa yi. De kɔmaa wɔn a Onyankopɔn afrɛ wɔn na wɔte Agya Onyankopɔn dɔ ne Yesu Kristo banbɔ mu.
-
-2 Mmɔborɔhunu ne ɔdɔ a ɛdɔɔso nka mo.
-
-3 Me nnamfonom, na merebɔ mmɔden akyerɛw mo afa nkwagye a yɛn nyinaa te mu no ho. Nanso ɛsɛ sɛ mekyerɛw mo wɔ asɛm foforo ho na moyere mo ho gyina nokware a Onyankopɔn de ama ne nkurɔfo afebɔɔ a ɛnsɛ sɛ wɔsesa mu nna nyinaa no akyi pintinn. 4 Nnipa bi awiawia wɔn ho abɛfra yɛn mu, a wɔkyea asɛm a ɛfa yɛn Nyankopɔn adom no ho, yi wɔn ho ano wɔ wɔn bɔne ho, nam so po Yesu Kristo a ɔno nko ara na ɔyɛ Wura ne yɛn Awurade no. Kyerɛwsɛm no aka wɔn afobu a aba wɔn so no ho asɛm dedaw.
-
-5 Ɛwom sɛ munim eyinom dedaw, nanso mepɛ sɛ mekae mo adwene wɔ ogye a Awurade gyee Israelfo fii Misraim asase so na akyiri yi, ɔsɛee wɔn a na wonnye asɛm no nni no ho. 6 Monkae abɔfo a na wɔtra wɔn tumi na wogyaw wɔn atenae no. Woguu wɔn nkɔnsɔnkɔnsɔn wɔ sum kabii mu a Onyankopɔn de wɔn asie retwɛn da kɛse no na wabu wɔn atɛn. 7 Monkae Sodom ne Gomora ne nkurow a na atwa wɔn ho ahyia no sɛ, na emu nnipa no yɛ aguamanfo, na wɔde wɔn agu ogya a ennum da no mu, de retwe wɔn aso de abɔ obiara kɔkɔ.
-
-8 Saa nnipa no nam saa kwan koro no ara so soso dae ma wɔyɛ bɔne tia wɔn nipadua. Wɔtew Onyankopɔn tumi atua, na wɔayaw anuonyamfo a wɔwɔ soro no. 9 Ɔbɔfo panyin Mikael mpo nyɛɛ saa da. Bere a Mikael ne ɔbonsam repere Mose amu so a akasakasa sii wɔn ntam no mpo, wantew ɔbonsam atua, na mmom asɛm a ɔkae ara ne sɛ, “Awurade nka w’anim.” 10 Nanso saa nnipa yi tew nneɛma a wɔnte ase ho atua. Na nneɛma a wonim kwa sɛ nkekaboa no, saa nneɛma koro no ara na ɛsɛe wɔn.
-
-11 Wonnue! Ɔkwan a Kain faa so no ara so na wɔnam. Sikanibere nti, wɔde wɔn ho ahyɛ mfomso a Bileam yɛe no bi ase. Wɔayɛ dɔm sɛnea Kora yɛɛ dɔm no nam so ma wɔasɛe wɔn sɛ ɔno.
-
-12 Wɔte sɛ nkekae fi a ɛwɔ wo nua aduan a ɔne wo di mu a wɔmfɛre ho. Wɔn ani ku wɔn ara wɔn ho. Na wɔte sɛ omununkum a esi na mframa bɔ no nanso osu ntɔ. Wɔte sɛ nnua a ɛnsow aba asusow mu. Wɔte sɛ nnua a wɔatutu ne ntini ama awu koraa.
-
-13 Wɔte sɛ ɛpo asorɔkye a ano yɛ den a, wɔn aniwude a wɔyɛ no huru sɛ ahuru. Wɔte sɛ okyin nsoromma, a Onyankopɔn de wɔn asie esum kabii mu afebɔɔ.
-
-14 Henok, Adam aseni a ɔto no so asia na ɔhyɛɛ saa nnipa yi ho nkɔm teteete se, “Hwɛ, Awurade ne n’abɔfo Kronkron mpempem bɛba, 15 na wɔabebu mo nyinaa atɛn na wɔabu nnebɔneyɛfo nyinaa atɛn wɔ wɔn bɔne a wɔayɛ ne nsɛm a wɔaka atia Onyankopɔn no ho.” 16 Bere biara, saa nnipa yi nwiinwii na wɔde so nso to afoforo so. Wodi wɔn akɔnnɔ akyi. Wɔhoahoa wɔn ho na wotu afoforo aso sɛnea ɛbɛyɛ a wɔbɛba abedi wɔn akyi.
-
-17 Me nnamfonom, monkae. Monkae nsɛm a tete no asomafo no ka faa Awurade Yesu Krsito ho. 18 Wɔkae se, “Sɛ awiei no du a, nnipa a wodi mo ho fɛw bɛba, wɔn a wodi wɔn akɔnnɔ akyi.” 19 Eyinom ne nnipa a wɔnam wɔn akɔnnɔ so de mpaepaemu ba no. Na wonni Honhom no wɔ wɔn mu.
-
-20 Enti mo a moyɛ me nnamfonom, mitu mo fo sɛ, monkɔ so mmia mo gyidi mu. Mommɔ mpae wɔ Honhom Kronkron no tumi mu, 21 na montena Onyankopɔn dɔ mu bere a moretwɛn yɛn Awurade Yesu Krsito wɔ n’ahummɔbɔ mu ama wama mo nkwa a enni awiei no.
-
-22 Munhu akyinnyegyefo mmɔbɔ. 23 Montwe wɔn mfi ogya mu nnye wɔn nkwa. Momfa suro nhu ebinom mmɔbɔ, na munkyi atade a bɔne nkekae akeka mu.
-
-24 Na nea obetumi aso mo mu na moanhintiw, na ɔde mo asi n’anuonyam anim sɛ nnipa a wonni dɛm wɔ ahosan mu no, 25 Onyankopɔn koro a ɔnam yɛn Awurade Yesu Kristo so yɛ yɛn Agyenkwa no, ɔno na anuonyam ne kɛseyɛ ne ahoɔden ne tumi nka no mmere a atwam ne nnɛ ne daa nyinaa. Amen.
